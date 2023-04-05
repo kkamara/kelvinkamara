@@ -1,5 +1,5 @@
 export default {
-    basename: '/materially', // only at build time to set, like ///able-pro/react/default
+    basename: '/kelvinkamara', // only at build time to set, like ///able-pro/react/default
     rtlLayout: false,
     i18n: 'en',
     jwt: {
