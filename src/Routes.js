@@ -7,6 +7,8 @@ import NavMotion from './layout/NavMotion';
 import MainLayout from './layout/MainLayout';
 import MinimalLayout from './layout/MinimalLayout';
 
+import LoginModal from './views/LoginModal'
+
 const AuthLogin = lazy(() => import('./views/Login'));
 
 const Price = lazy(() => import('./views/Application/Price/Price2'));
@@ -26,6 +28,8 @@ const Routes = () => {
     const location = useLocation();
 
     return (
+        <>
+        {true ? <LoginModal /> : null}
         <AnimatePresence>
             <Suspense fallback={<Loader />}>
                 <Switch>
@@ -238,6 +242,7 @@ const Routes = () => {
                 </Switch>
             </Suspense>
         </AnimatePresence>
+        </>
     );
 };
 

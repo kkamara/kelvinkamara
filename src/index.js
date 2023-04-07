@@ -11,6 +11,11 @@ import config from './config';
 import './assets/scss/style.scss';
 import * as serviceWorker from './serviceWorker';
 
+import $ from'jquery'
+import Popper from'popper.js'
+import 'bootstrap/dist/css/bootstrap.min.css'
+import 'bootstrap/dist/js/bootstrap.bundle.min'
+
 const store = createStore(reducer);
 
 ReactDOM.render(
