@@ -1,5 +1,6 @@
 import React from 'react';
 import Modal from 'react-modal';
+import { GoogleLogin } from '@react-oauth/google';
 
 const customStyles = {
   content: {
@@ -27,6 +28,14 @@ function LoginModal() {
     e.preventDefault()
   }
 
+  const responseMessage = (response) => {
+    console.log(response);
+  };
+  
+  const errorMessage = (error) => {
+      console.log(error);
+  };
+
   return (
     <div>
       <Modal
@@ -37,6 +46,7 @@ function LoginModal() {
         contentLabel="Login"
       >
         <form onSubmit={submitForm}>
+          <GoogleLogin onSuccess={responseMessage} onError={errorMessage} />
           <div className="form-group">
             <label htmlFor="test">Test</label>
             <input 

@@ -16,14 +16,18 @@ import Popper from'popper.js'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.bundle.min'
 
+import { GoogleOAuthProvider } from '@react-oauth/google'
+
 const store = createStore(reducer);
 
 ReactDOM.render(
-    <Provider store={store}>
-        <BrowserRouter basename={config.basename}>
-            <App />
-        </BrowserRouter>
-    </Provider>,
+    <GoogleOAuthProvider clientId="900577447575-chnn3od0mtrepikfe7jkmla78cgc6e8t.apps.googleusercontent.com">
+        <Provider store={store}>
+            <BrowserRouter basename={config.basename}>
+                <App />
+            </BrowserRouter>
+        </Provider>
+    </GoogleOAuthProvider>,
     document.getElementById('root')
 );
 
