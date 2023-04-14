@@ -11,13 +11,17 @@
 
 ## Planning notes
 
-key: * volume ~ sound
-* mid - high ~ [YT2mp3.info] - Late Night ✨ Lofi Hip Hop Beats - Music to Relax_Study_Work to _ Chill Lofi Mix (32kbps)
-* highest ~ [YT2mp3.info] - ASMR_ distant crows in super relaxing forest (32kbps)
-* mid - high ~ [YT2mp3.info] - Autumn Sounds - Raven Bird Calls & Wind - 3 Hours - Pure Nature Ambience (32kbps)
-* x4 mid - high ~ [YT2mp3.info] - Tropical Thunderstorm & Rain Sounds For Sleeping, Relaxing _ Rumbling Storm Equatorial Ambience (32kbps)
-* it's loudest relatively, low ~ [YT2mp3.info] - 500 BPM - Metronome (32kbps)
-* it's loudest relatively ~ [YT2mp3.info] - Relaxing Music _ Calming Background Music for Relaxation and Stress Relief (32kbps)
+```
+core
+[YT2mp3.info] - Relaxing Sleep ISOCHRONIC Theta Waves - Deep SLEEP Music, Fall ASLEEP Fast [BLACK SCREEN at 10 min] (32kbps).mp3 volume 100
+Y2Mate.is - 1 Hour No Tapping Plaster Clay Cracking Compilation  No talking ASMR-gayNbQsXb_I-144p-1655226858407.mp4 volume 60
+[YT2mp3.info] - Rumbling Semi Truck Sleep Sound - 10 Hours - Black Screen (32kbps).mp3 volume 55
+[YT2mp3.info] - ADHD Relief Music_ Multi Layered Pulse Music for Studying and Focus (32kbps).mp3 volume 100
+
+extra
+ptsd-healing.mp3 volume 65 x8
+[YT2mp3.info] - The most annoying sound 1 hour (32kbps).mp3 volume 45 x8
+```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
