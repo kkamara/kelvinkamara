@@ -12,11 +12,13 @@
 ## Planning notes
 
 ```
+primary sound option
+[YT2mp3.info] - ADHD Relief Music_ Multi Layered Pulse Music for Studying and Focus (32kbps).mp3 volume 100
+
 core
 [YT2mp3.info] - Relaxing Sleep ISOCHRONIC Theta Waves - Deep SLEEP Music, Fall ASLEEP Fast [BLACK SCREEN at 10 min] (32kbps).mp3 volume 100
 Y2Mate.is - 1 Hour No Tapping Plaster Clay Cracking Compilation  No talking ASMR-gayNbQsXb_I-144p-1655226858407.mp4 volume 60
 [YT2mp3.info] - Rumbling Semi Truck Sleep Sound - 10 Hours - Black Screen (32kbps).mp3 volume 55
-[YT2mp3.info] - ADHD Relief Music_ Multi Layered Pulse Music for Studying and Focus (32kbps).mp3 volume 100
 
 extra
 ptsd-healing.mp3 volume 65 x8
