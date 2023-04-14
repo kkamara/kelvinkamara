@@ -23,6 +23,11 @@ Y2Mate.is - 1 Hour No Tapping Plaster Clay Cracking Compilation  No talking ASMR
 extra
 ptsd-healing.mp3 volume 65 x8
 [YT2mp3.info] - The most annoying sound 1 hour (32kbps).mp3 volume 45 x8
+
+for occasional use
+[YT2mp3.info] - 600 BPM - Metronome (32kbps).mp3
+yt5s.io - Rainforest Rain Sounds for Sleeping or Studying 🌧️ White Noise Rainstorm 10 Hours (128 kbps).mp3
+
 ```
 
 ## Contributing
