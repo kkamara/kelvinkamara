@@ -13,6 +13,9 @@
 ## Design notes
 
 ```
+Volume slider
+https://codepen.io/emilcarlsson/pen/PPNLPy
+
 Audio player repeat
 https://codepen.io/vanderzak/pen/BayjVep
 https://codepen.io/RodenKerthin/pen/JjNKQVB
