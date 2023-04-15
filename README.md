@@ -22,7 +22,9 @@ https://codepen.io/NitrogenFlux/pen/GzpYvZ
 https://codepen.io/manpreet/pen/BKvzGx
 
 Video player repeat
---
+https://codepen.io/liquidvisual/pen/WzgMyZ
+https://codepen.io/bdougherty/pen/oLZRXM
+https://codepen.io/wesbos/pen/bqEEEX
 ```
 
 ## Planning notes
