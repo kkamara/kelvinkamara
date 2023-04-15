@@ -9,6 +9,21 @@
 * [Desktop 2023](https://raw.githubusercontent.com/kkamara/useful/main/desktop-2023.png)
 * [Desktop 2023 extra](https://github.com/kkamara/useful/commit/a9e620925598c945ad71501388dc615f4b381d33)
 
+
+## Design notes
+
+```
+Audio player repeat
+--
+
+Online offline status
+https://codepen.io/NitrogenFlux/pen/GzpYvZ
+https://codepen.io/manpreet/pen/BKvzGx
+
+Video player repeat
+--
+```
+
 ## Planning notes
 
 ```
