@@ -14,7 +14,8 @@
 
 ```
 Audio player repeat
---
+https://codepen.io/vanderzak/pen/BayjVep
+https://codepen.io/RodenKerthin/pen/JjNKQVB
 
 Online offline status
 https://codepen.io/NitrogenFlux/pen/GzpYvZ
