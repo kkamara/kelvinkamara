@@ -33,22 +33,9 @@ https://codepen.io/wesbos/pen/bqEEEX
 ## Planning notes
 
 ```
-primary sound option
 [YT2mp3.info] - ADHD Relief Music_ Multi Layered Pulse Music for Studying and Focus (32kbps).mp3 volume 100
-
-core
-[YT2mp3.info] - Relaxing Sleep ISOCHRONIC Theta Waves - Deep SLEEP Music, Fall ASLEEP Fast [BLACK SCREEN at 10 min] (32kbps).mp3 volume 100
-Y2Mate.is - 1 Hour No Tapping Plaster Clay Cracking Compilation  No talking ASMR-gayNbQsXb_I-144p-1655226858407.mp4 volume 60
-[YT2mp3.info] - Rumbling Semi Truck Sleep Sound - 10 Hours - Black Screen (32kbps).mp3 volume 55
-
-extra
-ptsd-healing.mp3 volume 65 x8
-[YT2mp3.info] - The most annoying sound 1 hour (32kbps).mp3 volume 45 x8
-
-for occasional use
-[YT2mp3.info] - 600 BPM - Metronome (32kbps).mp3
-yt5s.io - Rainforest Rain Sounds for Sleeping or Studying 🌧️ White Noise Rainstorm 10 Hours (128 kbps).mp3
-
+[YT2mp3.info] - Rumbling Semi Truck Sleep Sound - 10 Hours - Black Screen (32kbps).mp3 volume 100
+[YT2mp3.info] - ASMR Loud and Aggressive Triggers That Change Every 10 Seconds On Loop (32kbps).mp3 volume 70 x5
 ```
 
 ## Contributing
