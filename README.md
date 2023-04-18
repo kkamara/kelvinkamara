@@ -33,8 +33,8 @@ https://codepen.io/wesbos/pen/bqEEEX
 ## Planning notes
 
 ```
-[YT2mp3.info] - Rumbling Semi Truck Sleep Sound - 10 Hours - Black Screen (32kbps).mp3 volume 55
-[YT2mp3.info] - ASMR Loud and Aggressive Triggers That Change Every 10 Seconds On Loop (32kbps).mp3 volume 50 x5
+[YT2mp3.info] - Rumbling Semi Truck Sleep Sound - 10 Hours - Black Screen (32kbps).mp3 volume 20
+[YT2mp3.info] - ASMR Loud and Aggressive Triggers That Change Every 10 Seconds On Loop (32kbps).mp3 volume 20 x5
 ```
 
 ## Contributing
