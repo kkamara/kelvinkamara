@@ -34,7 +34,7 @@ https://codepen.io/wesbos/pen/bqEEEX
 
 ```
 Y2Mate.is - Learn Business English Conversation for the Office and Workplace-k_ofXhe_tEY-48k-1657374297780.mp3 volume 100
-[YT2mp3.info] - Rumbling Semi Truck Sleep Sound - 10 Hours - Black Screen (32kbps).mp3 volume 40
+[YT2mp3.info] - Rumbling Semi Truck Sleep Sound - 10 Hours - Black Screen (32kbps).mp3 volume 45
 [YT2mp3.info] - ASMR Loud and Aggressive Triggers That Change Every 10 Seconds On Loop (32kbps).mp3 volume 40 x5
 ```
 
