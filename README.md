@@ -41,6 +41,7 @@ bells x8
 [YT2mp3.info] - Tropical Rainstorm Sounds for Sleeping _ Rain Drops Sound for Relaxation & Sleep (32kbps).mp3
 [YT2mp3.info] - The most annoying sound 1 hour (32kbps).mp3
 Y2Mate.is - 1 Hour No Tapping Plaster Clay Cracking Compilation  No talking ASMR-gayNbQsXb_I-144p-1655226858407.mp4 x2
+[YT2mp3.info] - Laugh Track Sound Effect (32kbps).mp3
 ```
 
 ## Contributing
