@@ -33,15 +33,12 @@ https://codepen.io/wesbos/pen/bqEEEX
 ## Planning notes
 
 ```
-X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop Background Noise-(144p).mp4
+playlist: SPEECH BLOCKERS • Masking Noises For Open Space Office Use (https://www.youtube.com/playlist?list=PLVqXBrTZueIZFgGC-fc4wxh7eYTL5TKBZ)
+within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop Background Noise-(144p).mp4
 capital fm
 talksport
 talksport2
-bells x8
-[YT2mp3.info] - Tropical Rainstorm Sounds for Sleeping _ Rain Drops Sound for Relaxation & Sleep (32kbps).mp3
-[YT2mp3.info] - The most annoying sound 1 hour (32kbps).mp3
-Y2Mate.is - 1 Hour No Tapping Plaster Clay Cracking Compilation  No talking ASMR-gayNbQsXb_I-144p-1655226858407.mp4 x2
-[YT2mp3.info] - Laugh Track Sound Effect (32kbps).mp3
+[YT2mp3.info] - ASMR_ One hour teeth tapping _ (32kbps).mp3 x2
 ```
 
 ## Contributing
