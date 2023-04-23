@@ -37,9 +37,9 @@ https://codepen.io/wesbos/pen/bqEEEX
 ```
 playlist: SPEECH BLOCKERS • Masking Noises For Open Space Office Use (https://www.youtube.com/playlist?list=PLVqXBrTZueIZFgGC-fc4wxh7eYTL5TKBZ)
 within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop Background Noise-(144p).mp4
-volume 70 ^
-[YT2mp3.info] - ASMR_ One hour teeth tapping _ (32kbps).mp3 x2 volume high (145)
-[YT2mp3.info] - 600 BPM - Metronome (32kbps).mp3 volume 35
+volume 100 ^
+[YT2mp3.info] - ASMR_ One hour teeth tapping _ (32kbps).mp3 x2 volume high (140, 145)
+[YT2mp3.info] - 600 BPM - Metronome (32kbps).mp3 volume 50
 recommended music options:
 - capital fm London
 - talksport
