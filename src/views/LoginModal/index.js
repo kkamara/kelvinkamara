@@ -1,6 +1,8 @@
 import React from 'react';
 import Modal from 'react-modal';
 import { GoogleLogin } from '@react-oauth/google';
+import axios from 'axios'
+import jwt_decode from "jwt-decode";
 
 const customStyles = {
   content: {
@@ -28,8 +30,15 @@ function LoginModal() {
     e.preventDefault()
   }
 
-  const responseMessage = (response) => {
+  const responseMessage = async (response) => {
     console.log(response);
+    /* decode token */
+    // https://medium.com/@OloriAsabi/google-oauth2-using-the-new-google-identity-services-sdk-for-react-using-jwt-decode-d687d2e05aa2
+    const userObject = jwt_decode(response.credential);
+    //console.log(userObject);
+    localStorage.setItem('user', JSON.stringify(userObject));
+    const { name, sub, picture } = userObject;
+    console.log(name, sub, picture)
   };
   
   const errorMessage = (error) => {
@@ -65,7 +74,7 @@ function LoginModal() {
           </button>
           <input 
             type='submit' 
-            className='btn btn-primary' 
+            className='btn btn-success' 
             onClick={submitForm}
             value='Submit'
           />
