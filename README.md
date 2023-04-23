@@ -39,8 +39,8 @@ volume 100 ^
 capital fm London
 talksport
 talksport2
-[YT2mp3.info] - ASMR_ One hour teeth tapping _ (32kbps).mp3 x2 volume high (120, 115)
-[YT2mp3.info] - 600 BPM - Metronome (32kbps).mp3 volume 55
+[YT2mp3.info] - ASMR_ One hour teeth tapping _ (32kbps).mp3 x2 volume high (175)
+[YT2mp3.info] - 600 BPM - Metronome (32kbps).mp3 volume 65
 ```
 
 ## Contributing
