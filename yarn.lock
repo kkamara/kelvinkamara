@@ -7745,10 +7745,10 @@ jws@^4.0.0:
     jwa "^2.0.0"
     safe-buffer "^5.0.1"
 
-jwt-decode@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.npmjs.org/jwt-decode/-/jwt-decode-3.0.0.tgz"
-  integrity sha512-RBQv2MTm3FNKQkdzhEyQwh5MbdNgMa+FyIJIK5RMWEn6hRgRHr7j55cRxGhRe6vGJDElyi6f6u/yfkP7AoXddA==
+jwt-decode@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/jwt-decode/-/jwt-decode-3.1.2.tgz#3fb319f3675a2df0c2895c8f5e9fa4b67b04ed59"
+  integrity sha512-UfpWE/VZn0iP50d8cz9NrZLM9lSWhcJ+0Gt/nm4by88UL+J1SiKN8/5dkjMmbEzwL2CAe+67GsegCbIKtbp75A==
 
 keycode@^2.1.7:
   version "2.2.0"
@@ -10560,11 +10560,6 @@ react-scrollbar@^0.5.6:
     config "^1.24.0"
     line-height "^0.1.1"
     react-motion "^0.5.2"
-
-react-social-login-buttons@^3.6.1:
-  version "3.6.1"
-  resolved "https://registry.yarnpkg.com/react-social-login-buttons/-/react-social-login-buttons-3.6.1.tgz#77e5c33ac6610a29071e2ad688ef585871120763"
-  integrity sha512-DIz30W+C147s7wxwt8zgwjx5pE+gTJwtUzTNKpKZO3bEY06eLjcY1zvZ8h35hQd1Yjd7b4rLkeuZBwlLURYIfg==
 
 react-sortable-tree@^2.7.1:
   version "2.8.0"
