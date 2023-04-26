@@ -34,17 +34,18 @@ https://codepen.io/wesbos/pen/bqEEEX
 
 <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/7a9d19582078b79d38bb5f1514847e35.gif" alt="7a9d19582078b79d38bb5f1514847e35.gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/eed1e1fb46beb07cb967c8c7b98faf799738ae47_00.gif" alt="eed1e1fb46beb07cb967c8c7b98faf799738ae47_00.gif" width="200"/> <img src="https://raw.githubusercontent.com/kkamara/kelvinkamara/main/src/assets/images/theme/how-to-choose-a-pest-control-company.webp" alt="how-to-choose-a-pest-control-company.webp" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/inspector-lunge-lunge%20(1).gif" alt="inspector-lunge-lunge%20(1).gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/inspector-lunge-lunge.gif" alt="inspector-lunge-lunge.gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/lunge-detective-lunge.gif" alt="lunge-detective-lunge.gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/monster-anime.gif" alt="monster-anime.gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/pest-control-sign-778440.png" alt="pest-control-sign-778440.png" width="200"/>
 
-```
-playlist: SPEECH BLOCKERS • Masking Noises For Open Space Office Use (https://www.youtube.com/playlist?list=PLVqXBrTZueIZFgGC-fc4wxh7eYTL5TKBZ)
-within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop Background Noise-(144p).mp4
-volume 100 ^
-[YT2mp3.info] - ASMR_ One hour teeth tapping _ (32kbps).mp3 x2 volume high (140, 145)
-[YT2mp3.info] - 600 BPM - Metronome (32kbps).mp3 volume 50
+~~playlist: SPEECH BLOCKERS • Masking Noises For Open Space Office Use (https://www.youtube.com/playlist?list=PLVqXBrTZueIZFgGC-fc4wxh7eYTL5TKBZ)
+within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop Background Noise-(144p).mp4~~
+
+[YT2mp3.info] - ASMR for Anger _ → _ (calming you down, breathing, soft spoken) (32kbps).mp3 x8 volume highest
+
+[YT2mp3.info] - ASMR_ One hour teeth tapping _ (32kbps).mp3 x2 volume highest
+
 recommended music options:
 - capital fm London
+- rinse fm
 - talksport
 - talksport2
-```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
