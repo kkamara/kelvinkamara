@@ -39,8 +39,6 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 [YT2mp3.info] - ASMR for Anger _ → _ (calming you down, breathing, soft spoken) (32kbps).mp3 x8 volume highest
 
-[YT2mp3.info] - ASMR_ One hour teeth tapping _ (32kbps).mp3 x2 volume highest
-
 recommended music options:
 - [YT2mp3.info] - ADHD Relief Music_ Multi Layered Pulse Music for Studying and Focus (32kbps).mp3
 - capital fm London
