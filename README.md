@@ -37,11 +37,13 @@ https://codepen.io/wesbos/pen/bqEEEX
 ~~playlist: SPEECH BLOCKERS • Masking Noises For Open Space Office Use (https://www.youtube.com/playlist?list=PLVqXBrTZueIZFgGC-fc4wxh7eYTL5TKBZ)
 within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop Background Noise-(144p).mp4~~
 
-[YT2mp3.info] - Laugh Track Sound Effect (32kbps).mp3 x7 volume 100
+[YT2mp3.info] - The most annoying sound 1 hour (32kbps).mp3 volume 30
 
-[YT2mp3.info] - The most annoying sound 1 hour (32kbps).mp3 volume 100
+Y2Mate.is - 1 Hour No Tapping Plaster Clay Cracking Compilation  No talking ASMR-gayNbQsXb_I-144p-1655226858407.mp4 x2 volume 50, 60
 
-Y2Mate.is - 1 Hour No Tapping Plaster Clay Cracking Compilation  No talking ASMR-gayNbQsXb_I-144p-1655226858407.mp4 x2 volume 100
+Y2Mate.is - ASMR Ultimate Tapping - The Best Tapping Triggers For Sleep and Tingles (ASMR No Talking)-TSKBeSI9rv0-48k-1658230606016.mp3 x5 volume 100
+
+yt5s.io - Rainforest Rain Sounds for Sleeping or Studying 🌧️ White Noise Rainstorm 10 Hours (128 kbps).mp3 volume 100
 
 recommended music options:
 - [YT2mp3.info] - Late Night ✨ Lofi Hip Hop Beats - Music to Relax_Study_Work to _ Chill Lofi Mix (32kbps).mp3
