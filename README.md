@@ -39,18 +39,22 @@ https://codepen.io/wesbos/pen/bqEEEX
 * Times fm
 
 * playlist: SPEECH BLOCKERS • Masking Noises For Open Space Office Use (https://www.youtube.com/playlist?list=PLVqXBrTZueIZFgGC-fc4wxh7eYTL5TKBZ)
-within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop Background Noise-(144p).mp4 x8 volume 70
+within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop Background Noise-(144p).mp4 x7 volume 80
 
-* ptsd-healing.mp3 volume 100
+* ptsd-healing.mp3 x5 volume 100
 
-recommended music options:
+Offline mode
+
+* [YT2mp3.info] - Late Night ✨ Lofi Hip Hop Beats - Music to Relax_Study_Work to _ Chill Lofi Mix (32kbps).mp3 volume 100
+* Y2Mate.is - Learn Business English Conversation for the Office and Workplace-k_ofXhe_tEY-48k-1657374297780.mp3 x3 volume 100
+
+Recommended music options:
 
 - 3.2hz Delta Brain Waves _ Rem Sleep Music _ Relaxing Music To Help You Sleep _ Dream Sleep Hypnosis (64 kbps).mp3
 - [YT2mp3.info] - Relaxing Sleep ISOCHRONIC Theta Waves - Deep SLEEP Music, Fall ASLEEP Fast [BLACK SCREEN at 10 min] (32kbps).mp3
 - [YT2mp3.info] - Relaxing Music for Stress Relief _ Calming Piano Music (32kbps).mp3
 - Y2Mate.is - ASMR Ultimate Tapping - The Best Tapping Triggers For Sleep and Tingles (ASMR No Talking)-TSKBeSI9rv0-48k-1658230606016.mp3
 - yt5s.io - Rainforest Rain Sounds for Sleeping or Studying 🌧️ White Noise Rainstorm 10 Hours (128 kbps).mp3
-- [YT2mp3.info] - Late Night ✨ Lofi Hip Hop Beats - Music to Relax_Study_Work to _ Chill Lofi Mix (32kbps).mp3
 - [YT2mp3.info] - ADHD Relief Music_ Multi Layered Pulse Music for Studying and Focus (32kbps).mp3
 - capital fm London
 - rinse fm
