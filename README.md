@@ -43,13 +43,14 @@ Online mode
 Engine / Core
 
 * playlist: SPEECH BLOCKERS • Masking Noises For Open Space Office Use (https://www.youtube.com/playlist?list=PLVqXBrTZueIZFgGC-fc4wxh7eYTL5TKBZ)
-within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop Background Noise-(144p).mp4 x7 volume 80
+within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop Background Noise-(144p).mp4 x7 volume 55
 
-* ptsd-healing.mp3 x5 volume 100
+* ptsd-healing.mp3 x5 volume 70
 
 Offline mode
 
 * [YT2mp3.info] - Late Night ✨ Lofi Hip Hop Beats - Music to Relax_Study_Work to _ Chill Lofi Mix (32kbps).mp3 volume 100
+
 * Y2Mate.is - Learn Business English Conversation for the Office and Workplace-k_ofXhe_tEY-48k-1657374297780.mp3 x3 volume 100
 
 Recommended music options:
