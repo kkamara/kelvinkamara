@@ -43,9 +43,9 @@ Online mode
 Engine / Core
 
 * playlist: SPEECH BLOCKERS • Masking Noises For Open Space Office Use (https://www.youtube.com/playlist?list=PLVqXBrTZueIZFgGC-fc4wxh7eYTL5TKBZ)
-within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop Background Noise-(144p).mp4 x7 volume 55
+within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop Background Noise-(144p).mp4 x7 volume 85
 
-* ptsd-healing.mp3 x5 volume 70
+* ptsd-healing.mp3 x5 volume 100
 
 Offline mode
 
