@@ -49,7 +49,8 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 Offline mode
 
-* [YT2mp3.info] - Late Night ✨ Lofi Hip Hop Beats - Music to Relax_Study_Work to _ Chill Lofi Mix (32kbps).mp3 volume 100
+* Game Center - 90's Chill Lofi - [chill lo-fi hip hop beats].mp4
+
 * Y2Mate.is - Learn Business English Conversation for the Office and Workplace-k_ofXhe_tEY-48k-1657374297780.mp3 x3 volume 100
 
 Recommended music options:
@@ -60,15 +61,17 @@ Recommended music options:
 
 * Times fm
 
-- capital fm London
+- Capital fm London
 
-- rinse fm
+- Rinse fm
 
-- talksport
+- Talksport
 
-- talksport2
+- Talksport2
 
 Recommended music options 2:
+
+* [YT2mp3.info] - Late Night ✨ Lofi Hip Hop Beats - Music to Relax_Study_Work to _ Chill Lofi Mix (32kbps).mp3
 
 - 3.2hz Delta Brain Waves _ Rem Sleep Music _ Relaxing Music To Help You Sleep _ Dream Sleep Hypnosis (64 kbps).mp3
 
