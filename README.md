@@ -34,37 +34,53 @@ https://codepen.io/wesbos/pen/bqEEEX
 
 <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/7a9d19582078b79d38bb5f1514847e35.gif" alt="7a9d19582078b79d38bb5f1514847e35.gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/eed1e1fb46beb07cb967c8c7b98faf799738ae47_00.gif" alt="eed1e1fb46beb07cb967c8c7b98faf799738ae47_00.gif" width="200"/> <img src="https://raw.githubusercontent.com/kkamara/kelvinkamara/main/src/assets/images/theme/how-to-choose-a-pest-control-company.webp" alt="how-to-choose-a-pest-control-company.webp" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/inspector-lunge-lunge%20(1).gif" alt="inspector-lunge-lunge%20(1).gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/inspector-lunge-lunge.gif" alt="inspector-lunge-lunge.gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/lunge-detective-lunge.gif" alt="lunge-detective-lunge.gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/monster-anime.gif" alt="monster-anime.gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/pest-control-sign-778440.png" alt="pest-control-sign-778440.png" width="200"/>
 
-Online mode
-
-* Classic fm
-
-* Times fm
-
 Engine / Core
 
-* playlist: SPEECH BLOCKERS • Masking Noises For Open Space Office Use (https://www.youtube.com/playlist?list=PLVqXBrTZueIZFgGC-fc4wxh7eYTL5TKBZ)
-within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop Background Noise-(144p).mp4 x7 volume 85
+* ~~playlist: SPEECH BLOCKERS • Masking Noises For Open Space Office Use (https://www.youtube.com/playlist?list=PLVqXBrTZueIZFgGC-fc4wxh7eYTL5TKBZ)
+within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop Background Noise-(144p).mp4 x7 volume 85~~
 
-* ptsd-healing.mp3 x5 volume 100 (toggle)
+* ~~ptsd-healing.mp3 x5 volume 100 (toggle)~~
+
+* [YT2mp3.info] - Relaxing Sleep ISOCHRONIC Theta Waves - Deep SLEEP Music, Fall ASLEEP Fast [BLACK SCREEN at 10 min] (32kbps).mp3 volume 100
+
+* [YT2mp3.info] - ASMR 999% Sensitive Whispering in Your Ears _ (32kbps).mp3 x6 volume 100
+
+* [YT2mp3.info] - Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study (32kbps).mp3 x5 volume 100
 
 Offline mode
 
 * [YT2mp3.info] - Late Night ✨ Lofi Hip Hop Beats - Music to Relax_Study_Work to _ Chill Lofi Mix (32kbps).mp3 volume 100
-
 * Y2Mate.is - Learn Business English Conversation for the Office and Workplace-k_ofXhe_tEY-48k-1657374297780.mp3 x3 volume 100
 
 Recommended music options:
 
-- 3.2hz Delta Brain Waves _ Rem Sleep Music _ Relaxing Music To Help You Sleep _ Dream Sleep Hypnosis (64 kbps).mp3
-- [YT2mp3.info] - Relaxing Sleep ISOCHRONIC Theta Waves - Deep SLEEP Music, Fall ASLEEP Fast [BLACK SCREEN at 10 min] (32kbps).mp3
-- [YT2mp3.info] - Relaxing Music for Stress Relief _ Calming Piano Music (32kbps).mp3
-- Y2Mate.is - ASMR Ultimate Tapping - The Best Tapping Triggers For Sleep and Tingles (ASMR No Talking)-TSKBeSI9rv0-48k-1658230606016.mp3
-- yt5s.io - Rainforest Rain Sounds for Sleeping or Studying 🌧️ White Noise Rainstorm 10 Hours (128 kbps).mp3
-- [YT2mp3.info] - ADHD Relief Music_ Multi Layered Pulse Music for Studying and Focus (32kbps).mp3
+* Classic fm
+
+* Lbc fm
+
+* Times fm
+
 - capital fm London
+
 - rinse fm
+
 - talksport
+
 - talksport2
+
+Recommended music options 2:
+
+- 3.2hz Delta Brain Waves _ Rem Sleep Music _ Relaxing Music To Help You Sleep _ Dream Sleep Hypnosis (64 kbps).mp3
+
+- [YT2mp3.info] - Relaxing Sleep ISOCHRONIC Theta Waves - Deep SLEEP Music, Fall ASLEEP Fast [BLACK SCREEN at 10 min] (32kbps).mp3
+
+- [YT2mp3.info] - Relaxing Music for Stress Relief _ Calming Piano Music (32kbps).mp3
+
+- Y2Mate.is - ASMR Ultimate Tapping - The Best Tapping Triggers For Sleep and Tingles (ASMR No Talking)-TSKBeSI9rv0-48k-1658230606016.mp3
+
+- yt5s.io - Rainforest Rain Sounds for Sleeping or Studying 🌧️ White Noise Rainstorm 10 Hours (128 kbps).mp3
+
+- [YT2mp3.info] - ADHD Relief Music_ Multi Layered Pulse Music for Studying and Focus (32kbps).mp3
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
