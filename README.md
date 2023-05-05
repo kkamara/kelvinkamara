@@ -55,6 +55,8 @@ Offline mode
 
 Recommended music options:
 
+* LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS-VM)
+
 * Classic fm
 
 * Lbc fm
