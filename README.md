@@ -53,7 +53,7 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 Switch
 
-* yt5s.io - 250 BPM - Metronome (128 kbps).mp3 volume 85
+* yt5s.io - 250 BPM - Metronome (128 kbps).mp3 volume 45
 
 * [YT2mp3.info] - Bell Metronome _ 250 BPM - Beats Per Minute (128kbps).mp3 volume 70
 
