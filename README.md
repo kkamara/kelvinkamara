@@ -41,11 +41,21 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * ~~ptsd-healing.mp3 x5 volume 100 (toggle)~~
 
-* [YT2mp3.info] - Relaxing Sleep ISOCHRONIC Theta Waves - Deep SLEEP Music, Fall ASLEEP Fast [BLACK SCREEN at 10 min] (32kbps).mp3 volume 100
+* Some primary talking / conversation
+
+* [YT2mp3.info] - Relaxing Sleep ISOCHRONIC Theta Waves - Deep SLEEP Music, Fall ASLEEP Fast [BLACK SCREEN at 10 min] (32kbps).mp3 volume 85
 
 * [YT2mp3.info] - ASMR 999% Sensitive Whispering in Your Ears _ (32kbps).mp3 x6 volume 100
 
-* [YT2mp3.info] - Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study (32kbps).mp3 x5 volume 100
+* [YT2mp3.info] - Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study (32kbps).mp3 x5 volume 65
+
+* [YT2mp3.info] - The most annoying sound 1 hour (32kbps).mp3 volume 45
+
+Switch
+
+* yt5s.io - 250 BPM - Metronome (128 kbps).mp3 volume 85
+
+* [YT2mp3.info] - Bell Metronome _ 250 BPM - Beats Per Minute (128kbps).mp3 volume 70
 
 Offline mode
 
