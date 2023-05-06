@@ -2,7 +2,7 @@
 
 # kelvinkamara
 
-(05-04-23) Soundscape, background noise.
+(05-04-23) Soundscape.
 
 ## More
 
