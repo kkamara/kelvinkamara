@@ -34,7 +34,7 @@ https://codepen.io/wesbos/pen/bqEEEX
 
 <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/7a9d19582078b79d38bb5f1514847e35.gif" alt="7a9d19582078b79d38bb5f1514847e35.gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/eed1e1fb46beb07cb967c8c7b98faf799738ae47_00.gif" alt="eed1e1fb46beb07cb967c8c7b98faf799738ae47_00.gif" width="200"/> <img src="https://raw.githubusercontent.com/kkamara/kelvinkamara/main/src/assets/images/theme/how-to-choose-a-pest-control-company.webp" alt="how-to-choose-a-pest-control-company.webp" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/inspector-lunge-lunge%20(1).gif" alt="inspector-lunge-lunge%20(1).gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/inspector-lunge-lunge.gif" alt="inspector-lunge-lunge.gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/lunge-detective-lunge.gif" alt="lunge-detective-lunge.gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/monster-anime.gif" alt="monster-anime.gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/pest-control-sign-778440.png" alt="pest-control-sign-778440.png" width="200"/>
 
-Engine / Core
+### Engine / Core
 
 * ~~playlist: SPEECH BLOCKERS • Masking Noises For Open Space Office Use (https://www.youtube.com/playlist?list=PLVqXBrTZueIZFgGC-fc4wxh7eYTL5TKBZ)
 within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop Background Noise-(144p).mp4 x7 volume 85~~
@@ -51,19 +51,19 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * [YT2mp3.info] - The most annoying sound 1 hour (32kbps).mp3 volume 45
 
-Switch
+#### Switch
 
 * yt5s.io - 250 BPM - Metronome (128 kbps).mp3 volume 45
 
 * [YT2mp3.info] - Bell Metronome _ 250 BPM - Beats Per Minute (128kbps).mp3 volume 70
 
-Offline mode
+### Offline mode
 
 * Game Center - 90's Chill Lofi - [chill lo-fi hip hop beats].mp4
 
 * Y2Mate.is - Learn Business English Conversation for the Office and Workplace-k_ofXhe_tEY-48k-1657374297780.mp3 x3 volume 100
 
-Recommended music options:
+### Recommended music options:
 
 * LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS-VM)
 
@@ -81,7 +81,7 @@ Recommended music options:
 
 - Talksport2
 
-Recommended music options 2:
+### Recommended music options 2:
 
 * [YT2mp3.info] - Late Night ✨ Lofi Hip Hop Beats - Music to Relax_Study_Work to _ Chill Lofi Mix (32kbps).mp3
 
