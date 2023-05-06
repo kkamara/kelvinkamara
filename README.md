@@ -43,29 +43,19 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * Some primary talking / conversation
 
-* [YT2mp3.info] - Relaxing Sleep ISOCHRONIC Theta Waves - Deep SLEEP Music, Fall ASLEEP Fast [BLACK SCREEN at 10 min] (32kbps).mp3 volume 85
+* Some primary music / sound
 
-* [YT2mp3.info] - ASMR 999% Sensitive Whispering in Your Ears _ (32kbps).mp3 x6 volume 100
+* Best of American Trucks - Peterbilt, Mack, Freightliner, Kenworth Compilation Sound (https://www.youtube.com/watch?v=9oVHkoWzGuM) x2 volume 50
 
-* [YT2mp3.info] - Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study (32kbps).mp3 x5 volume 65
-
-* [YT2mp3.info] - The most annoying sound 1 hour (32kbps).mp3 volume 45
-
-#### Switch
-
-* yt5s.io - 250 BPM - Metronome (128 kbps).mp3 volume 45
-
-* [YT2mp3.info] - Bell Metronome _ 250 BPM - Beats Per Minute (128kbps).mp3 volume 70
+* LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS-VM) volume 15
 
 ### Offline mode
 
-* Game Center - 90's Chill Lofi - [chill lo-fi hip hop beats].mp4
+* [YT2mp3.info] - Late Night ✨ Lofi Hip Hop Beats - Music to Relax_Study_Work to _ Chill Lofi Mix (32kbps).mp3
 
 * Y2Mate.is - Learn Business English Conversation for the Office and Workplace-k_ofXhe_tEY-48k-1657374297780.mp3 x3 volume 100
 
 ### Recommended music options:
-
-* LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS-VM)
 
 * Classic fm
 
@@ -81,21 +71,21 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 - Talksport2
 
-### Recommended music options 2:
+* yt5s.io - 250 BPM - Metronome (128 kbps).mp3 volume 45
 
-* [YT2mp3.info] - Late Night ✨ Lofi Hip Hop Beats - Music to Relax_Study_Work to _ Chill Lofi Mix (32kbps).mp3
-
-- 3.2hz Delta Brain Waves _ Rem Sleep Music _ Relaxing Music To Help You Sleep _ Dream Sleep Hypnosis (64 kbps).mp3
+* [YT2mp3.info] - Bell Metronome _ 250 BPM - Beats Per Minute (128kbps).mp3 volume 70
 
 - [YT2mp3.info] - Relaxing Sleep ISOCHRONIC Theta Waves - Deep SLEEP Music, Fall ASLEEP Fast [BLACK SCREEN at 10 min] (32kbps).mp3
 
-- [YT2mp3.info] - Relaxing Music for Stress Relief _ Calming Piano Music (32kbps).mp3
+### Recommended music options 2:
 
 - Y2Mate.is - ASMR Ultimate Tapping - The Best Tapping Triggers For Sleep and Tingles (ASMR No Talking)-TSKBeSI9rv0-48k-1658230606016.mp3
 
 - yt5s.io - Rainforest Rain Sounds for Sleeping or Studying 🌧️ White Noise Rainstorm 10 Hours (128 kbps).mp3
 
 - [YT2mp3.info] - ADHD Relief Music_ Multi Layered Pulse Music for Studying and Focus (32kbps).mp3
+
+* Game Center - 90's Chill Lofi - [chill lo-fi hip hop beats].mp4
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
