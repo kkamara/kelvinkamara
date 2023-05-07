@@ -47,17 +47,17 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * ~~ptsd-healing.mp3 x5 volume 100 (toggle)~~
 
-* Some primary talking / conversation (optional) volume highest
+* Some primary talking / conversation (optional) volume 100
 
-* Some primary music / sound volume mid
+* Some primary music / sound volume 50
 
-* New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming (https://www.youtube.com/watch?v=7HhfE2UlWb0) volume 15
+* New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming (https://www.youtube.com/watch?v=7HhfE2UlWb0) volume 40
 
-* LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS-VM) volume 15
+* LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS-VM) volume 40
 
-* The most annoying sound 1 hour x4 (https://www.youtube.com/watch?v=YwlUQhy0iI4) volume 45
+* The most annoying sound 1 hour x4 (https://www.youtube.com/watch?v=YwlUQhy0iI4) volume 40
 
-* Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study x8 repeatedly (https://www.youtube.com/watch?v=eKFTSSKCzWA) volume 90
+* Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study x8 repeatedly (https://www.youtube.com/watch?v=eKFTSSKCzWA) volume 70
 
 * Learn Business English Conversation for the Office and Workplace https://www.youtube.com/watch?v=k_ofXhe_tEY) x4 volume 100
 
