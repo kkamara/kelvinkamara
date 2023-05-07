@@ -36,6 +36,8 @@ https://codepen.io/wesbos/pen/bqEEEX
 
 https://ukradiolive.com/embed-radio
 
+https://garfnet.org.uk/cms/tables/radio-frequencies/internet-radio-player/
+
 ### Engine / Core
 
 * ~~playlist: SPEECH BLOCKERS • Masking Noises For Open Space Office Use (https://www.youtube.com/playlist?list=PLVqXBrTZueIZFgGC-fc4wxh7eYTL5TKBZ)
