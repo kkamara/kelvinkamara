@@ -57,11 +57,11 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study x8 repeatedly (https://www.youtube.com/watch?v=eKFTSSKCzWA) volume 75
 
-* Y2Mate.is - Learn Business English Conversation for the Office and Workplace-k_ofXhe_tEY-48k-1657374297780.mp3 x4 volume 100
+* Learn Business English Conversation for the Office and Workplace https://www.youtube.com/watch?v=k_ofXhe_tEY) x4 volume 100
 
 ### Offline mode
 
-* [YT2mp3.info] - Late Night ✨ Lofi Hip Hop Beats - Music to Relax_Study_Work to _ Chill Lofi Mix (32kbps).mp3
+* Late Night ✨ Lofi Hip Hop Beats - Music to Relax/Study/Work to | Chill Lofi Mix (https://www.youtube.com/watch?v=QHnxYvE3cJg) volume mid
 
 ### Recommended music options:
 
