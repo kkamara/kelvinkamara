@@ -55,7 +55,7 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * The most annoying sound 1 hour x4 (https://www.youtube.com/watch?v=YwlUQhy0iI4) volume 45
 
-* Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study x8 repeatedly (https://www.youtube.com/watch?v=eKFTSSKCzWA) volume 75
+* Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study x8 repeatedly (https://www.youtube.com/watch?v=eKFTSSKCzWA) volume 90
 
 * Learn Business English Conversation for the Office and Workplace https://www.youtube.com/watch?v=k_ofXhe_tEY) x4 volume 100
 
