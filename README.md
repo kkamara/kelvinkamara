@@ -45,13 +45,15 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * ~~ptsd-healing.mp3 x5 volume 100 (toggle)~~
 
-* Some primary talking / conversation
+* Some primary talking / conversation (optional)
 
 * Some primary music / sound
 
-* Best of American Trucks - Peterbilt, Mack, Freightliner, Kenworth Compilation Sound (https://www.youtube.com/watch?v=9oVHkoWzGuM) x2 volume 50
+* New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming (https://www.youtube.com/watch?v=7HhfE2UlWb0)
 
-* LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS-VM) volume 15
+* LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS-VM)
+
+* The most annoying sound 1 hour x4 (https://www.youtube.com/watch?v=YwlUQhy0iI4)
 
 ### Offline mode
 
