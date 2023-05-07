@@ -55,6 +55,8 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * The most annoying sound 1 hour x4 (https://www.youtube.com/watch?v=YwlUQhy0iI4)
 
+* Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study x8 (https://www.youtube.com/watch?v=eKFTSSKCzWA)
+
 ### Offline mode
 
 * [YT2mp3.info] - Late Night ✨ Lofi Hip Hop Beats - Music to Relax_Study_Work to _ Chill Lofi Mix (32kbps).mp3
