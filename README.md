@@ -45,23 +45,23 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * ~~ptsd-healing.mp3 x5 volume 100 (toggle)~~
 
-* Some primary talking / conversation (optional)
+* Some primary talking / conversation (optional) volume highest
 
-* Some primary music / sound
+* Some primary music / sound volume mid
 
-* New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming (https://www.youtube.com/watch?v=7HhfE2UlWb0)
+* New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming (https://www.youtube.com/watch?v=7HhfE2UlWb0) volume 15
 
-* LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS-VM)
+* LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS-VM) volume 15
 
-* The most annoying sound 1 hour x4 (https://www.youtube.com/watch?v=YwlUQhy0iI4)
+* The most annoying sound 1 hour x4 (https://www.youtube.com/watch?v=YwlUQhy0iI4) volume 45
 
-* Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study x8 (https://www.youtube.com/watch?v=eKFTSSKCzWA)
+* Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study x8 repeatedly (https://www.youtube.com/watch?v=eKFTSSKCzWA) volume 75
+
+* Y2Mate.is - Learn Business English Conversation for the Office and Workplace-k_ofXhe_tEY-48k-1657374297780.mp3 x4 volume 100
 
 ### Offline mode
 
 * [YT2mp3.info] - Late Night ✨ Lofi Hip Hop Beats - Music to Relax_Study_Work to _ Chill Lofi Mix (32kbps).mp3
-
-* Y2Mate.is - Learn Business English Conversation for the Office and Workplace-k_ofXhe_tEY-48k-1657374297780.mp3 x3 volume 100
 
 ### Recommended music options:
 
