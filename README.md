@@ -65,7 +65,9 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study x8 repeatedly (https://www.youtube.com/watch?v=eKFTSSKCzWA) volume 70
 
-* Learn Business English Conversation for the Office and Workplace https://www.youtube.com/watch?v=k_ofXhe_tEY) x4 volume 100
+* Learn Business English Conversation for the Office and Workplace (https://www.youtube.com/watch?v=k_ofXhe_tEY) x4 volume 100
+
+* ASMR Loud and Aggressive Triggers That YOU Chose (https://www.youtube.com/watch?v=-TWeyJ765_Y) volume high
 
 ### Offline mode
 
