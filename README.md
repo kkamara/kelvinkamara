@@ -46,7 +46,7 @@ https://ukradiolive.com/embed-radio
 
 https://garfnet.org.uk/cms/tables/radio-frequencies/internet-radio-player/
 
-* Some primary talking / conversation (optional) (multiple option) (repeatedly option) volume 100 / max
+* User's primary talking / conversation (optional) (repeatedly option) volume 100 / max
 
 ### Engine / Core
 
