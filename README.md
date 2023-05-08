@@ -36,6 +36,10 @@ https://codepen.io/wesbos/pen/bqEEEX
 
 https://www.youtube.com/@SensationmusicBlack/playlists
 
+https://developers.google.com/youtube/player_parameters
+
+https://smashballoon.com/how-to-embed-youtube-playlist-in-wordpress/
+
 https://ukradiolive.com/embed-radio
 
 https://garfnet.org.uk/cms/tables/radio-frequencies/internet-radio-player/
