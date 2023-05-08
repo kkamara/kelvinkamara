@@ -48,7 +48,7 @@ https://ukradiolive.com/embed-radio
 
 https://garfnet.org.uk/cms/tables/radio-frequencies/internet-radio-player/
 
-* User's primary talking / conversation (optional) (repeatedly option) volume 100 / max
+* User's primary talking / talking radio / conversation (optional) (repeatedly option) volume loudest
 
 ### Engine / Core
 
@@ -57,19 +57,19 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * ~~ptsd-healing.mp3 x5 volume 100 (toggle)~~
 
-* Some primary music / sound volume 50
+* Some primary music / music radio / sound volume 25 low / mid / high
 
-* New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming (https://www.youtube.com/watch?v=7HhfE2UlWb0) volume 40
+* New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming (https://www.youtube.com/watch?v=7HhfE2UlWb0) volume 25
 
-* LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS-VM) volume 40
+* LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS-VM) volume 25
 
-* The most annoying sound 1 hour x4 (https://www.youtube.com/watch?v=YwlUQhy0iI4) volume 40
+* The most annoying sound 1 hour x4 (https://www.youtube.com/watch?v=YwlUQhy0iI4) volume 45
 
-* Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study x8 repeatedly (https://www.youtube.com/watch?v=eKFTSSKCzWA) volume 70
+* Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study x8 (repeatedly option) (https://www.youtube.com/watch?v=eKFTSSKCzWA) volume 70
 
 * Learn Business English Conversation for the Office and Workplace (https://www.youtube.com/watch?v=k_ofXhe_tEY) x4 volume 100
 
-* ASMR Loud and Aggressive Triggers That YOU Chose (https://www.youtube.com/watch?v=-TWeyJ765_Y) volume high
+* ASMR Loud and Aggressive Triggers That YOU Chose (https://www.youtube.com/watch?v=-TWeyJ765_Y) volume 55
 
 ### Offline mode
 
