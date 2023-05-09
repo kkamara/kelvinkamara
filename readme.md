@@ -9,6 +9,9 @@
 * [Desktop 2023](https://raw.githubusercontent.com/kkamara/useful/main/desktop-2023.png)
 * [Desktop 2023 extra](https://github.com/kkamara/useful/commit/a9e620925598c945ad71501388dc615f4b381d33)
 
+I recommend working with Amazon Alexa speakers e.g. Echo Dot.
+
+note: when working with Apple systems and eqMac sound booster I recommend using automatic boosting settings rather than manual tuning. I have over six months experience with that software.
 
 ## Design notes
 
