@@ -68,11 +68,7 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * Some primary music / music radio / sound volume 70 mid high
 
-* New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming (https://www.youtube.com/watch?v=7HhfE2UlWb0) volume 75
-
-* LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS-VM) volume 75
-
-* ASMR Loud and Aggressive Triggers That Change Every 10 Seconds On Loop (https://www.youtube.com/watch?v=ZSGs0eDGNVo) x4 volume 90
+* ASMR for Anger 😡 → 😇 (calming you down, breathing, soft spoken) (https://www.youtube.com/watch?v=3srk4ugU3CI) x16 volume 100
 
 #### Offline mode
 
