@@ -72,17 +72,13 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 #### Offline mode
 
-* Late Night ✨ Lofi Hip Hop Beats - Music to Relax/Study/Work to | Chill Lofi Mix (https://www.youtube.com/watch?v=QHnxYvE3cJg)
-
-OR latest dnb track from https://www.youtube.com/@SensationmusicBlack/playlists
+* Latest dnb track from https://www.youtube.com/@SensationmusicBlack/playlists
 
 #### Recommended music options:
 
 * Classic fm
 
 * Lbc fm
-
-* Times fm
 
 - Capital fm London
 
@@ -91,24 +87,6 @@ OR latest dnb track from https://www.youtube.com/@SensationmusicBlack/playlists
 - Talksport
 
 - Talksport2
-
-* yt5s.io - 250 BPM - Metronome (128 kbps).mp3 volume 45
-
-* [YT2mp3.info] - Bell Metronome _ 250 BPM - Beats Per Minute (128kbps).mp3 volume 70
-
-- [YT2mp3.info] - Relaxing Sleep ISOCHRONIC Theta Waves - Deep SLEEP Music, Fall ASLEEP Fast [BLACK SCREEN at 10 min] (32kbps).mp3
-
-- Y2Mate.is - ASMR Ultimate Tapping - The Best Tapping Triggers For Sleep and Tingles (ASMR No Talking)-TSKBeSI9rv0-48k-1658230606016.mp3
-
-- yt5s.io - Rainforest Rain Sounds for Sleeping or Studying 🌧️ White Noise Rainstorm 10 Hours (128 kbps).mp3
-
-- [YT2mp3.info] - ADHD Relief Music_ Multi Layered Pulse Music for Studying and Focus (32kbps).mp3
-
-* Game Center - 90's Chill Lofi - [chill lo-fi hip hop beats].mp4
-
-* The most annoying sound 1 hour x4 (https://www.youtube.com/watch?v=YwlUQhy0iI4)
-
-* Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study x8 (repeatedly option) (https://www.youtube.com/watch?v=eKFTSSKCzWA) volume 75
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
