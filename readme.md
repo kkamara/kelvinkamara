@@ -15,6 +15,10 @@ note: when working with Apple systems and eqMac sound booster I recommend using 
 
 ## Design notes
 
+https://mui.com/material-ui/material-icons/
+
+https://fontawesome.com/icons
+
 ```
 Volume slider
 https://codepen.io/emilcarlsson/pen/PPNLPy
