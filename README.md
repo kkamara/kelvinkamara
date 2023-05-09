@@ -34,6 +34,8 @@ https://codepen.io/wesbos/pen/bqEEEX
 
 <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/7a9d19582078b79d38bb5f1514847e35.gif" alt="7a9d19582078b79d38bb5f1514847e35.gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/eed1e1fb46beb07cb967c8c7b98faf799738ae47_00.gif" alt="eed1e1fb46beb07cb967c8c7b98faf799738ae47_00.gif" width="200"/> <img src="https://raw.githubusercontent.com/kkamara/kelvinkamara/main/src/assets/images/theme/how-to-choose-a-pest-control-company.webp" alt="how-to-choose-a-pest-control-company.webp" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/inspector-lunge-lunge%20(1).gif" alt="inspector-lunge-lunge%20(1).gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/inspector-lunge-lunge.gif" alt="inspector-lunge-lunge.gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/lunge-detective-lunge.gif" alt="lunge-detective-lunge.gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/monster-anime.gif" alt="monster-anime.gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/pest-control-sign-778440.png" alt="pest-control-sign-778440.png" width="200"/>
 
+Volumes 60 and 65 are good volumes to listen.
+
 User's saved volume templates.
 
 Choose from Kelvin's saved volume templates.
@@ -48,7 +50,7 @@ https://ukradiolive.com/embed-radio
 
 https://garfnet.org.uk/cms/tables/radio-frequencies/internet-radio-player/
 
-* User's primary talking / talking radio / conversation (optional) (repeatedly option) volume loudest
+* User's primary listening speech / talking radio / conversation (optional) (repeatedly option) volume loudest
 
 #### Engine / Core
 
@@ -57,23 +59,19 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * ~~ptsd-healing.mp3 x5 volume 100 (toggle)~~
 
-* Some primary music / music radio / sound volume 30 low / mid / high
+* Some primary music / music radio / sound volume 65 mid high
 
-* New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming (https://www.youtube.com/watch?v=7HhfE2UlWb0) volume 25
+* New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming (https://www.youtube.com/watch?v=7HhfE2UlWb0) volume 65
 
-* LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS-VM) volume 25
+* LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS-VM) volume 65
 
-* The most annoying sound 1 hour x4 (https://www.youtube.com/watch?v=YwlUQhy0iI4) volume 50
-
-* Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study x8 (repeatedly option) (https://www.youtube.com/watch?v=eKFTSSKCzWA) volume 75
-
-* Learn Business English Conversation for the Office and Workplace (https://www.youtube.com/watch?v=k_ofXhe_tEY) x4 volume 100
-
-* ASMR Loud and Aggressive Triggers That YOU Chose (https://www.youtube.com/watch?v=-TWeyJ765_Y) volume 55
+* ASMR Loud and Aggressive Triggers That Change Every 10 Seconds On Loop (https://www.youtube.com/watch?v=ZSGs0eDGNVo) x4 volume 75
 
 #### Offline mode
 
 * Late Night ✨ Lofi Hip Hop Beats - Music to Relax/Study/Work to | Chill Lofi Mix (https://www.youtube.com/watch?v=QHnxYvE3cJg) volume mid
+
+OR latest dnb track from https://www.youtube.com/@SensationmusicBlack/playlists
 
 #### Recommended music options:
 
@@ -97,8 +95,6 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 - [YT2mp3.info] - Relaxing Sleep ISOCHRONIC Theta Waves - Deep SLEEP Music, Fall ASLEEP Fast [BLACK SCREEN at 10 min] (32kbps).mp3
 
-#### Recommended music options 2:
-
 - Y2Mate.is - ASMR Ultimate Tapping - The Best Tapping Triggers For Sleep and Tingles (ASMR No Talking)-TSKBeSI9rv0-48k-1658230606016.mp3
 
 - yt5s.io - Rainforest Rain Sounds for Sleeping or Studying 🌧️ White Noise Rainstorm 10 Hours (128 kbps).mp3
@@ -106,6 +102,10 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 - [YT2mp3.info] - ADHD Relief Music_ Multi Layered Pulse Music for Studying and Focus (32kbps).mp3
 
 * Game Center - 90's Chill Lofi - [chill lo-fi hip hop beats].mp4
+
+* The most annoying sound 1 hour x4 (https://www.youtube.com/watch?v=YwlUQhy0iI4)
+
+* Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study x8 (repeatedly option) (https://www.youtube.com/watch?v=eKFTSSKCzWA) volume 75
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
