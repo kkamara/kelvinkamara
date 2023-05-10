@@ -47,16 +47,6 @@ User's saved volume templates.
 
 Choose from Kelvin's saved volume templates.
 
-https://www.youtube.com/@SensationmusicBlack/playlists
-
-https://developers.google.com/youtube/player_parameters
-
-https://smashballoon.com/how-to-embed-youtube-playlist-in-wordpress/
-
-https://ukradiolive.com/embed-radio
-
-https://garfnet.org.uk/cms/tables/radio-frequencies/internet-radio-player/
-
 * User's primary listening speech / talking radio / conversation (optional) (repeatedly option) volume loudest
 
 #### Engine / Core
@@ -74,9 +64,9 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS-VM) volume 45
 
-#### Offline mode
+#### Listening options
 
-* Latest dnb track from https://www.youtube.com/@SensationmusicBlack/playlists
+* Coming soon.
 
 #### Recommended music options:
 
@@ -91,6 +81,18 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 - Talksport
 
 - Talksport2
+
+#### APIs
+
+* https://www.youtube.com/@SensationmusicBlack/playlists
+
+* https://developers.google.com/youtube/player_parameters
+
+* https://smashballoon.com/how-to-embed-youtube-playlist-in-wordpress/
+
+* https://ukradiolive.com/embed-radio
+
+* https://garfnet.org.uk/cms/tables/radio-frequencies/internet-radio-player/
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
