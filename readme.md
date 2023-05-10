@@ -66,9 +66,13 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * ~~ptsd-healing.mp3 x5 volume 100 (toggle)~~
 
-* Some primary music / music radio / sound volume 70 mid high
+* Some primary music / music radio / sound volume 85 mid high
 
-* ASMR for Anger 😡 → 😇 (calming you down, breathing, soft spoken) (https://www.youtube.com/watch?v=3srk4ugU3CI) x16 volume 100
+* SERIOUSLY SMOOTHED BROWN NOISE TUNED TO 852Hz | Let Go Of Fear, Overthinking And Worry | INTUITION (https://www.youtube.com/watch?v=YOccE7qQCzk) volume 100
+
+* New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming (https://www.youtube.com/watch?v=7HhfE2UlWb0) volume 60
+
+* LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS-VM) volume 45
 
 #### Offline mode
 
