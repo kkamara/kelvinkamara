@@ -47,7 +47,7 @@ User's saved volume templates.
 
 Choose from Kelvin's saved volume templates.
 
-* User's primary listening speech / talking radio / conversation (optional) (repeatedly option) volume loudest
+* User's primary listening speech / talking radio / conversation (optional) (repeatedly option) volume loudest.
 
 #### Engine / Core
 
@@ -62,11 +62,21 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming (https://www.youtube.com/watch?v=7HhfE2UlWb0) volume 60
 
-* LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS-VM) volume 45
+* LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS-VM) volume 45.
 
 #### Listening options
 
-* Coming soon.
+Volume 85 mid high.
+
+* DJ Gvozd - Pirate Station 1121 - 05 May 2023 | Гвоздь Пиратская Станция (https://www.youtube.com/watch?v=DwSp8pYT_L8)
+
+* Late Night ✨ Lofi Hip Hop Beats - Music to Relax/Study/Work to | Chill Lofi Mix (https://www.youtube.com/watch?v=QHnxYvE3cJg)
+
+* Y2Mate.is - Straight Up Smooth Jazz • 2 Hours Smooth Jazz Saxophone Instrumental Music for Relaxing and Study-K7RmhU4m2no-48k-1656794179208 (https://www.youtube.com/watch?v=K7RmhU4m2no)
+
+* Smooth Jazz • 3 Hours Smooth Jazz Saxophone Instrumental Music for Grownups and Other People (https://www.youtube.com/watch?v=tq32Q5cKhkQ)
+
+* ADHD Relief Music: Multi Layered Pulse Music for Studying and Focus (https://www.youtube.com/watch?v=iH6mOyqs9j4).
 
 #### Recommended music options:
 
@@ -80,7 +90,7 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 - Talksport
 
-- Talksport2
+- Talksport2.
 
 #### APIs
 
