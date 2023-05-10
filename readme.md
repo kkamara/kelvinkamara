@@ -64,7 +64,7 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS-VM) volume 45.
 
-#### Listening options
+#### Looping listening options
 
 Volume 85 mid high.
 
@@ -72,7 +72,7 @@ Volume 85 mid high.
 
 * Late Night ✨ Lofi Hip Hop Beats - Music to Relax/Study/Work to | Chill Lofi Mix (https://www.youtube.com/watch?v=QHnxYvE3cJg)
 
-* Y2Mate.is - Straight Up Smooth Jazz • 2 Hours Smooth Jazz Saxophone Instrumental Music for Relaxing and Study-K7RmhU4m2no-48k-1656794179208 (https://www.youtube.com/watch?v=K7RmhU4m2no)
+* Straight Up Smooth Jazz • 2 Hours Smooth Jazz Saxophone Instrumental Music for Relaxing and Study (https://www.youtube.com/watch?v=K7RmhU4m2no)
 
 * Smooth Jazz • 3 Hours Smooth Jazz Saxophone Instrumental Music for Grownups and Other People (https://www.youtube.com/watch?v=tq32Q5cKhkQ)
 
