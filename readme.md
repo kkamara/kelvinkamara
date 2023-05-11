@@ -11,7 +11,7 @@
 
 I recommend working with Amazon Alexa speakers e.g. Echo Dot.
 
-note: when working with Apple systems and eqMac sound booster I recommend using automatic boosting settings rather than manual tuning. I have over six months experience with that software.
+note: when working with Apple systems and eqMac sound booster I recommend using automatic boosting settings rather than manual tuning. I have over six months experience with that software. However, when you want to hear speech the most clearest and loudest way possible (along with the rest of your sound) I recommend the [manual settings](https://github.com/kkamara/useful/commit/a9e620925598c945ad71501388dc615f4b381d33#commitcomment-112840838) bass -24, mid +1, treble +1, peak limiter on / off.
 
 ## Misc
 
