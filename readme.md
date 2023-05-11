@@ -13,6 +13,14 @@ I recommend working with Amazon Alexa speakers e.g. Echo Dot.
 
 note: when working with Apple systems and eqMac sound booster I recommend using automatic boosting settings rather than manual tuning. I have over six months experience with that software.
 
+## Misc
+
+[See react boilerplate.](https://github.com/kkamara/react-boilerplate)
+
+[See php scraper.](https://github.com/kkamara/php-scraper)
+
+[See node react boilerplate.](https://github.com/kkamara/node-react-boilerplate)
+
 ## Design notes
 
 https://mui.com/material-ui/material-icons/
