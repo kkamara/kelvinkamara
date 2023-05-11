@@ -11,7 +11,7 @@
 
 I recommend working with Amazon Alexa speakers e.g. Echo Dot.
 
-note: when working with Apple systems and eqMac sound booster I recommend using automatic boosting settings rather than manual tuning. I have over six months experience with that software. However, when you want to hear speech the most clearest and loudest way possible (along with the rest of your sound) I recommend the [manual settings](https://github.com/kkamara/useful/commit/a9e620925598c945ad71501388dc615f4b381d33#commitcomment-112840838) bass -24, mid +1, treble +1, peak limiter on / off.
+note: when working with Apple systems and eqMac sound booster I recommend using automatic boosting settings rather than manual tuning. I have over six months experience with that software. However, when you want to hear speech the most clearest and loudest way possible (along with the rest of your sound) I recommend the [manual settings](https://github.com/kkamara/useful/commit/a9e620925598c945ad71501388dc615f4b381d33#commitcomment-112933023) bass -16, mid -10, treble 0, peak limiter on / off.
 
 ## Misc
 
@@ -64,7 +64,9 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * ~~ptsd-healing.mp3 x5 volume 100 (toggle)~~
 
-* Some primary music / music radio / sound volume 85 mid high
+* Some primary music / music radio / sound volume mid to highest
+
+* Ethereal Bilateral Music 1 Hour Mix - Relieve Stress, Anxiety, PTSD - EMDR, Brainspotting (https://www.youtube.com/watch?v=7lyO5xlgijA) volume 95
 
 * SERIOUSLY SMOOTHED BROWN NOISE TUNED TO 852Hz | Let Go Of Fear, Overthinking And Worry | INTUITION (https://www.youtube.com/watch?v=YOccE7qQCzk) volume 100
 
@@ -74,7 +76,7 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 #### Looping listening options
 
-Volume 85 mid high.
+Volume mid to highest.
 
 * DJ Gvozd - Pirate Station 1121 - 05 May 2023 | Гвоздь Пиратская Станция (https://www.youtube.com/watch?v=DwSp8pYT_L8)
 
