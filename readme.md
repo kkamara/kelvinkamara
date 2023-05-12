@@ -59,6 +59,8 @@ Choose from Kelvin's saved volume templates.
 
 #### Engine / Core
 
+Global player options controls this.
+
 * ~~playlist: SPEECH BLOCKERS • Masking Noises For Open Space Office Use (https://www.youtube.com/playlist?list=PLVqXBrTZueIZFgGC-fc4wxh7eYTL5TKBZ)
 within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop Background Noise-(144p).mp4 x7 volume 85~~
 
@@ -76,9 +78,11 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 ##### Extra
 
-Switch enabled.
+Switch enabled. Global player options does not control this.
 
-* ASMR|No Talking•1 Hour Outdoor Dog Barking Ambience | White Noise for Relaxing，Sleeping，Studying (https://www.youtube.com/watch?v=CQK4ps87sjA).
+* Learn Business English Conversation for the Office and Workplace (https://www.youtube.com/watch?v=k_ofXhe_tEY) x4
+
+* ASMR|No Talking•1 Hour Outdoor Dog Barking Ambience | White Noise for Relaxing，Sleeping，Studying (https://www.youtube.com/watch?v=CQK4ps87sjA) x4.
 
 #### Looping listening options
 
