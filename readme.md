@@ -11,8 +11,6 @@
 
 I recommend working with Amazon Alexa speakers e.g. Echo Dot. We can twirl Echo Dot in our hands.
 
-note: when working with Apple systems and eqMac sound booster I recommend using automatic boosting settings rather than manual tuning. I have over six months experience with that software. However, when you want to hear speech the most clearest and loudest way possible (along with the rest of your sound) I recommend the [manual settings](https://github.com/kkamara/useful/commit/a9e620925598c945ad71501388dc615f4b381d33#commitcomment-112933023) bass -16, mid -10, treble 0, peak limiter on / off.
-
 ## Misc
 
 [See react boilerplate.](https://github.com/kkamara/react-boilerplate)
@@ -72,7 +70,9 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS-VM)
 
-* Transform Your Sleep: Calming White Noise for Masking & Relaxation (https://www.youtube.com/watch?v=eYvef5PAt_c).
+* Transform Your Sleep: Calming White Noise for Masking & Relaxation (https://www.youtube.com/watch?v=eYvef5PAt_c)
+
+* Super Deep Red Noise • 10 hours • Black Screen (https://www.youtube.com/watch?v=j_7fC3YzrDc).
 
 #### Looping listening options
 
