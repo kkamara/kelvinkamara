@@ -9,7 +9,7 @@
 * [Desktop 2023](https://raw.githubusercontent.com/kkamara/useful/main/desktop-2023.png)
 * [Desktop 2023 extra](https://github.com/kkamara/useful/commit/a9e620925598c945ad71501388dc615f4b381d33)
 
-I recommend working with Amazon Alexa speakers e.g. Echo Dot.
+I recommend working with Amazon Alexa speakers e.g. Echo Dot. We can twirl Echo Dot in our hands.
 
 note: when working with Apple systems and eqMac sound booster I recommend using automatic boosting settings rather than manual tuning. I have over six months experience with that software. However, when you want to hear speech the most clearest and loudest way possible (along with the rest of your sound) I recommend the [manual settings](https://github.com/kkamara/useful/commit/a9e620925598c945ad71501388dc615f4b381d33#commitcomment-112933023) bass -16, mid -10, treble 0, peak limiter on / off.
 
