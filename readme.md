@@ -82,7 +82,11 @@ Switch enabled. Global player options does not control this.
 
 * Learn Business English Conversation for the Office and Workplace (https://www.youtube.com/watch?v=k_ofXhe_tEY) x4
 
-* ASMR|No Talking•1 Hour Outdoor Dog Barking Ambience | White Noise for Relaxing，Sleeping，Studying (https://www.youtube.com/watch?v=CQK4ps87sjA) x4.
+* ASMR|No Talking•1 Hour Outdoor Dog Barking Ambience | White Noise for Relaxing，Sleeping，Studying (https://www.youtube.com/watch?v=CQK4ps87sjA) x4
+
+* White Noise Black Screen | Sleep, Study, Focus | 10 Hours (https://www.youtube.com/watch?v=nMfPqeZjc2c)
+
+* Super Deep Red Noise • 10 hours • Black Screen (https://www.youtube.com/watch?v=j_7fC3YzrDc).
 
 #### Looping listening options
 
