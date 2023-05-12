@@ -76,17 +76,17 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS-VM) volume 45.
 
-##### Extra
+##### Engine add-ons
 
-Switch enabled. Global player options does not control this.
+Switch enabled to appear on screen. Global player options does not control this.
 
 * Learn Business English Conversation for the Office and Workplace (https://www.youtube.com/watch?v=k_ofXhe_tEY) x4
 
 * ASMR|No Talking•1 Hour Outdoor Dog Barking Ambience | White Noise for Relaxing，Sleeping，Studying (https://www.youtube.com/watch?v=CQK4ps87sjA) x4
 
-* White Noise Black Screen | Sleep, Study, Focus | 10 Hours (https://www.youtube.com/watch?v=nMfPqeZjc2c)
+* Super Deep Red Noise • 10 hours • Black Screen (https://www.youtube.com/watch?v=j_7fC3YzrDc)
 
-* Super Deep Red Noise • 10 hours • Black Screen (https://www.youtube.com/watch?v=j_7fC3YzrDc).
+* Transform Your Sleep: Calming White Noise for Masking & Relaxation (https://www.youtube.com/watch?v=eYvef5PAt_c).
 
 #### Looping listening options
 
