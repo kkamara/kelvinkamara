@@ -53,7 +53,11 @@ User's saved volume templates.
 
 Choose from Kelvin's saved volume templates.
 
-* User's primary listening speech / talking radio / conversation (optional) (repeatedly option) volume loudest.
+* User's optional primary listening speech / talking radio / conversation (repeatedly option) volume loudest
+
+* Some primary music / music radio e.g. (https://github.com/kkamara/kelvinkamara#looping-listening-options) volume mid to highest
+
+* [Kelvin Kamara engine](https://github.com/kkamara/kelvinkamara#engine--core).
 
 #### Engine / Core
 
@@ -64,15 +68,17 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * ~~ptsd-healing.mp3 x5 volume 100 (https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?usp=sharing) (toggle)~~
 
-* Some primary music / music radio / sound volume mid to highest
+* New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming (https://www.youtube.com/watch?v=7HhfE2UlWb0) volume 45
 
-* New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming (https://www.youtube.com/watch?v=7HhfE2UlWb0)
+* LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS-VM) volume 45
 
-* LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS-VM)
+* Transform Your Sleep: Calming White Noise for Masking & Relaxation (https://www.youtube.com/watch?v=eYvef5PAt_c) volume 45
 
-* Transform Your Sleep: Calming White Noise for Masking & Relaxation (https://www.youtube.com/watch?v=eYvef5PAt_c)
+* Super Deep Red Noise • 10 hours • Black Screen (https://www.youtube.com/watch?v=j_7fC3YzrDc) volume 45
 
-* Super Deep Red Noise • 10 hours • Black Screen (https://www.youtube.com/watch?v=j_7fC3YzrDc).
+* ASMR for ADHD | FAST Paced Aggressively UNPREDICTABLE Triggers ( Pay Attention/Focus, Mouth Sounds ) (https://www.youtube.com/watch?v=gdq2ve7fWFw) (Released Friday 12 May 2023) x4 volume 65
+
+* Learn Business English Conversation for the Office and Workplace (https://www.youtube.com/watch?v=k_ofXhe_tEY) volume 100.
 
 #### Looping listening options
 
