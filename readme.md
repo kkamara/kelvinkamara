@@ -62,7 +62,7 @@ Global player options controls this.
 * ~~playlist: SPEECH BLOCKERS • Masking Noises For Open Space Office Use (https://www.youtube.com/playlist?list=PLVqXBrTZueIZFgGC-fc4wxh7eYTL5TKBZ)
 within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop Background Noise-(144p).mp4 x7 volume 85~~
 
-* ~~ptsd-healing.mp3 x5 volume 100 (toggle)~~
+* ~~ptsd-healing.mp3 x5 volume 100 (https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?usp=sharing) (toggle)~~
 
 * Some primary music / music radio / sound volume mid to highest
 
@@ -105,6 +105,8 @@ Volume mid to highest.
 - Audiobooks e.g. star wars bukz.
 
 #### APIs
+
+* https://www.radioplayeruk.com
 
 * https://www.youtube.com/@SensationmusicBlack/playlists
 
