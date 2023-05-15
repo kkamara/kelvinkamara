@@ -53,9 +53,9 @@ User's saved volume templates.
 
 Choose from Kelvin's saved volume templates.
 
-* User's optional primary listening speech / talking radio / conversation (repeatedly option) volume loudest
+* User's optional primary listening speech / talking radio / conversation (repeatedly option) volume loudest, 100
 
-* Some primary music / music radio e.g. (https://github.com/kkamara/kelvinkamara#looping-listening-options) volume mid to highest
+* Some primary music / music radio e.g. (https://github.com/kkamara/kelvinkamara#looping-listening-options) volume mid to highest, 55+
 
 * [Kelvin Kamara engine](https://github.com/kkamara/kelvinkamara#engine--core).
 
@@ -76,15 +76,15 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * ~~Super Deep Red Noise • 10 hours • Black Screen (https://www.youtube.com/watch?v=j_7fC3YzrDc)~~
 
-* Tinnitus Calmer Sweeping Noise at 7kHz Masker (https://www.youtube.com/watch?v=1Dyad1IPoQ0)
+* Tinnitus Calmer Sweeping Noise at 7kHz Masker (https://www.youtube.com/watch?v=1Dyad1IPoQ0) volume 50
 
-* ASMR for ADHD | FAST Paced Aggressively UNPREDICTABLE Triggers ( Pay Attention/Focus, Mouth Sounds ) (https://www.youtube.com/watch?v=gdq2ve7fWFw) (Released Friday 12 May 2023) x4 volume 65
+* ASMR for ADHD | FAST Paced Aggressively UNPREDICTABLE Triggers ( Pay Attention/Focus, Mouth Sounds ) (https://www.youtube.com/watch?v=gdq2ve7fWFw) (Released Friday 12 May 2023) x4 volume 55
 
 * Learn Business English Conversation for the Office and Workplace (https://www.youtube.com/watch?v=k_ofXhe_tEY) volume 100.
 
 #### Looping listening options
 
-Volume mid to highest.
+Volume mid to highest, 55+.
 
 * DJ Gvozd - Pirate Station 1121 - 05 May 2023 | Гвоздь Пиратская Станция (https://www.youtube.com/watch?v=DwSp8pYT_L8)
 
