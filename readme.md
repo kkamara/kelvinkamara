@@ -53,9 +53,9 @@ User's saved volume templates.
 
 Choose from Kelvin's saved volume templates.
 
-* User's optional primary listening speech / talking radio / conversation (repeatedly option) volume loudest, 100
+* User's optional primary listening speech / talking radio / conversation (repeatedly option) volume loudest
 
-* Some primary music / music radio e.g. (https://github.com/kkamara/kelvinkamara#looping-listening-options) volume mid to highest, 55+
+* Some primary music / music radio e.g. (https://github.com/kkamara/kelvinkamara#looping-listening-options) volume mid to highest
 
 * [Kelvin Kamara engine](https://github.com/kkamara/kelvinkamara#engine--core).
 
@@ -76,7 +76,7 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * ~~Super Deep Red Noise • 10 hours • Black Screen (https://www.youtube.com/watch?v=j_7fC3YzrDc)~~
 
-* Tinnitus Calmer Sweeping Noise at 7kHz Masker (https://www.youtube.com/watch?v=1Dyad1IPoQ0).
+* Tinnitus Calmer Sweeping Noise at 7kHz Masker (https://www.youtube.com/watch?v=1Dyad1IPoQ0) volume 50.
 
 ##### Engine add-ons
 
