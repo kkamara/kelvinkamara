@@ -4,6 +4,12 @@
 
 (05-Apr-23) Soundscape.
 
+- We can do it and it's not just do it.
+
+- What are the tryna tell you?
+
+- Erm...
+
 ## More
 
 * [Desktop 2023](https://raw.githubusercontent.com/kkamara/useful/main/desktop-2023.png)
@@ -53,9 +59,7 @@ User's saved volume templates.
 
 Choose from Kelvin's saved volume templates.
 
-* User's optional primary listening speech / talking radio / conversation (repeatedly option) volume loudest
-
-* Some primary music / music radio e.g. (https://github.com/kkamara/kelvinkamara#looping-listening-options) volume mid to highest
+* User's primary listening speech / talking radio / conversation (repeatedly option) volume loudest
 
 * [Kelvin Kamara engine](https://github.com/kkamara/kelvinkamara#engine--core).
 
@@ -76,17 +80,33 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * ~~Super Deep Red Noise • 10 hours • Black Screen (https://www.youtube.com/watch?v=j_7fC3YzrDc)~~
 
+* ASMR for ADHD | FAST Paced Aggressively UNPREDICTABLE Triggers ( Pay Attention/Focus, Mouth Sounds ) (https://www.youtube.com/watch?v=gdq2ve7fWFw) (Released Friday 12 May 2023) volume 95.
+
+##### Alternative
+
 * Tinnitus Calmer Sweeping Noise at 7kHz Masker (https://www.youtube.com/watch?v=1Dyad1IPoQ0) volume 50.
 
-##### Engine add-ons
+#### Recommended listening options:
 
-* ASMR for ADHD | FAST Paced Aggressively UNPREDICTABLE Triggers ( Pay Attention/Focus, Mouth Sounds ) (https://www.youtube.com/watch?v=gdq2ve7fWFw) (Released Friday 12 May 2023)
+* Learn Business English Conversation for the Office and Workplace (https://www.youtube.com/watch?v=k_ofXhe_tEY)
 
-* Learn Business English Conversation for the Office and Workplace (https://www.youtube.com/watch?v=k_ofXhe_tEY).
+* Lbc fm
 
-#### Looping listening options
+- Talksport
 
-Volume mid to highest, 55+.
+- Talksport2
+
+- Audiobooks e.g. star wars bukz.
+
+#### Recommended music options:
+
+* Classic fm
+
+- Capital fm London
+
+- Rinse fm
+
+#### Looping music options
 
 * DJ Gvozd - Pirate Station 1121 - 05 May 2023 | Гвоздь Пиратская Станция (https://www.youtube.com/watch?v=DwSp8pYT_L8)
 
@@ -97,22 +117,6 @@ Volume mid to highest, 55+.
 * Smooth Jazz • 3 Hours Smooth Jazz Saxophone Instrumental Music for Grownups and Other People (https://www.youtube.com/watch?v=tq32Q5cKhkQ)
 
 * ADHD Relief Music: Multi Layered Pulse Music for Studying and Focus (https://www.youtube.com/watch?v=iH6mOyqs9j4).
-
-#### Recommended music options:
-
-* Classic fm
-
-* Lbc fm
-
-- Capital fm London
-
-- Rinse fm
-
-- Talksport
-
-- Talksport2
-
-- Audiobooks e.g. star wars bukz.
 
 #### APIs
 
