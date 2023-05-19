@@ -59,8 +59,6 @@ User's saved volume templates.
 
 Choose from Kelvin's saved volume templates.
 
-* User's primary listening speech / talking radio / conversation (repeatedly option) volume loudest
-
 * [Kelvin Kamara engine](https://github.com/kkamara/kelvinkamara#engine--core).
 
 #### Engine / Core
@@ -80,11 +78,13 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * ~~Super Deep Red Noise • 10 hours • Black Screen (https://www.youtube.com/watch?v=j_7fC3YzrDc)~~
 
-* ASMR for ADHD | FAST Paced Aggressively UNPREDICTABLE Triggers ( Pay Attention/Focus, Mouth Sounds ) (https://www.youtube.com/watch?v=gdq2ve7fWFw) (Released Friday 12 May 2023) volume 95.
+* User's primary listening speech of choice e.g. audiobook, talking radio, conversation (repeatedly option) volume loud
+
+* ASMR for ADHD | FAST Paced Aggressively UNPREDICTABLE Triggers ( Pay Attention/Focus, Mouth Sounds ) (https://www.youtube.com/watch?v=gdq2ve7fWFw) (Released Friday 12 May 2023) volume low.
 
 ##### Alternative
 
-* Tinnitus Calmer Sweeping Noise at 7kHz Masker (https://www.youtube.com/watch?v=1Dyad1IPoQ0) volume 50.
+* Tinnitus Calmer Sweeping Noise at 7kHz Masker (https://www.youtube.com/watch?v=1Dyad1IPoQ0) volume mid.
 
 #### Recommended listening options:
 
