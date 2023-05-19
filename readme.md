@@ -6,7 +6,7 @@
 
 - We can do it and it's not just do it.
 
-- What are the tryna tell you?
+- What are they tryna tell you?
 
 - Erm...
 
