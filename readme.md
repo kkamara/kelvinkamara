@@ -55,6 +55,8 @@ https://codepen.io/wesbos/pen/bqEEEX
 
 <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/7a9d19582078b79d38bb5f1514847e35.gif" alt="7a9d19582078b79d38bb5f1514847e35.gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/eed1e1fb46beb07cb967c8c7b98faf799738ae47_00.gif" alt="eed1e1fb46beb07cb967c8c7b98faf799738ae47_00.gif" width="200"/> <img src="https://raw.githubusercontent.com/kkamara/kelvinkamara/main/src/assets/images/theme/how-to-choose-a-pest-control-company.webp" alt="how-to-choose-a-pest-control-company.webp" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/inspector-lunge-lunge%20(1).gif" alt="inspector-lunge-lunge%20(1).gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/inspector-lunge-lunge.gif" alt="inspector-lunge-lunge.gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/lunge-detective-lunge.gif" alt="lunge-detective-lunge.gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/monster-anime.gif" alt="monster-anime.gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/pest-control-sign-778440.png" alt="pest-control-sign-778440.png" width="200"/>
 
+Playable [fractal animations](https://www.youtube.com/watch?v=t6jlhqNxRYk).
+
 Volumes 60, 65 and 30, 35 are good volumes to listen.
 
 User's saved volume templates.
