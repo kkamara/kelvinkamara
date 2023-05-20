@@ -67,6 +67,8 @@ Choose from Kelvin's saved volume templates.
 
 Global player options controls this.
 
+User's optional primary listening speech of choice e.g. audiobook, talking radio, conversation (repeatedly option) volume loudest
+
 * ~~playlist: SPEECH BLOCKERS • Masking Noises For Open Space Office Use (https://www.youtube.com/playlist?list=PLVqXBrTZueIZFgGC-fc4wxh7eYTL5TKBZ)
 within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop Background Noise-(144p).mp4 x7 volume 85~~
 
@@ -80,13 +82,11 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * ~~Super Deep Red Noise • 10 hours • Black Screen (https://www.youtube.com/watch?v=j_7fC3YzrDc)~~
 
-* User's primary listening speech of choice e.g. audiobook, talking radio, conversation (repeatedly option) volume loud
+* ASMR for ADHD | FAST Paced Aggressively UNPREDICTABLE Triggers ( Pay Attention/Focus, Mouth Sounds ) (https://www.youtube.com/watch?v=gdq2ve7fWFw) (Released Friday 12 May 2023) volume loud
 
-* ASMR for ADHD | FAST Paced Aggressively UNPREDICTABLE Triggers ( Pay Attention/Focus, Mouth Sounds ) (https://www.youtube.com/watch?v=gdq2ve7fWFw) (Released Friday 12 May 2023) volume mid.
+-- OR --
 
-##### Alternative
-
-* Tinnitus Calmer Sweeping Noise at 7kHz Masker (https://www.youtube.com/watch?v=1Dyad1IPoQ0) volume mid.
+* Tinnitus Calmer Sweeping Noise at 7kHz Masker (https://www.youtube.com/watch?v=1Dyad1IPoQ0) volume loud.
 
 #### Recommended listening options:
 
