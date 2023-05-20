@@ -25,6 +25,8 @@ I recommend working with Amazon Alexa speakers e.g. Echo Dot. We can twirl Echo 
 
 [See node react boilerplate.](https://github.com/kkamara/node-react-boilerplate)
 
+I wear a [face mask](https://www.amazon.co.uk/gp/product/B08FK54H5Q) all the time to press on my nose. I will remove my tonsils ASAP.
+
 ## Design notes
 
 https://mui.com/material-ui/material-icons/
