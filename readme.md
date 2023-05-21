@@ -84,15 +84,17 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * ~~Super Deep Red Noise • 10 hours • Black Screen (https://www.youtube.com/watch?v=j_7fC3YzrDc)~~
 
-* Best of American Trucks - Peterbilt, Mack, Freightliner, Kenworth Compilation Sound (https://www.youtube.com/watch?v=9oVHkoWzGuM) volume loud
+* Ethereal Bilateral Music 1 Hour Mix - Relieve Stress, Anxiety, PTSD - EMDR, Brainspotting (https://www.youtube.com/watch?v=7lyO5xlgijA) volume 100
+
+* Best of American Trucks - Peterbilt, Mack, Freightliner, Kenworth Compilation Sound (https://www.youtube.com/watch?v=9oVHkoWzGuM) volume 65
 
 -- AND --
 
-* * * ASMR for ADHD | FAST Paced Aggressively UNPREDICTABLE Triggers ( Pay Attention/Focus, Mouth Sounds ) (https://www.youtube.com/watch?v=gdq2ve7fWFw) (Released Friday 12 May 2023) volume loud
+* * * ASMR for ADHD | FAST Paced Aggressively UNPREDICTABLE Triggers ( Pay Attention/Focus, Mouth Sounds ) (https://www.youtube.com/watch?v=gdq2ve7fWFw) (Released Friday 12 May 2023) volume 65
 
 * * -- OR --
 
-* * * Tinnitus Calmer Sweeping Noise at 7kHz Masker (https://www.youtube.com/watch?v=1Dyad1IPoQ0) volume loud.
+* * * Tinnitus Calmer Sweeping Noise at 7kHz Masker (https://www.youtube.com/watch?v=1Dyad1IPoQ0) volume 65.
 
 #### Recommended listening options:
 
