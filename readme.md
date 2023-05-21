@@ -79,7 +79,6 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 * Best of American Trucks - Peterbilt, Mack, Freightliner, Kenworth Compilation Sound (https://www.youtube.com/watch?v=9oVHkoWzGuM) volume 100
 
 * ASMR|No Talking•1 Hour Outdoor Dog Barking Ambience | White Noise for Relaxing，Sleeping，Studying (https://www.youtube.com/watch?v=CQK4ps87sjA) volume 100
-Sun Noise is Like White Noise with Orange & Yellow Noise
 
 * Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study (https://www.youtube.com/watch?v=eKFTSSKCzWA) volume 100
 
