@@ -74,27 +74,21 @@ User's optional primary listening speech of choice e.g. audiobook, talking radio
 * ~~playlist: SPEECH BLOCKERS • Masking Noises For Open Space Office Use (https://www.youtube.com/playlist?list=PLVqXBrTZueIZFgGC-fc4wxh7eYTL5TKBZ)
 within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop Background Noise-(144p).mp4 x7 volume 85~~
 
-* ~~ptsd-healing.mp3 x5 volume 100 (https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?usp=sharing) (toggle)~~
-
-* ~~New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming (https://www.youtube.com/watch?v=7HhfE2UlWb0)~~
-
-* ~~LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS-VM)~~
-
-* ~~Transform Your Sleep: Calming White Noise for Masking & Relaxation (https://www.youtube.com/watch?v=eYvef5PAt_c)~~
-
-* ~~Super Deep Red Noise • 10 hours • Black Screen (https://www.youtube.com/watch?v=j_7fC3YzrDc)~~
-
 * Ethereal Bilateral Music 1 Hour Mix - Relieve Stress, Anxiety, PTSD - EMDR, Brainspotting (https://www.youtube.com/watch?v=7lyO5xlgijA) volume 100
 
-* Best of American Trucks - Peterbilt, Mack, Freightliner, Kenworth Compilation Sound (https://www.youtube.com/watch?v=9oVHkoWzGuM) volume 65
+* Best of American Trucks - Peterbilt, Mack, Freightliner, Kenworth Compilation Sound (https://www.youtube.com/watch?v=9oVHkoWzGuM) volume 100
+
+* ASMR|No Talking•1 Hour Outdoor Dog Barking Ambience | White Noise for Relaxing，Sleeping，Studying (https://www.youtube.com/watch?v=CQK4ps87sjA) volume 100
+
+* Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study (https://www.youtube.com/watch?v=eKFTSSKCzWA) volume 100
 
 -- AND --
 
-* * * ASMR for ADHD | FAST Paced Aggressively UNPREDICTABLE Triggers ( Pay Attention/Focus, Mouth Sounds ) (https://www.youtube.com/watch?v=gdq2ve7fWFw) (Released Friday 12 May 2023) volume 65
+* * * ASMR for ADHD | FAST Paced Aggressively UNPREDICTABLE Triggers ( Pay Attention/Focus, Mouth Sounds ) (https://www.youtube.com/watch?v=gdq2ve7fWFw) (Released Friday 12 May 2023) volume 100
 
 * * -- OR --
 
-* * * Tinnitus Calmer Sweeping Noise at 7kHz Masker (https://www.youtube.com/watch?v=1Dyad1IPoQ0) volume 65.
+* * * Tinnitus Calmer Sweeping Noise at 7kHz Masker (https://www.youtube.com/watch?v=1Dyad1IPoQ0) volume 100.
 
 #### Recommended listening options:
 
