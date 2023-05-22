@@ -84,9 +84,12 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study (https://www.youtube.com/watch?v=eKFTSSKCzWA) volume 100
 
-* Sun Noise is Like White Noise with Orange & Yellow Noise (https://www.youtube.com/watch?v=D69zZ-YE4w8) volume 90
+* Sun Noise is Like White Noise with Orange & Yellow Noise (https://www.youtube.com/watch?v=D69zZ-YE4w8) volume 100
 
-* ASMR for ADHD | FAST Paced Aggressively UNPREDICTABLE Triggers ( Pay Attention/Focus, Mouth Sounds ) (https://www.youtube.com/watch?v=gdq2ve7fWFw) (Released Friday 12 May 2023) volume 100.
+* ASMR for ADHD | FAST Paced Aggressively UNPREDICTABLE Triggers ( Pay Attention/Focus, Mouth Sounds ) (https://www.youtube.com/watch?v=gdq2ve7fWFw) (Released Friday 12 May 2023) volume 100
+
+* Visualization ASMR ( Hand Movements, Mouth Sounds, Personal Attention, Focus Triggers )
+ (https://www.youtube.com/watch?v=gGUShPj2WX0) volume 100.
 
 #### Recommended listening options:
 
