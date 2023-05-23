@@ -27,6 +27,12 @@ I recommend working with Amazon Alexa speakers e.g. Echo Dot. We can twirl Echo 
 
 [Pink Noise Ten Hours - The Classic Now in Dark Screen](https://www.youtube.com/watch?v=8SHf6wmX5MU)
 
+[Best of American Trucks - Peterbilt, Mack, Freightliner, Kenworth Compilation Sound](https://www.youtube.com/watch?v=9oVHkoWzGuM)
+
+[ASMR|No Talking•1 Hour Outdoor Dog Barking Ambience | White Noise for Relaxing，Sleeping，Studying](https://www.youtube.com/watch?v=CQK4ps87sjA)
+
+[Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study](https://www.youtube.com/watch?v=eKFTSSKCzWA)
+
 I wear a [face mask](https://www.amazon.co.uk/gp/product/B08FK54H5Q) all the time to press on my nose. I will remove my tonsils ASAP.
 
 ## Design notes
@@ -76,24 +82,34 @@ User's optional primary listening speech of choice e.g. audiobook, talking radio
 * ~~playlist: SPEECH BLOCKERS • Masking Noises For Open Space Office Use (https://www.youtube.com/playlist?list=PLVqXBrTZueIZFgGC-fc4wxh7eYTL5TKBZ)
 within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop Background Noise-(144p).mp4 x7 volume 85~~
 
+* ptsd-healing.mp3 (https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?usp=sharing) volume 100
+
 * Ethereal Bilateral Music 1 Hour Mix - Relieve Stress, Anxiety, PTSD - EMDR, Brainspotting (https://www.youtube.com/watch?v=7lyO5xlgijA) volume 100
 
-* Best of American Trucks - Peterbilt, Mack, Freightliner, Kenworth Compilation Sound (https://www.youtube.com/watch?v=9oVHkoWzGuM) volume 100
+* Sun Noise is Like White Noise with Orange & Yellow Noise (https://www.youtube.com/watch?v=D69zZ-YE4w8) volume 65
 
-* ASMR|No Talking•1 Hour Outdoor Dog Barking Ambience | White Noise for Relaxing，Sleeping，Studying (https://www.youtube.com/watch?v=CQK4ps87sjA) volume 100
-
-* Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study (https://www.youtube.com/watch?v=eKFTSSKCzWA) volume 100
-
-* Sun Noise is Like White Noise with Orange & Yellow Noise (https://www.youtube.com/watch?v=D69zZ-YE4w8) volume 100
-
-* ASMR for ADHD | FAST Paced Aggressively UNPREDICTABLE Triggers ( Pay Attention/Focus, Mouth Sounds ) (https://www.youtube.com/watch?v=gdq2ve7fWFw) (Released Friday 12 May 2023) volume 100
+* ASMR for ADHD | FAST Paced Aggressively UNPREDICTABLE Triggers ( Pay Attention/Focus, Mouth Sounds ) (https://www.youtube.com/watch?v=gdq2ve7fWFw) (Released Friday 12 May 2023) volume 65
 
 * Visualization ASMR ( Hand Movements, Mouth Sounds, Personal Attention, Focus Triggers )
- (https://www.youtube.com/watch?v=gGUShPj2WX0) volume 100.
+ (https://www.youtube.com/watch?v=gGUShPj2WX0) volume 65
+
+* ADHD Relief Music: Multi Layered Pulse Music for Studying and Focus (https://www.youtube.com/watch?v=iH6mOyqs9j4) volume 100
+
+* Background Music for Studying, Focus and Concentration (https://www.youtube.com/watch?v=NNFhYyQiBlk) volume 100.
+
+##### English
+
+* Learn Business English Conversation for the Office and Workplace (https://www.youtube.com/watch?v=k_ofXhe_tEY).
+
+##### Spanish
+
+* [Learn Spanish in 4 Hours - ALL the Spanish Basics You Need](https://www.youtube.com/watch?v=qE-03EATjho)
+
+* [Learn Spanish WHILE SLEEPING: Beginner Lessons](https://www.youtube.com/watch?v=8Slrv-ZIyQU)
+
+* [Unlock the SECRET of Learning Spanish Even in Your Sleep!](https://www.youtube.com/watch?v=ERLOI-uuY1o).
 
 #### Recommended listening options:
-
-* Learn Business English Conversation for the Office and Workplace (https://www.youtube.com/watch?v=k_ofXhe_tEY)
 
 * Lbc fm
 
@@ -119,9 +135,7 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * Straight Up Smooth Jazz • 2 Hours Smooth Jazz Saxophone Instrumental Music for Relaxing and Study (https://www.youtube.com/watch?v=K7RmhU4m2no)
 
-* Smooth Jazz • 3 Hours Smooth Jazz Saxophone Instrumental Music for Grownups and Other People (https://www.youtube.com/watch?v=tq32Q5cKhkQ)
-
-* ADHD Relief Music: Multi Layered Pulse Music for Studying and Focus (https://www.youtube.com/watch?v=iH6mOyqs9j4).
+* Smooth Jazz • 3 Hours Smooth Jazz Saxophone Instrumental Music for Grownups and Other People (https://www.youtube.com/watch?v=tq32Q5cKhkQ).
 
 #### APIs
 
