@@ -109,11 +109,7 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 ##### Spanish
 
-* [Learn Spanish in 4 Hours - ALL the Spanish Basics You Need](https://www.youtube.com/watch?v=qE-03EATjho)
-
-* [Learn Spanish WHILE SLEEPING: Beginner Lessons](https://www.youtube.com/watch?v=8Slrv-ZIyQU)
-
-* [Unlock the SECRET of Learning Spanish Even in Your Sleep!](https://www.youtube.com/watch?v=ERLOI-uuY1o) (rain edition).
+* Learn Spanish Conversation While You Sleep - Daily Spanish Business Listening Practice (https://www.youtube.com/watch?v=VUQiDtz-MOQ).
 
 #### Recommended listening options:
 
