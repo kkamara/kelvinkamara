@@ -95,9 +95,9 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * ~~Background Music for Studying, Focus and Concentration (https://www.youtube.com/watch?v=NNFhYyQiBlk) volume 100~~
 
-* Sun Noise is Like White Noise with Orange & Yellow Noise (https://www.youtube.com/watch?v=D69zZ-YE4w8) volume 135
+* Sun Noise is Like White Noise with Orange & Yellow Noise (https://www.youtube.com/watch?v=D69zZ-YE4w8) volume 165
 
-* Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) volume 165.
+* Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) volume 100.
 
 ##### English
 
