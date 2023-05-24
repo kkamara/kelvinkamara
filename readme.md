@@ -17,6 +17,8 @@
 
 I recommend working with Amazon Alexa speakers e.g. Echo Dot. We can twirl Echo Dot in our hands.
 
+I use earphones and system sound.
+
 ## Misc
 
 [See react boilerplate.](https://github.com/kkamara/react-boilerplate)
