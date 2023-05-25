@@ -95,7 +95,7 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * ADHD Relief Music: Multi Layered Pulse Music for Studying and Focus (https://www.youtube.com/watch?v=iH6mOyqs9j4) volume 50
 
-* ~~Background Music for Studying, Focus and Concentration (https://www.youtube.com/watch?v=NNFhYyQiBlk) volume 100~~
+* Background Music for Studying, Focus and Concentration (https://www.youtube.com/watch?v=NNFhYyQiBlk) volume 50
 
 * ~~Sun Noise is Like White Noise with Orange & Yellow Noise (https://www.youtube.com/watch?v=D69zZ-YE4w8) volume 165~~
 
