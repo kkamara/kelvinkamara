@@ -97,7 +97,7 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * ADHD Relief Music: Multi Layered Pulse Music for Studying and Focus (https://www.youtube.com/watch?v=iH6mOyqs9j4) volume 50
 
-* Background Music for Studying, Focus and Concentration (https://www.youtube.com/watch?v=NNFhYyQiBlk) volume 50
+* Background Music for Studying, Focus and Concentration (https://www.youtube.com/watch?v=NNFhYyQiBlk) volume 35
 
 * ASMR | Fast & Aggressive Layered 3DIO Mouth Sounds, Purrs and Hand Sounds 👅✨ (https://www.youtube.com/watch?v=rVHCYVXvcdE) volume 40
 
