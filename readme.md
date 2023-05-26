@@ -79,7 +79,7 @@ Choose from Kelvin's saved volume templates.
 
 Global player options controls this.
 
-User's optional primary listening speech of choice e.g. audiobook, talking radio, conversation (repeatedly option) volume loudest
+User's optional primary listening speech of choice e.g. audiobook, talking radio, conversation (repeatedly option)
 
 * ASMR | Fast & Aggressive Layered 3DIO Mouth Sounds, Purrs and Hand Sounds 👅✨ (https://www.youtube.com/watch?v=rVHCYVXvcdE) volume 100
 
