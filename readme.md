@@ -95,21 +95,21 @@ within the playlist: X2Download.app-RESTAURANT AMBIENCE • 10H Busy Coffee Shop
 
 * ~~Sun Noise is Like White Noise with Orange & Yellow Noise (https://www.youtube.com/watch?v=D69zZ-YE4w8) volume 165~~
 
-* ADHD Relief Music: Multi Layered Pulse Music for Studying and Focus (https://www.youtube.com/watch?v=iH6mOyqs9j4) volume 50
+* ADHD Relief Music: Multi Layered Pulse Music for Studying and Focus (https://www.youtube.com/watch?v=iH6mOyqs9j4) volume 75
 
-* Background Music for Studying, Focus and Concentration (https://www.youtube.com/watch?v=NNFhYyQiBlk) volume 35
+* Background Music for Studying, Focus and Concentration (https://www.youtube.com/watch?v=NNFhYyQiBlk) volume 60
 
-* ASMR | Fast & Aggressive Layered 3DIO Mouth Sounds, Purrs and Hand Sounds 👅✨ (https://www.youtube.com/watch?v=rVHCYVXvcdE) volume 45
+* ASMR | Fast & Aggressive Layered 3DIO Mouth Sounds, Purrs and Hand Sounds 👅✨ (https://www.youtube.com/watch?v=rVHCYVXvcdE) volume 90
 
-* Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) volume 40 x2.
+* Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) volume 75 x2.
 
 ##### English
 
-* Learn Business English Conversation for the Office and Workplace (https://www.youtube.com/watch?v=k_ofXhe_tEY) volume 70.
+* Learn Business English Conversation for the Office and Workplace (https://www.youtube.com/watch?v=k_ofXhe_tEY) volume 100.
 
 ##### Spanish
 
-* Learn Spanish Conversation While You Sleep - Daily Spanish Business Listening Practice (https://www.youtube.com/watch?v=VUQiDtz-MOQ) volume 55.
+* Learn Spanish Conversation While You Sleep - Daily Spanish Business Listening Practice (https://www.youtube.com/watch?v=VUQiDtz-MOQ).
 
 #### Recommended listening options:
 
