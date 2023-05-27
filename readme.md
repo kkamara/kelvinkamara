@@ -75,6 +75,14 @@ Global player options control play, pause and volume.
 
 * Classical Music for Reading - Mozart, Chopin, Debussy, Tchaikovsky... (https://www.youtube.com/watch?v=mIYzp5rcTvU) OR 4 Hours Classical Music for Sleeping (https://www.youtube.com/watch?v=AqJuVSu58oI).
 
+###### English
+
+* Learn Business English Conversation for the Office and Workplace (https://www.youtube.com/watch?v=k_ofXhe_tEY) x2 1s difference.
+
+###### Spanish
+
+* Learn Spanish Conversation While You Sleep - Daily Spanish Business Listening Practice (https://www.youtube.com/watch?v=VUQiDtz-MOQ).
+
 ##### APIs
 
 * https://www.radioplayeruk.com
