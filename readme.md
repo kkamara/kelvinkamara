@@ -69,7 +69,7 @@ Choose from Kelvin's saved volume templates.
 
 Global player options control play, pause and volume.
 
-* ptsd-healing.mp3 (https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?pli=1) x8
+* ptsd-healing.mp3 (https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?pli=1) x10
 
 * Super Deep Red Noise • 10 hours • Black Screen (https://www.youtube.com/watch?v=j_7fC3YzrDc)
 
