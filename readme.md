@@ -27,14 +27,6 @@ I use earphones and system sound.
 
 [See node react boilerplate.](https://github.com/kkamara/node-react-boilerplate)
 
-[Pink Noise Ten Hours - The Classic Now in Dark Screen](https://www.youtube.com/watch?v=8SHf6wmX5MU)
-
-[Best of American Trucks - Peterbilt, Mack, Freightliner, Kenworth Compilation Sound](https://www.youtube.com/watch?v=9oVHkoWzGuM)
-
-[ASMR|No Talking•1 Hour Outdoor Dog Barking Ambience | White Noise for Relaxing，Sleeping，Studying](https://www.youtube.com/watch?v=CQK4ps87sjA)
-
-[Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study](https://www.youtube.com/watch?v=eKFTSSKCzWA)
-
 I wear a [face mask](https://www.amazon.co.uk/gp/product/B08FK54H5Q) all the time to press on my nose. I will remove my tonsils ASAP.
 
 ## Design notes
@@ -63,8 +55,6 @@ https://codepen.io/wesbos/pen/bqEEEX
 
 ## Planning notes
 
-<img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/7a9d19582078b79d38bb5f1514847e35.gif" alt="7a9d19582078b79d38bb5f1514847e35.gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/eed1e1fb46beb07cb967c8c7b98faf799738ae47_00.gif" alt="eed1e1fb46beb07cb967c8c7b98faf799738ae47_00.gif" width="200"/> <img src="https://raw.githubusercontent.com/kkamara/kelvinkamara/main/src/assets/images/theme/how-to-choose-a-pest-control-company.webp" alt="how-to-choose-a-pest-control-company.webp" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/inspector-lunge-lunge%20(1).gif" alt="inspector-lunge-lunge%20(1).gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/inspector-lunge-lunge.gif" alt="inspector-lunge-lunge.gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/lunge-detective-lunge.gif" alt="lunge-detective-lunge.gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/monster-anime.gif" alt="monster-anime.gif" width="200"/> <img src="https://github.com/kkamara/kelvinkamara/raw/main/src/assets/images/theme/pest-control-sign-778440.png" alt="pest-control-sign-778440.png" width="200"/>
-
 Playable [fractal animations](https://www.youtube.com/watch?v=t6jlhqNxRYk).
 
 Volumes 60, 65 and 30, 35 are good volumes to listen.
@@ -77,57 +67,11 @@ Choose from Kelvin's saved volume templates.
 
 #### Engine / Core
 
-Global player options controls this.
+Global player options control play, pause and volume.
 
-User's optional primary listening speech of choice e.g. audiobook, talking radio, conversation (repeatedly option)
+* ptsd-healing.mp3 (https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?pli=1) x8.
 
-* ASMR | Fast & Aggressive Layered 3DIO Mouth Sounds, Purrs and Hand Sounds 👅✨ (https://www.youtube.com/watch?v=rVHCYVXvcdE) volume 100
-
-* Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) volume 75 x2
-
-* ASMR | Chaotic, Unpredictable Fast & Aggressive ASMR Triggers | Mouth Sounds ⚡ (https://www.youtube.com/watch?v=mKgVdN-A2k8) volume 100.
-
-##### English
-
-* Learn Business English Conversation for the Office and Workplace (https://www.youtube.com/watch?v=k_ofXhe_tEY) volume 100.
-
-##### Spanish
-
-* Learn Spanish Conversation While You Sleep - Daily Spanish Business Listening Practice (https://www.youtube.com/watch?v=VUQiDtz-MOQ).
-
-#### Looping music options
-
-* DJ Gvozd - Pirate Station 1121 - 05 May 2023 | Гвоздь Пиратская Станция (https://www.youtube.com/watch?v=DwSp8pYT_L8)
-
-* Late Night ✨ Lofi Hip Hop Beats - Music to Relax/Study/Work to | Chill Lofi Mix (https://www.youtube.com/watch?v=QHnxYvE3cJg)
-
-* Straight Up Smooth Jazz • 2 Hours Smooth Jazz Saxophone Instrumental Music for Relaxing and Study (https://www.youtube.com/watch?v=K7RmhU4m2no)
-
-* Smooth Jazz • 3 Hours Smooth Jazz Saxophone Instrumental Music for Grownups and Other People (https://www.youtube.com/watch?v=tq32Q5cKhkQ)
-
-* ADHD Relief Music: Multi Layered Pulse Music for Studying and Focus (https://www.youtube.com/watch?v=iH6mOyqs9j4)
-
-* Background Music for Studying, Focus and Concentration (https://www.youtube.com/watch?v=NNFhYyQiBlk)
-
-* Ethereal Bilateral Music 1 Hour Mix - Relieve Stress, Anxiety, PTSD - EMDR, Brainspotting (https://www.youtube.com/watch?v=7lyO5xlgijA).
-
-#### Recommended listening options:
-
-* Lbc fm
-
-- Talksport
-
-- Talksport2
-
-- Audiobooks e.g. star wars bukz.
-
-#### Recommended music options:
-
-* Classic fm
-
-- Capital fm London
-
-- Rinse fm
+* Classical Music for Reading - Mozart, Chopin, Debussy, Tchaikovsky... (https://www.youtube.com/watch?v=mIYzp5rcTvU) OR 4 Hours Classical Music for Sleeping (https://www.youtube.com/watch?v=AqJuVSu58oI).
 
 #### APIs
 
