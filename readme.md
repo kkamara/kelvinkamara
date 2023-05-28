@@ -73,7 +73,9 @@ Global player options control play, pause and volume.
 
 * Super Deep Red Noise • 10 hours • Black Screen (https://www.youtube.com/watch?v=j_7fC3YzrDc) volume 100
 
-* Classical Music for Reading - Mozart, Chopin, Debussy, Tchaikovsky... (https://www.youtube.com/watch?v=mIYzp5rcTvU) OR 4 Hours Classical Music for Sleeping (https://www.youtube.com/watch?v=AqJuVSu58oI) volume 100.
+* Classical Music for Reading - Mozart, Chopin, Debussy, Tchaikovsky... (https://www.youtube.com/watch?v=mIYzp5rcTvU) OR 4 Hours Classical Music for Sleeping (https://www.youtube.com/watch?v=AqJuVSu58oI) volume 100
+
+* Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) volume 70.
 
 ###### English
 
