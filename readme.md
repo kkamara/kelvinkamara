@@ -79,7 +79,7 @@ Global player options control play, pause and volume.
 
 ###### English
 
-* Learn Business English Conversation for the Office and Workplace (https://www.youtube.com/watch?v=k_ofXhe_tEY) x2 1s difference volume 100 and scaled down volume 45.
+* Learn Business English Conversation for the Office and Workplace (https://www.youtube.com/watch?v=k_ofXhe_tEY) x5 in random order volume 100 and scaled down volume 45.
 
 ###### Spanish
 
