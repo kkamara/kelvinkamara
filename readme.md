@@ -69,17 +69,13 @@ Choose from Kelvin's saved volume templates.
 
 Global player options control play, pause and volume.
 
-* ptsd-healing.mp3 (https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?pli=1) x10 volume 60 and scaled down volume 5
+* Classical Music for Reading - Mozart, Chopin, Debussy, Tchaikovsky... (https://www.youtube.com/watch?v=mIYzp5rcTvU) OR 4 Hours Classical Music for Sleeping (https://www.youtube.com/watch?v=AqJuVSu58oI) volume 100
 
-* Super Deep Red Noise • 10 hours • Black Screen (https://www.youtube.com/watch?v=j_7fC3YzrDc) volume 60 and scaled down volume 5
-
-* Classical Music for Reading - Mozart, Chopin, Debussy, Tchaikovsky... (https://www.youtube.com/watch?v=mIYzp5rcTvU) OR 4 Hours Classical Music for Sleeping (https://www.youtube.com/watch?v=AqJuVSu58oI) volume 100 and scaled down volume 45
-
-* Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) volume 100 and scaled down volume 45.
+* Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) volume 65.
 
 ###### English
 
-* Learn Business English Conversation for the Office and Workplace (https://www.youtube.com/watch?v=k_ofXhe_tEY) x5 in random order volume 100 and scaled down volume 45.
+* Learn Business English Conversation for the Office and Workplace (https://www.youtube.com/watch?v=k_ofXhe_tEY) x10 in random order volume 100.
 
 ###### Spanish
 
