@@ -69,19 +69,19 @@ Choose from Kelvin's saved volume templates.
 
 Global player options control play, pause and volume.
 
-* Classical Music for Reading - Mozart, Chopin, Debussy, Tchaikovsky... (https://www.youtube.com/watch?v=mIYzp5rcTvU) OR 4 Hours Classical Music for Sleeping (https://www.youtube.com/watch?v=AqJuVSu58oI) volume 65
+* Classical Music for Reading - Mozart, Chopin, Debussy, Tchaikovsky... (https://www.youtube.com/watch?v=mIYzp5rcTvU) OR 4 Hours Classical Music for Sleeping (https://www.youtube.com/watch?v=AqJuVSu58oI) volume 85
 
 * Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) volume 60
 
-* Learn Business English Conversation for the Office and Workplace (https://www.youtube.com/watch?v=k_ofXhe_tEY) volume 100
+* Learn Business English Conversation for the Office and Workplace (https://www.youtube.com/watch?v=k_ofXhe_tEY) volume 90
 
-* English Conversation; Learn while you Sleep with 5000 words (https://www.youtube.com/watch?v=3ha-kqV0P38) volume 100
+* English Conversation; Learn while you Sleep with 5000 words (https://www.youtube.com/watch?v=3ha-kqV0P38) volume 85
 
-* 7 HOURS of Spoken English Conversation Dialogues Practice (https://www.youtube.com/watch?v=T7EcU4obIyY volume 80
+* 7 HOURS of Spoken English Conversation Dialogues Practice (https://www.youtube.com/watch?v=T7EcU4obIyY volume 65
 
-* English for Everyone - Business English Conversation Lessons (https://www.youtube.com/watch?v=54RlZhMjiUs) volume 95
+* English for Everyone - Business English Conversation Lessons (https://www.youtube.com/watch?v=54RlZhMjiUs) volume 80
 
-* Business English Conversation Learn while you Sleep (https://www.youtube.com/watch?v=uzAjLCin2c8) volume 95.
+* Business English Conversation Learn while you Sleep (https://www.youtube.com/watch?v=uzAjLCin2c8) volume 80.
 
 ###### Spanish
 
