@@ -69,15 +69,15 @@ Choose from Kelvin's saved volume templates.
 
 Global player options control play, pause and volume.
 
-* Classical Music for Reading - Mozart, Chopin, Debussy, Tchaikovsky... (https://www.youtube.com/watch?v=mIYzp5rcTvU)
+* Classical Music for Reading - Mozart, Chopin, Debussy, Tchaikovsky... (https://www.youtube.com/watch?v=mIYzp5rcTvU) volume 45
 
 * 4 Hours Classical Music for Sleeping (https://www.youtube.com/watch?v=AqJuVSu58oI)
 
 * Classical Music Is NOT Boring (https://www.youtube.com/watch?v=hLqe9v7GDfI)
 
-* Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) volume 40
+* Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) x4 volume 40
 
-* ptsd-healing.mp3 (https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?pli=1) x4 volume 60
+* ~~ptsd-healing.mp3 (https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?pli=1) x4 volume 60~~
 
 ###### English
 
