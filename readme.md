@@ -73,13 +73,13 @@ Global player options control play, pause and volume.
 
 * 4 Hours Classical Music for Sleeping (https://www.youtube.com/watch?v=AqJuVSu58oI)
 
-* Classical Music Is NOT Boring (https://www.youtube.com/watch?v=hLqe9v7GDfI) volume 95
+* Classical Music Is NOT Boring (https://www.youtube.com/watch?v=hLqe9v7GDfI) volume 65
 
-* Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) x4 volume 75
+* Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) x4 volume 40
 
-* Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study (https://www.youtube.com/watch?v=eKFTSSKCzWA) x4 volume 75
+* Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study (https://www.youtube.com/watch?v=eKFTSSKCzWA) x4 volume 40
 
-* Tinnitus Calmer Sweeping Noise at 7kHz Masker (https://www.youtube.com/watch?v=1Dyad1IPoQ0) volume 70.
+* Tinnitus Calmer Sweeping Noise at 7kHz Masker (https://www.youtube.com/watch?v=1Dyad1IPoQ0) volume 35.
 
 ###### English
 
