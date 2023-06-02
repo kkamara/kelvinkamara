@@ -69,17 +69,17 @@ Choose from Kelvin's saved volume templates.
 
 Global player options control play, pause and volume.
 
-* Classical Music for Reading - Mozart, Chopin, Debussy, Tchaikovsky... (https://www.youtube.com/watch?v=mIYzp5rcTvU)
+* Classical Music for Reading - Mozart, Chopin, Debussy, Tchaikovsky... (https://www.youtube.com/watch?v=mIYzp5rcTvU) volume 100
 
 * 4 Hours Classical Music for Sleeping (https://www.youtube.com/watch?v=AqJuVSu58oI)
 
-* Classical Music Is NOT Boring (https://www.youtube.com/watch?v=hLqe9v7GDfI) volume 65
+* Classical Music Is NOT Boring (https://www.youtube.com/watch?v=hLqe9v7GDfI)
 
-* Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) x4 volume 40
+* Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) volume 80
 
-* Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study (https://www.youtube.com/watch?v=eKFTSSKCzWA) x4 volume 40
+* Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study (https://www.youtube.com/watch?v=eKFTSSKCzWA) x7 volume 95
 
-* Tinnitus Calmer Sweeping Noise at 7kHz Masker (https://www.youtube.com/watch?v=1Dyad1IPoQ0) volume 35.
+* Loud Noise Blocker • 10 hours (https://www.youtube.com/watch?v=CyHT9bG_uXs) volume 100.
 
 ###### English
 
