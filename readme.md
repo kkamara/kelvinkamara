@@ -69,31 +69,15 @@ Choose from Kelvin's saved volume templates.
 
 Global player options control play, pause and volume.
 
-* Ukraine's Pirate Station Live (24/7) (https://www.youtube.com/watch?v=SEbIPHhSEyA)
+* Ukraine's Pirate Station Live (24/7) (https://www.youtube.com/watch?v=SEbIPHhSEyA) volume 10
 
-* Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) volume 85
+* Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) volume 55
 
-* Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study (https://www.youtube.com/watch?v=eKFTSSKCzWA) x7 volume 95
+* Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study (https://www.youtube.com/watch?v=eKFTSSKCzWA) x7 volume 65
 
-* Loud Noise Blocker • 10 hours (https://www.youtube.com/watch?v=CyHT9bG_uXs) volume 100.
+* Loud Noise Blocker • 10 hours (https://www.youtube.com/watch?v=CyHT9bG_uXs) volume 65.
 
-###### English
-
-* Learn Business English Conversation for the Office and Workplace (https://www.youtube.com/watch?v=k_ofXhe_tEY)
-
-* English Conversation; Learn while you Sleep with 5000 words (https://www.youtube.com/watch?v=3ha-kqV0P38)
-
-* 7 HOURS of Spoken English Conversation Dialogues Practice (https://www.youtube.com/watch?v=T7EcU4obIyY
-
-* English for Everyone - Business English Conversation Lessons (https://www.youtube.com/watch?v=54RlZhMjiUs)
-
-* Business English Conversation Learn while you Sleep (https://www.youtube.com/watch?v=uzAjLCin2c8).
-
-###### Spanish
-
-* Learn Spanish Conversation While You Sleep - Daily Spanish Business Listening Practice (https://www.youtube.com/watch?v=VUQiDtz-MOQ).
-
-##### APIs
+###### APIs
 
 * https://www.radioplayeruk.com
 
