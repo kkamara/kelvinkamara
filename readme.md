@@ -75,7 +75,9 @@ Global player options control play, pause and volume.
 
 * Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study (https://www.youtube.com/watch?v=eKFTSSKCzWA) x7 volume 65
 
-* Loud Noise Blocker • 10 hours (https://www.youtube.com/watch?v=CyHT9bG_uXs) volume 65.
+* Ethereal Bilateral Music 1 Hour Mix - Relieve Stress, Anxiety, PTSD - EMDR, Brainspotting (https://www.youtube.com/watch?v=7lyO5xlgijA) volume 75
+
+* ASMR | Fast & Aggressive Layered 3DIO Mouth Sounds, Purrs and Hand Sounds 👅✨ (https://www.youtube.com/watch?v=rVHCYVXvcdE) volume 90.
 
 ###### APIs
 
