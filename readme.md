@@ -71,6 +71,8 @@ Global player options control play, pause and volume.
 
 * Example music, choose anything: Ukraine's Pirate Station Live (24/7) (https://www.youtube.com/watch?v=SEbIPHhSEyA) volume 5
 
+* Example music, choose anything: Instant Relief from Stress and Anxiety, Birds Singing in the Forest, Deep Healing Music for The Body  Live (24/7) (https://www.youtube.com/watch?v=TAhHaHsDTkk) volume 5
+
 * Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) volume 45
 
 * LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS) x4 volume 55
