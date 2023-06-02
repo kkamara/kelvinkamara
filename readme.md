@@ -69,15 +69,15 @@ Choose from Kelvin's saved volume templates.
 
 Global player options control play, pause and volume.
 
-* Ukraine's Pirate Station Live (24/7) (https://www.youtube.com/watch?v=SEbIPHhSEyA) volume 5
+* Example music, choose anything: Ukraine's Pirate Station Live (24/7) (https://www.youtube.com/watch?v=SEbIPHhSEyA) volume 5
 
-* Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) volume 10
+* Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) volume 45
 
-* Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study (https://www.youtube.com/watch?v=eKFTSSKCzWA) x7 volume 25
+* LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS) x4 volume 55
 
-* Ethereal Bilateral Music 1 Hour Mix - Relieve Stress, Anxiety, PTSD - EMDR, Brainspotting (https://www.youtube.com/watch?v=7lyO5xlgijA) volume 45
+* New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming (https://www.youtube.com/watch?v=7HhfE2UlWb0) x4 volume 55
 
-* ASMR | Fast & Aggressive Layered 3DIO Mouth Sounds, Purrs and Hand Sounds 👅✨ (https://www.youtube.com/watch?v=rVHCYVXvcdE) volume 55.
+* Ethereal Bilateral Music 1 Hour Mix - Relieve Stress, Anxiety, PTSD - EMDR, Brainspotting (https://www.youtube.com/watch?v=7lyO5xlgijA) volume 90.
 
 ###### APIs
 
