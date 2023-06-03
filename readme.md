@@ -71,15 +71,15 @@ Global player options control play, pause and volume.
 
 * Example music, choose anything: Ukraine's Pirate Station Live (24/7) (https://www.youtube.com/watch?v=SEbIPHhSEyA) volume 5
 
-* Example music, choose anything: Instant Relief from Stress and Anxiety, Birds Singing in the Forest, Deep Healing Music for The Body  Live (24/7) (https://www.youtube.com/watch?v=TAhHaHsDTkk) volume 5
+* Example music, choose anything: Instant Relief from Stress and Anxiety, Birds Singing in the Forest, Deep Healing Music for The Body  Live (24/7) (https://www.youtube.com/watch?v=TAhHaHsDTkk) volume 45
 
-* Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) volume 45
+* Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) volume 85
 
-* LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS) x4 volume 55
+* LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS) x4 volume 35
 
-* New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming (https://www.youtube.com/watch?v=7HhfE2UlWb0) x4 volume 55
+* New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming (https://www.youtube.com/watch?v=7HhfE2UlWb0) x4 volume 35
 
-* Ethereal Bilateral Music 1 Hour Mix - Relieve Stress, Anxiety, PTSD - EMDR, Brainspotting (https://www.youtube.com/watch?v=7lyO5xlgijA) volume 90.
+* Ethereal Bilateral Music 1 Hour Mix - Relieve Stress, Anxiety, PTSD - EMDR, Brainspotting (https://www.youtube.com/watch?v=7lyO5xlgijA) volume 60.
 
 ###### APIs
 
