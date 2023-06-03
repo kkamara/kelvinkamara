@@ -79,9 +79,7 @@ Global player options control play, pause and volume.
 
 * Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) volume 90
 
-* LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise (https://www.youtube.com/watch?v=omGD0GwS) x2 volume 55
-
-* New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming (https://www.youtube.com/watch?v=7HhfE2UlWb0) x2 volume 55.
+* Block Noise from Neighbours • 10 Hours (https://www.youtube.com/watch?v=-uM5oFvuQbE) x4 volume 85.
 
 ###### APIs
 
