@@ -69,7 +69,7 @@ Choose from Kelvin's saved volume templates.
 
 Global player options control play, pause and volume.
 
-* Pink Noise Ten Hours - The Classic Now in Dark Screen (https://www.youtube.com/watch?v=8SHf6wmX5MU).
+* White Noise Black Screen | Sleep, Study, Focus | 10 Hours (https://www.youtube.com/watch?v=nMfPqeZjc2c).
 
 ###### APIs
 
