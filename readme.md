@@ -77,9 +77,11 @@ Global player options control play, pause and volume.
 
 * Example music, choose anything: Ethereal Bilateral Music 1 Hour Mix - Relieve Stress, Anxiety, PTSD - EMDR, Brainspotting (https://www.youtube.com/watch?v=7lyO5xlgijA) volume 100
 
-* Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) volume 90
+* ~~Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) volume 90~~
 
-* Block Noise from Neighbours • 10 Hours (https://www.youtube.com/watch?v=-uM5oFvuQbE) x4 volume 85.
+* ~~Block Noise from Neighbours • 10 Hours (https://www.youtube.com/watch?v=-uM5oFvuQbE) x4 volume 85~~
+
+* ASMR | Fast & Aggressive Layered 3DIO Mouth Sounds, Purrs and Hand Sounds 👅✨ (https://www.youtube.com/watch?v=rVHCYVXvcdE) volume 100.
 
 ###### APIs
 
