@@ -69,19 +69,7 @@ Choose from Kelvin's saved volume templates.
 
 Global player options control play, pause and volume.
 
-* Example music, choose anything: Ukraine's Pirate Station Live (24/7) (https://www.youtube.com/watch?v=SEbIPHhSEyA) volume 5
-
-* Example music, choose anything: Instant Relief from Stress and Anxiety, Birds Singing in the Forest, Deep Healing Music for The Body Live (24/7) (https://www.youtube.com/watch?v=TAhHaHsDTkk) volume 45
-
-* Example music, choose anything: Ninad Music Streams Live (24/7) (https://www.youtube.com/@NinadMusic/streams) volume 100
-
-* Example music, choose anything: Ethereal Bilateral Music 1 Hour Mix - Relieve Stress, Anxiety, PTSD - EMDR, Brainspotting (https://www.youtube.com/watch?v=7lyO5xlgijA) volume 100
-
-* ~~Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) volume 90~~
-
-* ~~Block Noise from Neighbours • 10 Hours (https://www.youtube.com/watch?v=-uM5oFvuQbE) x4 volume 85~~
-
-* ASMR | Fast & Aggressive Layered 3DIO Mouth Sounds, Purrs and Hand Sounds 👅✨ (https://www.youtube.com/watch?v=rVHCYVXvcdE) volume 100.
+* Pink Noise Ten Hours - The Classic Now in Dark Screen (https://www.youtube.com/watch?v=8SHf6wmX5MU).
 
 ###### APIs
 
