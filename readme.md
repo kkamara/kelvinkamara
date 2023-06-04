@@ -69,7 +69,9 @@ Choose from Kelvin's saved volume templates.
 
 Global player options control play, pause and volume.
 
-* Transform Your Sleep: Calming White Noise for Masking & Relaxation (https://www.youtube.com/watch?v=eYvef5PAt_c).
+* Transform Your Sleep: Calming White Noise for Masking & Relaxation (https://www.youtube.com/watch?v=eYvef5PAt_c)
+
+* The most annoying sound 1 hour (https://www.youtube.com/watch?v=YwlUQhy0iI4).
 
 ###### APIs
 
