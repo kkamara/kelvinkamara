@@ -69,6 +69,8 @@ Choose from Kelvin's saved volume templates.
 
 Global player options control play, pause and volume.
 
+* Electronic music (https://www.youtube.com/@SensationmusicBlack/playlists)
+
 * Transform Your Sleep: Calming White Noise for Masking & Relaxation (https://www.youtube.com/watch?v=eYvef5PAt_c)
 
 * The most annoying sound 1 hour (https://www.youtube.com/watch?v=YwlUQhy0iI4).
