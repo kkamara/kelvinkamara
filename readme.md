@@ -71,11 +71,17 @@ Global player options control play, pause and volume.
 
 * Electronic music (https://www.youtube.com/@SensationmusicBlack/playlists)
 
+###### Sounds for consideration:
+
 * Ethereal Bilateral Music 1 Hour Mix - Relieve Stress, Anxiety, PTSD - EMDR, Brainspotting (https://www.youtube.com/watch?v=7lyO5xlgijA)
 
 * Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g)
 
 * Tinnitus Dropper Downward Shifting Noise Masking (https://www.youtube.com/watch?v=IINQ6iZXmjw)
+
+* RESTAURANT AMBIENCE • 10H Busy Coffee Shop Background Noise (https://www.youtube.com/watch?v=h2zkV-l_TbY)
+
+* White Noise Conversation Masking Speech Privacy Sound Noise Cancelling (https://www.youtube.com/watch?v=THskzl_MKTk)
 
 * ASMR | Fast & Aggressive Layered 3DIO Mouth Sounds, Purrs and Hand Sounds 👅✨ (https://www.youtube.com/watch?v=rVHCYVXvcdE)
 
