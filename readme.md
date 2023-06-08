@@ -13,7 +13,8 @@
 
 ## Requirements
 
-* [Yarn.](https://yarnpkg.com/)
+* [Node.js](https://nodejs.org/en/)
+* [Yarn](https://yarnpkg.com/).
 
 ## Installation
 
