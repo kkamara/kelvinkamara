@@ -10,6 +10,23 @@
 
 - Erm...
 
+
+## Requirements
+
+* [Yarn.](https://yarnpkg.com/)
+
+## Installation
+
+```bash
+  yarn # and yarn install
+```
+
+## Usage
+
+```bash
+  yarn start
+```
+
 ## More
 
 * [Desktop 2023](https://raw.githubusercontent.com/kkamara/useful/main/desktop-2023.png)
@@ -17,7 +34,7 @@
 
 I recommend working with Amazon Alexa speakers e.g. Echo Dot. We can twirl Echo Dot in our hands.
 
-I use earphones and system sound.
+I use earphones and system sound. Earphones are good for binaural and bilateral music (sounds that push different frequencies into the left and right ears simultaneously.
 
 ## Misc
 
@@ -27,7 +44,7 @@ I use earphones and system sound.
 
 [See node react boilerplate.](https://github.com/kkamara/node-react-boilerplate)
 
-I wear a [face mask](https://www.amazon.co.uk/gp/product/B08FK54H5Q) all the time to press on my nose. I will remove my tonsils ASAP.
+I wear sunglasses or [face mask](https://www.amazon.co.uk/gp/product/B08FK54H5Q) all the time to press on my nose. I will remove my tonsils ASAP.
 
 ## Design notes
 
