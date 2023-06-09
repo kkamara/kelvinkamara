@@ -89,7 +89,9 @@ Global player options control play, pause and volume.
 
 * Electronic music (https://www.youtube.com/@SensationmusicBlack/playlists)
 
-* Music for Work — Limitless Productivity Radio (https://www.youtube.com/watch?v=kxbGIMVKacg).
+* Music for Work — Limitless Productivity Radio (https://www.youtube.com/watch?v=kxbGIMVKacg)
+
+* Good Vibes Only - Chillout • House • Funk | LTB Radio 24/7 (https://www.youtube.com/watch?v=nqPKYY7mE7A).
 
 ###### Sounds for consideration:
 
