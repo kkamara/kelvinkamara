@@ -95,6 +95,8 @@ Global player options control play, pause and volume.
 
 ###### Sounds for consideration:
 
+* [ASMR Tapping & Scratching That Changes Every 10 Seconds 💜 For People Who Get Bored Easily/ADD/ADHD💕](https://www.youtube.com/watch?v=1w5Bq3oIajw)
+
 * ptsd-healing.mp3 (https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?pli=1)
 
 * Ethereal Bilateral Music 1 Hour Mix - Relieve Stress, Anxiety, PTSD - EMDR, Brainspotting (https://www.youtube.com/watch?v=7lyO5xlgijA)
