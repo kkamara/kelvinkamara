@@ -10,7 +10,6 @@
 
 - Erm...
 
-
 ## Requirements
 
 * [Node.js](https://nodejs.org/en/)
@@ -95,7 +94,7 @@ Global player options control play, pause and volume.
 
 ###### Sounds for consideration:
 
-* [ASMR Best Tapping Collection for 100% Guaranteed Sleep / 3Hr (No Talking)](https://www.youtube.com/watch?v=pIvI9UszMc4) ✅
+* [ASMR Best Tapping Collection for 100% Guaranteed Sleep / 3Hr (No Talking)](https://www.youtube.com/watch?v=pIvI9UszMc4) [ ✅ ]
 
 * [ASMR Tapping & Scratching That Changes Every 10 Seconds 💜 For People Who Get Bored Easily/ADD/ADHD💕](https://www.youtube.com/watch?v=1w5Bq3oIajw)
 
@@ -105,11 +104,11 @@ Global player options control play, pause and volume.
 
 * Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g)
 
-* Tinnitus Dropper Downward Shifting Noise Masking (https://www.youtube.com/watch?v=IINQ6iZXmjw) ✅
+* Tinnitus Dropper Downward Shifting Noise Masking (https://www.youtube.com/watch?v=IINQ6iZXmjw) [ ✅ ]
 
 * RESTAURANT AMBIENCE • 10H Busy Coffee Shop Background Noise (https://www.youtube.com/watch?v=h2zkV-l_TbY)
 
-* White Noise Conversation Masking Speech Privacy Sound Noise Cancelling (https://www.youtube.com/watch?v=THskzl_MKTk) ✅
+* White Noise Conversation Masking Speech Privacy Sound Noise Cancelling (https://www.youtube.com/watch?v=THskzl_MKTk)
 
 * ASMR | Fast & Aggressive Layered 3DIO Mouth Sounds, Purrs and Hand Sounds 👅✨ (https://www.youtube.com/watch?v=rVHCYVXvcdE)
 
