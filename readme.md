@@ -86,17 +86,24 @@ Choose from Kelvin's saved volume templates.
 
 Global player options control play, pause and volume.
 
+
+###### Music for consideration:
+
 * Electronic music (https://www.youtube.com/@SensationmusicBlack/playlists)
 
 * Music for Work — Limitless Productivity Radio (https://www.youtube.com/watch?v=kxbGIMVKacg)
 
 * Good Vibes Only - Chillout • House • Funk | LTB Radio 24/7 (https://www.youtube.com/watch?v=nqPKYY7mE7A)
 
-* Cognition Enhancer Isochronic Tones (for ADHD, clearer & faster thinking) (versions include hip-hop, funk, electronic) (https://www.youtube.com/playlist?list=PLveg0IEcZWN6oXPrgpuZWTND4jvPjfRlY).
+* Cognition Enhancer Isochronic Tones (for ADHD, clearer & faster thinking) (versions include hip-hop, funk, electronic) (https://www.youtube.com/playlist?list=PLveg0IEcZWN6oXPrgpuZWTND4jvPjfRlY)
+
+* Deep Meditation Trance Music (Deep Bass | Healing Music) (https://www.youtube.com/watch?v=vhUj-6Sfiao&list=PLnOC9rlyvdSmgMIBM4rJ4fassy1MNw712).
 
 ###### Sounds for consideration:
 
-* [ASMR Best Tapping Collection for 100% Guaranteed Sleep / 3Hr (No Talking)](https://www.youtube.com/watch?v=pIvI9UszMc4) [ ✅ ]
+* [LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise](https://www.youtube.com/watch?v=omGD0GwS-VM) [ ✅ ]
+
+* [New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming](https://www.youtube.com/watch?v=7HhfE2UlWb0) [ ✅ ]
 
 * [ASMR Tapping & Scratching That Changes Every 10 Seconds 💜 For People Who Get Bored Easily/ADD/ADHD💕](https://www.youtube.com/watch?v=1w5Bq3oIajw)
 
@@ -106,9 +113,9 @@ Global player options control play, pause and volume.
 
 * Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g)
 
-* Tinnitus Dropper Downward Shifting Noise Masking (https://www.youtube.com/watch?v=IINQ6iZXmjw) [ ✅ ]
+* Tinnitus Dropper Downward Shifting Noise Masking (https://www.youtube.com/watch?v=IINQ6iZXmjw)
 
-* RESTAURANT AMBIENCE • 10H Busy Coffee Shop Background Noise (https://www.youtube.com/watch?v=h2zkV-l_TbY)
+* RESTAURANT AMBIENCE • 10H Busy Coffee Shop Background Noise (https://www.youtube.com/watch?v=h2zkV-l_TbY) [ ✅ ]
 
 * White Noise Conversation Masking Speech Privacy Sound Noise Cancelling (https://www.youtube.com/watch?v=THskzl_MKTk)
 
