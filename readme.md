@@ -90,7 +90,9 @@ Global player options control play, pause and volume.
 
 * Music for Work — Limitless Productivity Radio (https://www.youtube.com/watch?v=kxbGIMVKacg)
 
-* Good Vibes Only - Chillout • House • Funk | LTB Radio 24/7 (https://www.youtube.com/watch?v=nqPKYY7mE7A).
+* Good Vibes Only - Chillout • House • Funk | LTB Radio 24/7 (https://www.youtube.com/watch?v=nqPKYY7mE7A)
+
+* Cognition Enhancer Isochronic Tones (for ADHD, clearer & faster thinking) (versions include hip-hop, funk, electronic) (https://www.youtube.com/playlist?list=PLveg0IEcZWN6oXPrgpuZWTND4jvPjfRlY).
 
 ###### Sounds for consideration:
 
