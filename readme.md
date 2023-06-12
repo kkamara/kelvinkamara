@@ -101,6 +101,8 @@ Global player options control play, pause and volume.
 
 ###### Sounds for consideration:
 
+* [ASMR Bright Light Triggers *Click Sounds* Gentle Eye Tests & Instructions](https://www.youtube.com/watch?v=0hknw8I4_SY) x5? [ ✅ ]
+
 * [LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise](https://www.youtube.com/watch?v=omGD0GwS-VM) [ ✅ ]
 
 * [New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming](https://www.youtube.com/watch?v=7HhfE2UlWb0) [ ✅ ]
