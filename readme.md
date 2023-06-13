@@ -103,7 +103,7 @@ Global player options control play, pause and volume.
 
 * [Pink Noise Ten Hours - The Classic Now in Dark Screen](https://www.youtube.com/watch?v=8SHf6wmX5MU) [ ✅ ]
 
-* [ASMR Bright Light Triggers *Click Sounds* Gentle Eye Tests & Instructions](https://www.youtube.com/watch?v=0hknw8I4_SY) x10? [ ✅ ]
+* [ASMR Bright Light Triggers *Click Sounds* Gentle Eye Tests & Instructions](https://www.youtube.com/watch?v=0hknw8I4_SY) [ ✅ ]
 
 * [LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise](https://www.youtube.com/watch?v=omGD0GwS-VM)
 
@@ -113,7 +113,7 @@ Global player options control play, pause and volume.
 
 * ptsd-healing.mp3 (https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?pli=1)
 
-* Ethereal Bilateral Music 1 Hour Mix - Relieve Stress, Anxiety, PTSD - EMDR, Brainspotting (https://www.youtube.com/watch?v=7lyO5xlgijA)
+* Ethereal Bilateral Music 1 Hour Mix - Relieve Stress, Anxiety, PTSD - EMDR, Brainspotting (https://www.youtube.com/watch?v=7lyO5xlgijA) [ ✅ ]
 
 * Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g)
 
