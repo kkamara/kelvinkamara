@@ -101,11 +101,13 @@ Global player options control play, pause and volume.
 
 ###### Sounds for consideration:
 
-* [ASMR Bright Light Triggers *Click Sounds* Gentle Eye Tests & Instructions](https://www.youtube.com/watch?v=0hknw8I4_SY) x5? [ ✅ ]
+* [Pink Noise Ten Hours - The Classic Now in Dark Screen](https://www.youtube.com/watch?v=8SHf6wmX5MU) [ ✅ ]
 
-* [LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise](https://www.youtube.com/watch?v=omGD0GwS-VM) [ ✅ ]
+* [ASMR Bright Light Triggers *Click Sounds* Gentle Eye Tests & Instructions](https://www.youtube.com/watch?v=0hknw8I4_SY) x10? [ ✅ ]
 
-* [New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming](https://www.youtube.com/watch?v=7HhfE2UlWb0) [ ✅ ]
+* [LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise](https://www.youtube.com/watch?v=omGD0GwS-VM)
+
+* [New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming](https://www.youtube.com/watch?v=7HhfE2UlWb0)
 
 * [ASMR Tapping & Scratching That Changes Every 10 Seconds 💜 For People Who Get Bored Easily/ADD/ADHD💕](https://www.youtube.com/watch?v=1w5Bq3oIajw)
 
@@ -117,7 +119,7 @@ Global player options control play, pause and volume.
 
 * Tinnitus Dropper Downward Shifting Noise Masking (https://www.youtube.com/watch?v=IINQ6iZXmjw)
 
-* RESTAURANT AMBIENCE • 10H Busy Coffee Shop Background Noise (https://www.youtube.com/watch?v=h2zkV-l_TbY) [ ✅ ]
+* RESTAURANT AMBIENCE • 10H Busy Coffee Shop Background Noise (https://www.youtube.com/watch?v=h2zkV-l_TbY)
 
 * White Noise Conversation Masking Speech Privacy Sound Noise Cancelling (https://www.youtube.com/watch?v=THskzl_MKTk)
 
