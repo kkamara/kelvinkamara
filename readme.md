@@ -97,7 +97,9 @@ Global player options control play, pause and volume.
 
 * Cognition Enhancer Isochronic Tones (for ADHD, clearer & faster thinking) (versions include hip-hop, funk, electronic) (https://www.youtube.com/playlist?list=PLveg0IEcZWN6oXPrgpuZWTND4jvPjfRlY) [ ✅ (metal) ]
 
-* Deep Meditation Trance Music (Deep Bass | Healing Music) (https://www.youtube.com/watch?v=vhUj-6Sfiao&list=PLnOC9rlyvdSmgMIBM4rJ4fassy1MNw712).
+* Deep Meditation Trance Music (Deep Bass | Healing Music) (https://www.youtube.com/watch?v=vhUj-6Sfiao&list=PLnOC9rlyvdSmgMIBM4rJ4fassy1MNw712)
+
+* [ASMR] 24/7 Short Triggers for DEEP SLEEP 😴 4k (No Talking) (https://www.youtube.com/watch?v=1Q58GrR-hvk) [ ✅ ].
 
 ###### Sounds for consideration:
 
