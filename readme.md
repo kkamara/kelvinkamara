@@ -97,13 +97,19 @@ Global player options control play, pause and volume.
 
 * Cognition Enhancer Isochronic Tones (for ADHD, clearer & faster thinking) (versions include hip-hop, funk, electronic) (https://www.youtube.com/playlist?list=PLveg0IEcZWN6oXPrgpuZWTND4jvPjfRlY)
 
-* Deep Meditation Trance Music (Deep Bass | Healing Music) (https://www.youtube.com/watch?v=vhUj-6Sfiao&list=PLnOC9rlyvdSmgMIBM4rJ4fassy1MNw712) [ ✅ ].
+* Deep Meditation Trance Music (Deep Bass | Healing Music) (https://www.youtube.com/watch?v=vhUj-6Sfiao&list=PLnOC9rlyvdSmgMIBM4rJ4fassy1MNw712).
 
 ###### Sounds for consideration:
 
-* [Pink Noise Ten Hours - The Classic Now in Dark Screen](https://www.youtube.com/watch?v=8SHf6wmX5MU) [ ✅ ]
+* [Deep Bass | Healing Music](https://www.youtube.com/watch?v=vhUj-6Sfiao) [ ✅ ]
 
-* [ASMR Bright Light Triggers *Click Sounds* Gentle Eye Tests & Instructions](https://www.youtube.com/watch?v=0hknw8I4_SY) [ ✅ ]
+* [ASMR for ADHD Focus on ME! Fast & Aggressive 🗣](https://www.youtube.com/watch?v=hAJATAx4Wn8) x4 [ ✅ ]
+
+* [Super Deep Red Noise • 10 hours • Black Screen](https://www.youtube.com/watch?v=j_7fC3YzrDc) [ ✅ ]
+
+* [Pink Noise Ten Hours - The Classic Now in Dark Screen](https://www.youtube.com/watch?v=8SHf6wmX5MU)
+
+* [ASMR Bright Light Triggers *Click Sounds* Gentle Eye Tests & Instructions](https://www.youtube.com/watch?v=0hknw8I4_SY) x4 [ ✅ ]
 
 * [LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise](https://www.youtube.com/watch?v=omGD0GwS-VM)
 
@@ -125,7 +131,7 @@ Global player options control play, pause and volume.
 
 * ASMR | Fast & Aggressive Layered 3DIO Mouth Sounds, Purrs and Hand Sounds 👅✨ (https://www.youtube.com/watch?v=rVHCYVXvcdE)
 
-* The most annoying sound 1 hour (https://www.youtube.com/watch?v=YwlUQhy0iI4).
+* The most annoying sound 1 hour (https://www.youtube.com/watch?v=YwlUQhy0iI4) [ ✅ ].
 
 ###### APIs
 
