@@ -101,9 +101,9 @@ Global player options control play, pause and volume.
 
 ###### Sounds for consideration:
 
-* [Deep Bass | Healing Music](https://www.youtube.com/watch?v=vhUj-6Sfiao) [ ✅ ]
+* [Deep Bass | Healing Music](https://www.youtube.com/watch?v=vhUj-6Sfiao)
 
-* [ASMR for ADHD Focus on ME! Fast & Aggressive 🗣](https://www.youtube.com/watch?v=hAJATAx4Wn8) x4 [ ✅ ]
+* [ASMR for ADHD Focus on ME! Fast & Aggressive 🗣](https://www.youtube.com/watch?v=hAJATAx4Wn8) x4
 
 * [Super Deep Red Noise • 10 hours • Black Screen](https://www.youtube.com/watch?v=j_7fC3YzrDc) [ ✅ ]
 
@@ -119,7 +119,7 @@ Global player options control play, pause and volume.
 
 * ptsd-healing.mp3 (https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?pli=1)
 
-* Ethereal Bilateral Music 1 Hour Mix - Relieve Stress, Anxiety, PTSD - EMDR, Brainspotting (https://www.youtube.com/watch?v=7lyO5xlgijA) [ ✅ ]
+* Ethereal Bilateral Music 1 Hour Mix - Relieve Stress, Anxiety, PTSD - EMDR, Brainspotting (https://www.youtube.com/watch?v=7lyO5xlgijA)
 
 * Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g)
 
