@@ -101,7 +101,9 @@ Global player options control play, pause and volume.
 
 ###### Sounds for consideration:
 
-* [BEST Tinnitus Relief Sound Therapy Treatment | Over 5 hours of Tinnitus Masking](https://www.youtube.com/watch?v=V3jrNmrP-ic) [ ✅ ]
+* [Tinnitus Scrubber 2.0 Noise Masking | A Variation and Sequel](https://www.youtube.com/watch?v=BIfcqDuOCoA) [ ✅ ]
+
+* [BEST Tinnitus Relief Sound Therapy Treatment | Over 5 hours of Tinnitus Masking](https://www.youtube.com/watch?v=V3jrNmrP-ic)
 
 * [Deep Bass | Healing Music](https://www.youtube.com/watch?v=vhUj-6Sfiao)
 
