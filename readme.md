@@ -99,9 +99,11 @@ Global player options control play, pause and volume.
 
 * Deep Meditation Trance Music (Deep Bass | Healing Music) (https://www.youtube.com/watch?v=vhUj-6Sfiao&list=PLnOC9rlyvdSmgMIBM4rJ4fassy1MNw712)
 
-* [ASMR] 24/7 Short Triggers for DEEP SLEEP 😴 4k (No Talking) (https://www.youtube.com/watch?v=1Q58GrR-hvk) [ ✅ ].
+* [ASMR] 24/7 Short Triggers for DEEP SLEEP 😴 4k (No Talking) (https://www.youtube.com/watch?v=1Q58GrR-hvk).
 
 ###### Sounds for consideration:
+
+* [ASMR for ADHD 💙Changing Triggers Every 30 Seconds😴 Scratching , Tapping , Massage & More| No Talking](https://www.youtube.com/watch?v=TirUpS2M4yo) [ ✅ ]
 
 * [Tinnitus Scrubber 2.0 Noise Masking | A Variation and Sequel](https://www.youtube.com/watch?v=BIfcqDuOCoA)
 
@@ -113,7 +115,7 @@ Global player options control play, pause and volume.
 
 * [Super Deep Red Noise • 10 hours • Black Screen](https://www.youtube.com/watch?v=j_7fC3YzrDc)
 
-* [Pink Noise Ten Hours - The Classic Now in Dark Screen](https://www.youtube.com/watch?v=8SHf6wmX5MU)
+* [Pink Noise Ten Hours - The Classic Now in Dark Screen](https://www.youtube.com/watch?v=8SHf6wmX5MU) [ ✅ ]
 
 * [ASMR Bright Light Triggers *Click Sounds* Gentle Eye Tests & Instructions](https://www.youtube.com/watch?v=0hknw8I4_SY) x4
 
@@ -125,7 +127,7 @@ Global player options control play, pause and volume.
 
 * ptsd-healing.mp3 (https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?pli=1)
 
-* Ethereal Bilateral Music 1 Hour Mix - Relieve Stress, Anxiety, PTSD - EMDR, Brainspotting (https://www.youtube.com/watch?v=7lyO5xlgijA) [ ✅ ]
+* Ethereal Bilateral Music 1 Hour Mix - Relieve Stress, Anxiety, PTSD - EMDR, Brainspotting (https://www.youtube.com/watch?v=7lyO5xlgijA)
 
 * Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g)
 
@@ -137,7 +139,7 @@ Global player options control play, pause and volume.
 
 * ASMR | Fast & Aggressive Layered 3DIO Mouth Sounds, Purrs and Hand Sounds 👅✨ (https://www.youtube.com/watch?v=rVHCYVXvcdE)
 
-* The most annoying sound 1 hour (https://www.youtube.com/watch?v=YwlUQhy0iI4) [ ✅ ].
+* The most annoying sound 1 hour (https://www.youtube.com/watch?v=YwlUQhy0iI4).
 
 ###### APIs
 
