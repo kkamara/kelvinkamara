@@ -103,8 +103,6 @@ Global player options control play, pause and volume.
 
 ###### Sounds for consideration:
 
-* [ASMR for ADHD 💙Changing Triggers Every 30 Seconds😴 Scratching , Tapping , Massage & More| No Talking](https://www.youtube.com/watch?v=TirUpS2M4yo) [ ✅ ]
-
 * [Tinnitus Scrubber 2.0 Noise Masking | A Variation and Sequel](https://www.youtube.com/watch?v=BIfcqDuOCoA)
 
 * [BEST Tinnitus Relief Sound Therapy Treatment | Over 5 hours of Tinnitus Masking](https://www.youtube.com/watch?v=V3jrNmrP-ic)
@@ -137,7 +135,7 @@ Global player options control play, pause and volume.
 
 * White Noise Conversation Masking Speech Privacy Sound Noise Cancelling (https://www.youtube.com/watch?v=THskzl_MKTk)
 
-* ASMR | Fast & Aggressive Layered 3DIO Mouth Sounds, Purrs and Hand Sounds 👅✨ (https://www.youtube.com/watch?v=rVHCYVXvcdE)
+* ASMR | Fast & Aggressive Layered 3DIO Mouth Sounds, Purrs and Hand Sounds 👅✨ (https://www.youtube.com/watch?v=rVHCYVXvcdE) [ ✅ ]
 
 * The most annoying sound 1 hour (https://www.youtube.com/watch?v=YwlUQhy0iI4).
 
