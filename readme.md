@@ -30,11 +30,9 @@
 ## More
 
 * [Desktop 2023](https://raw.githubusercontent.com/kkamara/useful/main/desktop-2023.png)
-* [Desktop 2023 extra](https://github.com/kkamara/useful/commit/a9e620925598c945ad71501388dc615f4b381d33)
+* [Desktop 2023 extra](https://github.com/kkamara/useful/commit/a9e620925598c945ad71501388dc615f4b381d33) (comments at the bottom of the page)
 
 I recommend working with Amazon Alexa speakers e.g. Echo Dot. We can twirl Echo Dot in our hands.
-
-I use earphones and system sound. Earphones are good for binaural and bilateral music (sounds that push different frequencies into the left and right ears simultaneously.
 
 ## Misc
 
