@@ -87,7 +87,7 @@ Global player options control play, pause and volume.
 
 ###### Music:
 
-* YouTube Playlist: Cognition Enhancer Isochronic Tones (for ADHD, clearer & faster thinking) (versions include hip-hop, funk, electronic) (https://www.youtube.com/playlist?list=PLveg0IEcZWN6oXPrgpuZWTND4jvPjfRlY) [ ✅ (metal) ] volume 55
+* YouTube Playlist: [Cognition Enhancer Isochronic Tones (for ADHD, clearer & faster thinking) (versions include hip-hop, funk, electronic)](https://www.youtube.com/playlist?list=PLveg0IEcZWN6oXPrgpuZWTND4jvPjfRlY) [ ✅ (metal) ] volume 55
 
 * [LISTEN EVERYDAY! "I AM" affirmations for coding|ComputerProgramming Affirmations|Coding Affirmations](https://www.youtube.com/watch?v=agq9MYks7xs) [ ✅ ] volume 100.
 
@@ -97,9 +97,9 @@ Global player options control play, pause and volume.
 
 * [ASMR Bright Light Triggers *Click Sounds* Gentle Eye Tests & Instructions](https://www.youtube.com/watch?v=0hknw8I4_SY) [ ✅ ] volume 100
 
-* Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise (https://www.youtube.com/watch?v=cDUSttYcq2g) [ ✅ ] volume 50
+* [Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise](https://www.youtube.com/watch?v=cDUSttYcq2g) [ ✅ ] volume 50
 
-* ASMR | Fast & Aggressive Layered 3DIO Mouth Sounds, Purrs and Hand Sounds 👅✨ (https://www.youtube.com/watch?v=rVHCYVXvcdE) [ ✅ ] volume 75.
+* [ASMR | Fast & Aggressive Layered 3DIO Mouth Sounds, Purrs and Hand Sounds 👅✨](https://www.youtube.com/watch?v=rVHCYVXvcdE) [ ✅ ] volume 75.
 
 ###### APIs
 
