@@ -99,7 +99,9 @@ Global player options control play, pause and volume.
 
 * Deep Meditation Trance Music (Deep Bass | Healing Music) (https://www.youtube.com/watch?v=vhUj-6Sfiao&list=PLnOC9rlyvdSmgMIBM4rJ4fassy1MNw712)
 
-* [ASMR] 24/7 Short Triggers for DEEP SLEEP 😴 4k (No Talking) (https://www.youtube.com/watch?v=1Q58GrR-hvk).
+* [ASMR] 24/7 Short Triggers for DEEP SLEEP 😴 4k (No Talking) (https://www.youtube.com/watch?v=1Q58GrR-hvk)
+
+* [LISTEN EVERYDAY! "I AM" affirmations for coding|ComputerProgramming Affirmations|Coding Affirmations](https://www.youtube.com/watch?v=agq9MYks7xs) [ ✅ ].
 
 ###### Sounds for consideration:
 
