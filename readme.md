@@ -74,7 +74,7 @@ https://codepen.io/wesbos/pen/bqEEEX
 
 Playable [fractal animations](https://www.youtube.com/watch?v=t6jlhqNxRYk).
 
-Volumes 60, 65 and 30, 35 are good volumes to listen.
+Volumes 60, 65 and 30, 35 are good volumes to listen. And 25 is a good volume for listening to music on low volume.
 
 User's saved volume templates.
 
@@ -103,6 +103,8 @@ Global player options control play, pause and volume.
 
 ###### Sounds for consideration:
 
+* [White Noise Black Screen - ADHD Relief - Improve Focus I Increase Dopamine](https://www.youtube.com/watch?v=olJ7NMD68Hw) [ ✅ ]
+
 * [Tinnitus Scrubber 2.0 Noise Masking | A Variation and Sequel](https://www.youtube.com/watch?v=BIfcqDuOCoA)
 
 * [BEST Tinnitus Relief Sound Therapy Treatment | Over 5 hours of Tinnitus Masking](https://www.youtube.com/watch?v=V3jrNmrP-ic)
@@ -113,9 +115,9 @@ Global player options control play, pause and volume.
 
 * [Super Deep Red Noise • 10 hours • Black Screen](https://www.youtube.com/watch?v=j_7fC3YzrDc)
 
-* [Pink Noise Ten Hours - The Classic Now in Dark Screen](https://www.youtube.com/watch?v=8SHf6wmX5MU) [ ✅ ]
+* [Pink Noise Ten Hours - The Classic Now in Dark Screen](https://www.youtube.com/watch?v=8SHf6wmX5MU)
 
-* [ASMR Bright Light Triggers *Click Sounds* Gentle Eye Tests & Instructions](https://www.youtube.com/watch?v=0hknw8I4_SY) x4
+* [ASMR Bright Light Triggers *Click Sounds* Gentle Eye Tests & Instructions](https://www.youtube.com/watch?v=0hknw8I4_SY) [ ✅ ]
 
 * [LOUD! Brown Noise on Black Screen (Ten Hours) #sleep #study #noise](https://www.youtube.com/watch?v=omGD0GwS-VM)
 
