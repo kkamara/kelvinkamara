@@ -87,13 +87,13 @@ Choose from Kelvin's saved volume templates.
 Global player options control play, pause and volume.
 
 
-###### Music for consideration:
+###### Music:
 
 * Cognition Enhancer Isochronic Tones (for ADHD, clearer & faster thinking) (versions include hip-hop, funk, electronic) (https://www.youtube.com/playlist?list=PLveg0IEcZWN6oXPrgpuZWTND4jvPjfRlY) [ ✅ (metal) ] volume 55
 
 * [LISTEN EVERYDAY! "I AM" affirmations for coding|ComputerProgramming Affirmations|Coding Affirmations](https://www.youtube.com/watch?v=agq9MYks7xs) [ ✅ ] volume 100.
 
-###### Sounds for consideration:
+###### Sounds:
 
 * [White Noise Black Screen - ADHD Relief - Improve Focus I Increase Dopamine](https://www.youtube.com/watch?v=olJ7NMD68Hw) [ ✅ ] volume 80
 
