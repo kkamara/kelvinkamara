@@ -84,6 +84,7 @@ Choose from Kelvin's saved volume templates.
 
 Global player options control play, pause and volume.
 
+<sub>Note: putting YouTube war first person shooter mix in the background can help to relax and chill-out more.</sub>
 
 ###### Music:
 
