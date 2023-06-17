@@ -70,13 +70,7 @@ https://codepen.io/wesbos/pen/bqEEEX
 
 ## Planning notes
 
-Playable [fractal animations](https://www.youtube.com/watch?v=t6jlhqNxRYk).
-
-Volumes 60, 65 and 30, 35 are good volumes to listen. And 25 is a good volume for listening to music on low volume.
-
-User's saved volume templates.
-
-Choose from Kelvin's saved volume templates.
+~~Playable [fractal animations](https://www.youtube.com/watch?v=t6jlhqNxRYk).~~
 
 * [Kelvin Kamara engine](https://github.com/kkamara/kelvinkamara#engine--core).
 
@@ -84,13 +78,19 @@ Choose from Kelvin's saved volume templates.
 
 Global player options control play, pause and volume.
 
+Volumes 60, 65 and 30, 35 are good volumes to listen. And 25 is a good volume for listening to music on low volume.
+
+User's saved volume templates.
+
+Choose from Kelvin's saved volume templates.
+
 ###### Sounds:
 
-* [White Noise Black Screen - ADHD Relief - Improve Focus I Increase Dopamine](https://www.youtube.com/watch?v=olJ7NMD68Hw) [ ✅ ] volume 85
+* [Pink Noise Ten Hours - The Classic Now in Dark Screen](https://www.youtube.com/watch?v=8SHf6wmX5MU) [ ✅ ] volume 100
 
 * [ASMR Bright Light Triggers *Click Sounds* Gentle Eye Tests & Instructions](https://www.youtube.com/watch?v=0hknw8I4_SY) [ ✅ ] volume 100
 
-* [Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise](https://www.youtube.com/watch?v=cDUSttYcq2g) [ ✅ ] volume 75
+* [Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise](https://www.youtube.com/watch?v=cDUSttYcq2g) [ ✅ ] volume 100
 
 Note: the rain on tin roof is super similar to the heavy hitting of rain I experienced at Gibraltar, UK (south of Spain) where the weather climate is hot. I also experienced 30+ degree celcius weather in my travel during Gibraltar's winter period. Gibraltar has had two referendums on staying in the UK and Gibraltar have voted twice 99% to remain in the UK.
 
