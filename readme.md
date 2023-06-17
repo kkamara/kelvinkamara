@@ -84,6 +84,19 @@ User's saved volume templates.
 
 Choose from Kelvin's saved volume templates.
 
+###### Music radio (optional):
+
+* [Capital London](https://www.radioplayeruk.com/radio/pop/capitalfm/london.php).
+
+###### News radio (optional):
+
+* [https://www.radioplayeruk.com/radio/sporttalk/lbc.php](https://www.radioplayeruk.com/radio/sporttalk/lbc.php).
+
+###### Sports radio (optional):
+
+* [talkSPORT](https://www.radioplayeruk.com/radio/sporttalk/talksport.php)
+* [talkSPORT2](https://www.radioplayeruk.com/radio/sporttalk/talksport2.php).
+
 ###### Sounds:
 
 * [Hammer Hitting Metal Sound Effect - 8 HOURS - with video - Metalworking Workshop sounds](https://www.youtube.com/watch?v=7d5j4mvprs0) [ ✅ ] volume 100
