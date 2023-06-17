@@ -86,11 +86,13 @@ Choose from Kelvin's saved volume templates.
 
 ###### Sounds:
 
-* [Pink Noise Ten Hours - The Classic Now in Dark Screen](https://www.youtube.com/watch?v=8SHf6wmX5MU) [ ✅ ] volume 100
+* [Hammer Hitting Metal Sound Effect - 8 HOURS - with video - Metalworking Workshop sounds](https://www.youtube.com/watch?v=7d5j4mvprs0) [ ✅ ] volume 100
 
-* [ASMR Bright Light Triggers *Click Sounds* Gentle Eye Tests & Instructions](https://www.youtube.com/watch?v=0hknw8I4_SY) [ ✅ ] volume 100
+~~* [Pink Noise Ten Hours - The Classic Now in Dark Screen](https://www.youtube.com/watch?v=8SHf6wmX5MU) [ ✅ ] volume 100~~
 
-* [Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise](https://www.youtube.com/watch?v=cDUSttYcq2g) [ ✅ ] volume 100
+~~* [ASMR Bright Light Triggers *Click Sounds* Gentle Eye Tests & Instructions](https://www.youtube.com/watch?v=0hknw8I4_SY) [ ✅ ] volume 100~~
+
+~~* [Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise](https://www.youtube.com/watch?v=cDUSttYcq2g) [ ✅ ] volume 100~~
 
 Note: the rain on tin roof is super similar to the heavy hitting of rain I experienced at Gibraltar, UK (south of Spain) where the weather climate is hot. I also experienced 30+ degree celcius weather in my travel during Gibraltar's winter period. Gibraltar has had two referendums on staying in the UK and Gibraltar have voted twice 99% to remain in the UK.
 
