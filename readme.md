@@ -90,7 +90,7 @@ Choose from Kelvin's saved volume templates.
 
 ###### News radio (optional):
 
-* [https://www.radioplayeruk.com/radio/sporttalk/lbc.php](https://www.radioplayeruk.com/radio/sporttalk/lbc.php).
+* [LBC](https://www.radioplayeruk.com/radio/sporttalk/lbc.php).
 
 ###### Sports radio (optional):
 
