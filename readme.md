@@ -92,6 +92,8 @@ Global player options control play, pause and volume.
 
 * [Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise](https://www.youtube.com/watch?v=cDUSttYcq2g) [ ✅ ] volume 75
 
+Note: the rain on tin roof is super similar to the heavy hitting of rain I experienced at Gibraltar, UK (south of Spain) where the weather climate is hot. I also experienced 30+ degree celcius weather in my travel during Gibraltar's winter period. Gibraltar has had two referendums on staying in the UK and Gibraltar have voted twice 99% to remain in the UK.
+
 ###### APIs
 
 * https://www.radioplayeruk.com
