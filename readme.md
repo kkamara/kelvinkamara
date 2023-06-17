@@ -96,11 +96,11 @@ Global player options control play, pause and volume.
 
 ###### Sounds:
 
-* [White Noise Black Screen - ADHD Relief - Improve Focus I Increase Dopamine](https://www.youtube.com/watch?v=olJ7NMD68Hw) [ ✅ ] volume 80
+* [White Noise Black Screen - ADHD Relief - Improve Focus I Increase Dopamine](https://www.youtube.com/watch?v=olJ7NMD68Hw) [ ✅ ] volume 85
 
 * [ASMR Bright Light Triggers *Click Sounds* Gentle Eye Tests & Instructions](https://www.youtube.com/watch?v=0hknw8I4_SY) [ ✅ ] volume 100
 
-* [Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise](https://www.youtube.com/watch?v=cDUSttYcq2g) [ ✅ ] volume 50
+* [Rain on Tin Roof | BLACK SCREEN | Sleep, Study, Relax, Meditate | White Noise](https://www.youtube.com/watch?v=cDUSttYcq2g) [ ✅ ] volume 75
 
 * [ASMR | Fast & Aggressive Layered 3DIO Mouth Sounds, Purrs and Hand Sounds](https://www.youtube.com/watch?v=rVHCYVXvcdE) [ ✅ ] volume 75.
 
