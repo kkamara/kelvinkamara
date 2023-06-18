@@ -2,7 +2,7 @@
 
 # kelvinkamara
 
-(05-Apr-23) Soundscape, background noise app.
+(05-Apr-23) Soundscape, background noise app. To focus on your task and entertainment.
 
 - We can do it and it's not just do it.
 
