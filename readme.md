@@ -129,6 +129,10 @@ Note: the rain on tin roof is super similar to the heavy hitting of rain I exper
 
 * https://garfnet.org.uk/cms/tables/radio-frequencies/internet-radio-player/
 
+Reload DOM every x minutes to randomize `currentTime` for offline content.
+
+The play settings for online content stay the same.
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
