@@ -2,7 +2,7 @@
 
 # kelvinkamara
 
-(05-Apr-23) Soundscape.
+(05-Apr-23) Soundscape, background noise app.
 
 - We can do it and it's not just do it.
 
@@ -86,7 +86,7 @@ Choose from Kelvin's saved volume templates.
 
 ###### Music (optional):
 
-* [Metal Mix Cognition Enhancer For ADHD, Clearer and Faster Thinking.m4a](https://www.youtube.com/watch?v=tCCkHJNeV20) (audio player for online & offline modes) [ ✅ ].
+* [Metal Mix Cognition Enhancer For ADHD, Clearer and Faster Thinking.m4a](https://www.youtube.com/watch?v=tCCkHJNeV20) (audio player for online & offline modes) [ ✅ ] volume 45.
 
 ###### Music radio (optional):
 
@@ -103,9 +103,9 @@ Choose from Kelvin's saved volume templates.
 
 ###### Sounds:
 
-* [Hammer Hitting Metal Sound Effect - 8 HOURS - with video - Metalworking Workshop sounds.m4a](https://www.youtube.com/watch?v=7d5j4mvprs0) [ ✅ ] volume 100 (audio player for online & offline modes)
+* [Hammer Hitting Metal Sound Effect - 8 HOURS - with video - Metalworking Workshop sounds.m4a](https://www.youtube.com/watch?v=7d5j4mvprs0) [ ✅ ] volume 50 (audio player for online & offline modes)
 
-* [New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming.m4a](https://www.youtube.com/watch?v=7HhfE2UlWb0) [ ✅ ] volume 100 (audio player for online & offline modes)
+* [New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming.m4a](https://www.youtube.com/watch?v=7HhfE2UlWb0) [ ✅ ] volume 45 (audio player for online & offline modes)
 
 ~~* [Pink Noise Ten Hours - The Classic Now in Dark Screen](https://www.youtube.com/watch?v=8SHf6wmX5MU) [ ✅ ] volume 100~~
 
