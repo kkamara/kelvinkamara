@@ -84,22 +84,28 @@ User's saved volume templates.
 
 Choose from Kelvin's saved volume templates.
 
+###### Music (optional):
+
+* [Metal Mix Cognition Enhancer For ADHD, Clearer and Faster Thinking.m4a](https://www.youtube.com/watch?v=tCCkHJNeV20) (audio player for online & offline modes) [ ✅ ].
+
 ###### Music radio (optional):
 
-* [Capital London](https://www.radioplayeruk.com/radio/pop/capitalfm/london.php).
+* [Capital London](https://www.radioplayeruk.com/radio/pop/capitalfm/london.php) (radio player for online modes) [ ✅ ].
 
 ###### News radio (optional):
 
-* [LBC](https://www.radioplayeruk.com/radio/sporttalk/lbc.php).
+* [LBC](https://www.radioplayeruk.com/radio/sporttalk/lbc.php) (radio player for online modes) [ ✅ ].
 
 ###### Sports radio (optional):
 
-* [talkSPORT](https://www.radioplayeruk.com/radio/sporttalk/talksport.php)
-* [talkSPORT2](https://www.radioplayeruk.com/radio/sporttalk/talksport2.php).
+* [talkSPORT](https://www.radioplayeruk.com/radio/sporttalk/talksport.php) (radio player for online modes) [ ✅ ]
+* [talkSPORT2](https://www.radioplayeruk.com/radio/sporttalk/talksport2.php) (radio player for online modes) [ ✅ ].
 
 ###### Sounds:
 
-* [Hammer Hitting Metal Sound Effect - 8 HOURS - with video - Metalworking Workshop sounds](https://www.youtube.com/watch?v=7d5j4mvprs0) [ ✅ ] volume 100
+* [Hammer Hitting Metal Sound Effect - 8 HOURS - with video - Metalworking Workshop sounds.m4a](https://www.youtube.com/watch?v=7d5j4mvprs0) [ ✅ ] volume 100 (audio player for online & offline modes)
+
+* [New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming](https://www.youtube.com/watch?v=7HhfE2UlWb0) [ ✅ ] volume 100 (audio player for online & offline modes)
 
 ~~* [Pink Noise Ten Hours - The Classic Now in Dark Screen](https://www.youtube.com/watch?v=8SHf6wmX5MU) [ ✅ ] volume 100~~
 
