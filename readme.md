@@ -103,9 +103,9 @@ Choose from Kelvin's saved volume templates.
 
 ###### Sounds:
 
-* [Hammer Hitting Metal Sound Effect - 8 HOURS - with video - Metalworking Workshop sounds.m4a](https://www.youtube.com/watch?v=7d5j4mvprs0) [ ✅ ] volume 50 (audio player for online & offline modes)
+* [Hammer Hitting Metal Sound Effect - 8 HOURS - with video - Metalworking Workshop sounds.m4a](https://www.youtube.com/watch?v=7d5j4mvprs0) [ ✅ ] x3 volume 60 (audio player for online & offline modes)
 
-* [New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming.m4a](https://www.youtube.com/watch?v=7HhfE2UlWb0) [ ✅ ] volume 45 (audio player for online & offline modes)
+* [New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming.m4a](https://www.youtube.com/watch?v=7HhfE2UlWb0) [ ✅ ] volume 100 (audio player for online & offline modes)
 
 ~~* [Pink Noise Ten Hours - The Classic Now in Dark Screen](https://www.youtube.com/watch?v=8SHf6wmX5MU) [ ✅ ] volume 100~~
 
