@@ -86,7 +86,7 @@ Choose from Kelvin's saved volume templates.
 
 ###### Truck simulator playlist (optional):
 
-* [Americanos](https://www.youtube.com/playlist?list=PLQ4_4pfbt1WpQlxqmX0XLwGVGepyT2SZm) (audio player for online & offline modes) [ ✅ ] volume 100.
+* [Americanos](https://www.youtube.com/playlist?list=PLQ4_4pfbt1WpQlxqmX0XLwGVGepyT2SZm) (youtube player for online modes) [ ✅ ] volume 100.
 
 ###### Music (optional):
 
@@ -107,7 +107,7 @@ Choose from Kelvin's saved volume templates.
 
 ###### Sounds:
 
-* [Hammer Hitting Metal Sound Effect - 8 HOURS - with video - Metalworking Workshop sounds.m4a](https://www.youtube.com/watch?v=7d5j4mvprs0) [ ✅ ] x3 volume 60 (audio player for online & offline modes)
+* [Hammer Hitting Metal Sound Effect - 8 HOURS - with video - Metalworking Workshop sounds.m4a](https://www.youtube.com/watch?v=7d5j4mvprs0) [ ✅ ] x3 volume 70 (audio player for online & offline modes)
 
 * [Sleep Fast with White Noise 😴 10 hours • Black Screen](https://www.youtube.com/watch?v=YDMvzx4citM)[ ✅ ] volume 100 (audio player for online & offline modes)
 
