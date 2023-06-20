@@ -84,6 +84,10 @@ User's saved volume templates.
 
 Choose from Kelvin's saved volume templates.
 
+###### Truck simulator playlist (optional):
+
+* [Americanos](https://www.youtube.com/playlist?list=PLQ4_4pfbt1WpQlxqmX0XLwGVGepyT2SZm) (audio player for online & offline modes) [ ✅ ] volume 100.
+
 ###### Music (optional):
 
 * [Metal Mix Cognition Enhancer For ADHD, Clearer and Faster Thinking.m4a](https://www.youtube.com/watch?v=tCCkHJNeV20) (audio player for online & offline modes) [ ✅ ] volume 45.
