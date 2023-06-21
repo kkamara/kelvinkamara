@@ -86,7 +86,7 @@ Choose from Kelvin's saved volume templates.
 
 ###### Truck simulator playlist (optional):
 
-* [Americanos](https://www.youtube.com/playlist?list=PLQ4_4pfbt1WpQlxqmX0XLwGVGepyT2SZm) (youtube player for online modes) [ ✅ ] volume 100.
+* [Americanos](https://www.youtube.com/watch?v=Se_Ouox0wVQ&list=PLQ4_4pfbt1WpQlxqmX0XLwGVGepyT2SZm&index=211) (youtube player for online modes) [ ✅ ] volume 100.
 
 ###### Music (optional):
 
