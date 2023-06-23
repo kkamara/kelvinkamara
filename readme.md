@@ -107,9 +107,17 @@ Choose from Kelvin's saved volume templates.
 
 ###### Sounds:
 
-* [Hammer Hitting Metal Sound Effect - 8 HOURS - with video - Metalworking Workshop sounds.m4a](https://www.youtube.com/watch?v=7d5j4mvprs0) [ ✅ ] x3 volume 65 (audio player for online & offline modes)
+* [Learn Business English Conversation for the Office and Workplace](https://www.youtube.com/watch?v=k_ofXhe_tEY) [ ✅ ] x2 volume 65 (audio player for online & offline modes)
 
-* [Sleep Fast with White Noise 😴 10 hours • Black Screen](https://www.youtube.com/watch?v=YDMvzx4citM)[ ✅ ] volume 60 (audio player for online & offline modes)
+* [7 HOURS of Spoken English Conversation Dialogues Practice](https://www.youtube.com/watch?v=T7EcU4obIyY) [ ✅ ] x2 volume 65 (audio player for online & offline modes)
+
+* [English for Everyone - Business English Conversation Lessons](https://www.youtube.com/watch?v=54RlZhMjiUs) [ ✅ ] x2 volume 65 (audio player for online & offline modes)
+
+* [Business English Conversation Learn while you Sleep](https://www.youtube.com/watch?v=uzAjLCin2c8) [ ✅ ] x2 volume 65 (audio player for online & offline modes)
+
+~~* [Hammer Hitting Metal Sound Effect - 8 HOURS - with video - Metalworking Workshop sounds.m4a](https://www.youtube.com/watch?v=7d5j4mvprs0) [ ✅ ] x3 volume 65 (audio player for online & offline modes)~~
+
+~~* [Sleep Fast with White Noise 😴 10 hours • Black Screen](https://www.youtube.com/watch?v=YDMvzx4citM)[ ✅ ] volume 60 (audio player for online & offline modes)~~
 
 ~~* [New! Extra Loud ★ Green Noise ★ Black Screen #sleep #relaxing #calming.m4a](https://www.youtube.com/watch?v=7HhfE2UlWb0) [ ✅ ] volume 100 (audio player for online & offline modes)~~
 
