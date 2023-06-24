@@ -107,13 +107,9 @@ Choose from Kelvin's saved volume templates.
 
 ###### Sounds:
 
-* [Learn Business English Conversation for the Office and Workplace](https://www.youtube.com/watch?v=k_ofXhe_tEY) [ ✅ ] x2 volume 65 (audio player for online & offline modes)
+* [ptsd-healing.mp3](https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?pli=1) [ ✅ ] x8 volume 100 (audio player for online & offline modes)
 
-* [7 HOURS of Spoken English Conversation Dialogues Practice](https://www.youtube.com/watch?v=T7EcU4obIyY) [ ✅ ] x2 volume 65 (audio player for online & offline modes)
-
-* [English for Everyone - Business English Conversation Lessons](https://www.youtube.com/watch?v=54RlZhMjiUs) [ ✅ ] x2 volume 65 (audio player for online & offline modes)
-
-* [Business English Conversation Learn while you Sleep](https://www.youtube.com/watch?v=uzAjLCin2c8) [ ✅ ] x2 volume 65 (audio player for online & offline modes)
+* [Ten Hours of Noise Slowly Sweeping From 100 Hz to 20 kHz](https://www.youtube.com/watch?v=rf52kGRJDSI) [ ✅ ] volume 100 (audio player for online & offline modes)
 
 ~~* [Hammer Hitting Metal Sound Effect - 8 HOURS - with video - Metalworking Workshop sounds.m4a](https://www.youtube.com/watch?v=7d5j4mvprs0) [ ✅ ] x3 volume 65 (audio player for online & offline modes)~~
 
