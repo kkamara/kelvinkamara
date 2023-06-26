@@ -2,7 +2,7 @@
 
 # kelvinkamara
 
-(05-Apr-23) Soundscape, background noise app. To focus on your task and entertainment.
+(05-Apr-23) Soundscape, background noise app. To focus on your task and entertainment. I recommend earphone use.
 
 - We can do it and it's not just do it.
 
@@ -31,8 +31,6 @@
 
 * [Desktop 2023](https://raw.githubusercontent.com/kkamara/useful/main/desktop-2023.png)
 * [Desktop 2023 extra](https://github.com/kkamara/useful/commit/a9e620925598c945ad71501388dc615f4b381d33) (comments at the bottom of the page)
-
-I recommend working with Amazon Alexa speakers e.g. Echo Dot. We can twirl Echo Dot in our hands.
 
 ## Misc
 
@@ -109,7 +107,7 @@ Choose from Kelvin's saved volume templates.
 
 * [ptsd-healing.mp3](https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?pli=1) [ ✅ ] x8 volume 100 (audio player for online & offline modes)
 
-* [Ten Hours of Noise Slowly Sweeping From 100 Hz to 20 kHz](https://www.youtube.com/watch?v=rf52kGRJDSI) [ ✅ ] volume 100 (audio player for online & offline modes)
+* [Sweeping Brown Noise _ 10 Hours of Relaxing Sound Therapy](https://www.youtube.com/watch?v=UWwTb4zjwyY) [ ✅ ] volume 100 (audio player for online & offline modes)
 
 ~~* [Hammer Hitting Metal Sound Effect - 8 HOURS - with video - Metalworking Workshop sounds.m4a](https://www.youtube.com/watch?v=7d5j4mvprs0) [ ✅ ] x3 volume 65 (audio player for online & offline modes)~~
 
