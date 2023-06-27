@@ -90,7 +90,7 @@ I recommend working with earphones and macOs system level 12 and lower.
 
 ###### Music (optional):
 
-* [Metal Mix Cognition Enhancer For ADHD, Clearer and Faster Thinking.m4a](https://www.youtube.com/watch?v=tCCkHJNeV20) (audio player for online & offline modes) [ ✅ ] volume 45.
+* [Metal Mix Cognition Enhancer For ADHD, Clearer and Faster Thinking.m4a](https://www.youtube.com/watch?v=tCCkHJNeV20) (audio player for online & offline modes) [ ✅ ] volume low.
 
 ###### Music radio (optional):
 
@@ -107,9 +107,7 @@ I recommend working with earphones and macOs system level 12 and lower.
 
 ###### Sounds:
 
-* [Ambient Sleeping Pill](https://www.radioplayeruk.com/radio/easylistening/ambientsleepingpill.php) [ ✅ ] volume 50 (audio player for online & offline modes)
-
-* [Sweeping Brown Noise _ 10 Hours of Relaxing Sound Therapy](https://www.youtube.com/watch?v=UWwTb4zjwyY) [ ✅ ] volume 100 (audio player for online & offline modes)
+* [Ten Hours of Noise Slowly Sweeping From 100 Hz to 20 kHz & Back](https://www.youtube.com/watch?v=rf52kGRJDSI) [ ✅ ] volume 100 (audio player for online & offline modes)
 
 * [ptsd-healing.mp3](https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?pli=1) [ ✅ ] x8 volume 100 (audio player for online & offline modes) (with on / off switches)
 
