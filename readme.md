@@ -68,6 +68,8 @@ https://codepen.io/wesbos/pen/bqEEEX
 
 ## Planning notes
 
+<img src="https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara-planning.png" alt="kelvinkamara-planning.png" width="300"/>
+
 ~~Playable [fractal animations](https://www.youtube.com/watch?v=t6jlhqNxRYk).~~
 
 * [Kelvin Kamara engine](https://github.com/kkamara/kelvinkamara#engine--core).
