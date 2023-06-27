@@ -111,7 +111,7 @@ I recommend working with earphones and macOs system level 12 and lower.
 
 * [Sweeping Brown Noise _ 10 Hours of Relaxing Sound Therapy](https://www.youtube.com/watch?v=UWwTb4zjwyY) [ ✅ ] volume 100 (audio player for online & offline modes)
 
-~~* [ptsd-healing.mp3](https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?pli=1) [ ✅ ] x8 volume 100 (audio player for online & offline modes)~~
+* [ptsd-healing.mp3](https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?pli=1) [ ✅ ] x8 volume 100 (audio player for online & offline modes) (with on / off switches)
 
 ~~* [Hammer Hitting Metal Sound Effect - 8 HOURS - with video - Metalworking Workshop sounds.m4a](https://www.youtube.com/watch?v=7d5j4mvprs0) [ ✅ ] x3 volume 65 (audio player for online & offline modes)~~
 
