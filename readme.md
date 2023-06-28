@@ -68,7 +68,7 @@ https://codepen.io/wesbos/pen/bqEEEX
 
 ## Planning notes
 
-<img src="https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara-planning.png" alt="kelvinkamara-planning.png" width="300"/> <img src="https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara-planning2.png" alt="kelvinkamara-planning2.png" width="300"/>
+<img src="https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara-planning.png" alt="kelvinkamara-planning.png" width="290"/> <img src="https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara-planning2.png" alt="kelvinkamara-planning2.png" width="290"/>
 
 ~~Playable [fractal animations](https://www.youtube.com/watch?v=t6jlhqNxRYk).~~
 
