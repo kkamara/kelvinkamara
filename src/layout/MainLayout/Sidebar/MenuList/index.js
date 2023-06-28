@@ -2,7 +2,7 @@ import React from 'react';
 import { Typography } from '@material-ui/core';
 
 import NavGroup from './NavGroup';
-import menuItem from './../../../../menu-items';
+import menuItem from '../../../../menu-items';
 
 const MenuList = () => {
     const navItems = menuItem.items.map((item) => {

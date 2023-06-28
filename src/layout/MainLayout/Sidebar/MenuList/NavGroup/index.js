@@ -2,8 +2,8 @@ import React from 'react';
 
 import { makeStyles, List, Typography } from '@material-ui/core';
 
-import NavItem from './../NavItem';
-import NavCollapse from './../NavCollapse';
+import NavItem from '../NavItem';
+import NavCollapse from '../NavCollapse';
 
 const useStyles = makeStyles((theme) => ({
     menuCaption: {

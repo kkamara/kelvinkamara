@@ -19,6 +19,16 @@
 
 ```bash
   yarn # and yarn install
+
+  code --install-extension dbaeumer.vscode-eslint
+  code --install-extension esbenp.prettier-vscode
+  # code --install-extension tyriar.lorem-ipsum
+  # code --install-extension deerawan.vscode-faker
+  # code --install-extension meezilla.json
+  # code --install-extension rodrigovallades.es7-react-js-snippets
+  # code --install-extension dzhavat.bracket-pair-toggler
+  # code --install-extension eamodio.gitlens
+  # code --install-extension github.vscode-github-actions
 ```
 
 ## Usage

@@ -1,1 +1,2 @@
-src/assets/audio/Tinnitus-Calmer-Sweeping-Noise-at-7kHz-Masker-64kbps.mp3 filter=lfs diff=lfs merge=lfs -text
+# Enforce Unix newlines
+* text=auto eol=lf

@@ -5,7 +5,7 @@ import ExpandLess from '@material-ui/icons/ExpandLess';
 import ExpandMore from '@material-ui/icons/ExpandMore';
 import ArrowForwardIcon from '@material-ui/icons/ArrowForward';
 
-import NavItem from './../NavItem';
+import NavItem from '../NavItem';
 
 const useStyles = makeStyles((theme) => ({
     collapseIcon: {

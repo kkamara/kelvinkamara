@@ -5,7 +5,7 @@ import { makeStyles, useMediaQuery, useTheme, Divider, Drawer, Grid, Hidden } fr
 import MenuList from './MenuList';
 
 import logo from './../../../assets/images/logo.svg';
-import { drawerWidth } from './../../../store/constant';
+import { drawerWidth } from '../../../store/constant';
 
 const useStyles = makeStyles((theme) => ({
     drawer: {
