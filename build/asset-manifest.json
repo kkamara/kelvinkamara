@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kelvinkamara/static/css/main.a115b5c1.chunk.css",
-    "main.js": "/kelvinkamara/static/js/main.9d352f53.chunk.js",
-    "main.js.map": "/kelvinkamara/static/js/main.9d352f53.chunk.js.map",
+    "main.js": "/kelvinkamara/static/js/main.f26a6e78.chunk.js",
+    "main.js.map": "/kelvinkamara/static/js/main.f26a6e78.chunk.js.map",
     "runtime-main.js": "/kelvinkamara/static/js/runtime-main.04225d89.js",
     "runtime-main.js.map": "/kelvinkamara/static/js/runtime-main.04225d89.js.map",
     "static/css/2.81f49716.chunk.css": "/kelvinkamara/static/css/2.81f49716.chunk.css",
@@ -23,7 +23,7 @@
     "static/js/9.17c00f38.chunk.js": "/kelvinkamara/static/js/9.17c00f38.chunk.js",
     "static/js/9.17c00f38.chunk.js.map": "/kelvinkamara/static/js/9.17c00f38.chunk.js.map",
     "index.html": "/kelvinkamara/index.html",
-    "precache-manifest.95eb77272eb19faa8bdca792d5f3f007.js": "/kelvinkamara/precache-manifest.95eb77272eb19faa8bdca792d5f3f007.js",
+    "precache-manifest.04767d796f846e61e1a1b66ce8591d86.js": "/kelvinkamara/precache-manifest.04767d796f846e61e1a1b66ce8591d86.js",
     "service-worker.js": "/kelvinkamara/service-worker.js",
     "static/css/2.81f49716.chunk.css.map": "/kelvinkamara/static/css/2.81f49716.chunk.css.map",
     "static/css/main.a115b5c1.chunk.css.map": "/kelvinkamara/static/css/main.a115b5c1.chunk.css.map",
@@ -39,6 +39,6 @@
     "static/css/2.81f49716.chunk.css",
     "static/js/2.d7212970.chunk.js",
     "static/css/main.a115b5c1.chunk.css",
-    "static/js/main.9d352f53.chunk.js"
+    "static/js/main.f26a6e78.chunk.js"
   ]
 }
