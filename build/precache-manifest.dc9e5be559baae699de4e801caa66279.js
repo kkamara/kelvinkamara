@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d9b6f2e5a55756cac193a237badf0a27",
+    "revision": "e8b04289d6ea0699b33f79d06997a752",
     "url": "/kelvinkamara/index.html"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kelvinkamara/static/js/3.2ea14ade.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "54eba4b885b63bbdebfe",
-    "url": "/kelvinkamara/static/js/4.6c4ff2a7.chunk.js"
+    "revision": "5bb58da276c87925e80d",
+    "url": "/kelvinkamara/static/js/4.bd7d50bf.chunk.js"
   },
   {
     "revision": "9779920f9d1cf0bff3c0",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kelvinkamara/static/js/main.fa9e1110.chunk.js"
   },
   {
-    "revision": "efb1c672e2706fa11263",
-    "url": "/kelvinkamara/static/js/runtime-main.3ee1b5bd.js"
+    "revision": "28021081110c1e6a3cc7",
+    "url": "/kelvinkamara/static/js/runtime-main.230467dd.js"
   },
   {
     "revision": "3ae39a8fc0e03695d64c5db5cdb8e482",

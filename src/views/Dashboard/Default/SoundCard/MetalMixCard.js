@@ -48,6 +48,7 @@ const MetalMixCard = (props) => {
                     <Grid item>
                       <ReactAudioPlayer
                         src={MetalMix}
+                        loop
                         controls
                         style={{ width: '200px', }}
                       />

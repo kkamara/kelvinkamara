@@ -47,6 +47,7 @@ const AnnoyingSoundCard = (props) => {
                     <Grid item>
                       <ReactAudioPlayer
                         src={AnnoyingSound}
+                        loop
                         controls
                         style={{ width: '200px', }}
                       />
