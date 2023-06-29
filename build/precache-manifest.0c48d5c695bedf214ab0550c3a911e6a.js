@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e8b04289d6ea0699b33f79d06997a752",
+    "revision": "4cd88b3528bb42723097e3a2b4975481",
     "url": "/kelvinkamara/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kelvinkamara/static/css/2.81f49716.chunk.css"
   },
   {
-    "revision": "b7cb95e7f0736035b7cb",
+    "revision": "0686283590a8cb2ecf6c",
     "url": "/kelvinkamara/static/css/main.a115b5c1.chunk.css"
   },
   {
@@ -20,44 +20,44 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kelvinkamara/static/js/2.ad62c891.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "88974998ad6207cd3aaa",
-    "url": "/kelvinkamara/static/js/3.2ea14ade.chunk.js"
+    "revision": "35e46efeee913eea06ba",
+    "url": "/kelvinkamara/static/js/3.1579f6b7.chunk.js"
   },
   {
     "revision": "1569a7d82a944de06977ceec9443f24f",
-    "url": "/kelvinkamara/static/js/3.2ea14ade.chunk.js.LICENSE.txt"
+    "url": "/kelvinkamara/static/js/3.1579f6b7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5bb58da276c87925e80d",
-    "url": "/kelvinkamara/static/js/4.bd7d50bf.chunk.js"
+    "revision": "b5762b8821b99403ca5d",
+    "url": "/kelvinkamara/static/js/4.51b3e047.chunk.js"
   },
   {
-    "revision": "9779920f9d1cf0bff3c0",
-    "url": "/kelvinkamara/static/js/5.28197455.chunk.js"
+    "revision": "1ce90e3d0fe1110803b6",
+    "url": "/kelvinkamara/static/js/5.e5fa75eb.chunk.js"
   },
   {
-    "revision": "50f023a787eb79ab7216",
-    "url": "/kelvinkamara/static/js/6.4b7920ab.chunk.js"
+    "revision": "30071df419b8b1054f3d",
+    "url": "/kelvinkamara/static/js/6.83b63c7e.chunk.js"
   },
   {
-    "revision": "86e41bb16c46f78fdd97",
-    "url": "/kelvinkamara/static/js/7.5046bb3c.chunk.js"
+    "revision": "653a51e650788006b1d5",
+    "url": "/kelvinkamara/static/js/7.adcfd0b8.chunk.js"
   },
   {
-    "revision": "acbf649cb04fbed4473c",
-    "url": "/kelvinkamara/static/js/8.488f01b8.chunk.js"
+    "revision": "bb450380ca1c6e65b4bd",
+    "url": "/kelvinkamara/static/js/8.717b9efc.chunk.js"
   },
   {
-    "revision": "831caa3a957a5063dc38",
-    "url": "/kelvinkamara/static/js/9.46981dc7.chunk.js"
+    "revision": "2d827411b1f489e07e37",
+    "url": "/kelvinkamara/static/js/9.e6ba0ab2.chunk.js"
   },
   {
-    "revision": "b7cb95e7f0736035b7cb",
-    "url": "/kelvinkamara/static/js/main.fa9e1110.chunk.js"
+    "revision": "0686283590a8cb2ecf6c",
+    "url": "/kelvinkamara/static/js/main.b52c5bc2.chunk.js"
   },
   {
-    "revision": "28021081110c1e6a3cc7",
-    "url": "/kelvinkamara/static/js/runtime-main.230467dd.js"
+    "revision": "252ad1a3b4457c1eadb3",
+    "url": "/kelvinkamara/static/js/runtime-main.87fb5d73.js"
   },
   {
     "revision": "3ae39a8fc0e03695d64c5db5cdb8e482",
@@ -66,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5747f293cfd73cb75f4e40f72f66a92c",
     "url": "/kelvinkamara/static/media/The-most-annoying-sound-1-hour-64kbps.5747f293.mp3"
+  },
+  {
+    "revision": "20b5e35d2f5984372271eb8a54953dd7",
+    "url": "/kelvinkamara/static/media/Tinnitus-Calmer-Sweeping-Noise-at-7kHz-Masker-64kbps.20b5e35d.mp3"
   },
   {
     "revision": "cbf9c83a4aea661d4c61e3272e5fe789",
@@ -82,5 +86,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cbb1401d069209edffd4ea178d9dcba0",
     "url": "/kelvinkamara/static/media/logo.cbb1401d.svg"
+  },
+  {
+    "revision": "15abc83aa323cc025453ce989996f4f3",
+    "url": "/kelvinkamara/static/media/ptsd-healing-64kbps.15abc83a.mp3"
   }
 ]);

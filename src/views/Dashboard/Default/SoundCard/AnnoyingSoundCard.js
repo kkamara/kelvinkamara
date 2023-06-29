@@ -33,7 +33,7 @@ const AnnoyingSoundCard = (props) => {
                 <Grid container justifyContent="space-between" alignItems="center">
                     <Grid item>
                         <Typography variant="h3" style={{ color: color }}>
-                            Annoying Sound Card
+                            Annoying Sound
                         </Typography>
                         <Typography variant="subtitle1" className={classes.secondary}>
                             The most annoying sound 1 hour <i>(64kbps)</i>

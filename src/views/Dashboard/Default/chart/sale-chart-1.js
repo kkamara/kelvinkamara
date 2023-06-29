@@ -30,7 +30,7 @@ const chartData = {
             },
             y: {
                 title: {
-                    formatter: (seriesName) => 'Sales/Order Per Day',
+                    formatter: (seriesName) => 'www.kelvinkamara.com',
                 },
             },
             marker: {

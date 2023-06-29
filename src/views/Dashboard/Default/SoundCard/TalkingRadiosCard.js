@@ -41,7 +41,7 @@ const TalkingRadiosCard = (props) => {
                     >
                         <Grid item>
                             <Grid container direction="column">
-                                <Typography variant="h6">Youtube</Typography>
+                                <Typography variant="h6">We can do it and it's not just do it.</Typography>
                                 <Typography variant="subtitle1" style={{ color: theme.palette.primary.main }}>
                                     + 16.85%
                                 </Typography>
@@ -49,7 +49,7 @@ const TalkingRadiosCard = (props) => {
                         </Grid>
                         <Grid item>
                             <Grid container direction="column">
-                                <Typography variant="h6">Facebook</Typography>
+                                <Typography variant="h6">What are they tryna tell ya?</Typography>
                                 <Box color={theme.palette.success.main}>
                                     <Typography variant="subtitle1" color="inherit">
                                         +45.36%
@@ -59,7 +59,7 @@ const TalkingRadiosCard = (props) => {
                         </Grid>
                         <Grid item>
                             <Grid container direction="column">
-                                <Typography variant="h6">Twitter</Typography>
+                                <Typography variant="h6">Erm...</Typography>
                                 <Typography variant="subtitle1" style={{ color: theme.palette.warning.main }}>
                                     - 50.69%
                                 </Typography>

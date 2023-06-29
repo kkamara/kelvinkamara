@@ -1,2 +1,10 @@
 # Enforce Unix newlines
 * text=auto eol=lf
+src/assets/audio/Metal-Mix-Cognition-Enhancer-For-ADHD-Clearer-and-Faster-Thinking-64kbps.mp3 filter=lfs diff=lfs merge=lfs -text
+build/static/media/Metal-Mix-Cognition-Enhancer-For-ADHD-Clearer-and-Faster-Thinking-64kbps.3ae39a8f.mp3 filter=lfs diff=lfs merge=lfs -text
+build/static/media/Tinnitus-Calmer-Sweeping-Noise-at-7kHz-Masker-64kbps.20b5e35d.mp3 filter=lfs diff=lfs merge=lfs -text
+build/static/media/ptsd-healing-64kbps.15abc83a.mp3 filter=lfs diff=lfs merge=lfs -text
+build/static/media/The-most-annoying-sound-1-hour-64kbps.5747f293.mp3 filter=lfs diff=lfs merge=lfs -text
+src/assets/audio/The-most-annoying-sound-1-hour-64kbps.mp3 filter=lfs diff=lfs merge=lfs -text
+src/assets/audio/ptsd-healing-64kbps.mp3 filter=lfs diff=lfs merge=lfs -text
+src/assets/audio/Tinnitus-Calmer-Sweeping-Noise-at-7kHz-Masker-64kbps.mp3 filter=lfs diff=lfs merge=lfs -text

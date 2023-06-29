@@ -1,8 +1,12 @@
 import React from 'react';
 import { useTheme } from '@material-ui/styles';
 import Chart from 'react-apexcharts';
+import EqualizerIcon from '@material-ui/icons/Equalizer';
+import ReactAudioPlayer from 'react-audio-player';
 
 import { Box, Card, CardContent, Grid, makeStyles, Typography } from '@material-ui/core';
+
+import TinnitusCalmer from '../../../../assets/audio/Tinnitus-Calmer-Sweeping-Noise-at-7kHz-Masker-64kbps.mp3'
 
 const useStyles = makeStyles((theme) => ({
     content: {
@@ -15,25 +19,9 @@ const TinnitusCalmerCard = (props) => {
     const classes = useStyles();
     const theme = useTheme();
 
-    const { bgColor, chartData, footerData, icon, title, percentage } = props;
+    const { bgColor, chartData, footerData, } = props;
 
-    let footerHtml;
-    if (footerData) {
-        footerHtml = footerData.map((item, index) => {
-            return (
-                <Grid item key={index}>
-                    <Box mt={3} mb={3} p={1}>
-                        <Grid container direction="column" spacing={1} alignItems="center">
-                            <Typography variant="h4">{item.value}</Typography>
-                            <Typography variant="subtitle2" color="secondary">
-                                {item.label}
-                            </Typography>
-                        </Grid>
-                    </Box>
-                </Grid>
-            );
-        });
-    }
+    const icon = <EqualizerIcon />
 
     return (
         <Card>
@@ -41,25 +29,19 @@ const TinnitusCalmerCard = (props) => {
                 <Box color="#fff" bgcolor={bgColor ? bgColor : theme.palette.primary.main} p={3}>
                     <Grid container direction="column" spacing={1}>
                         <Grid item container justifyContent="space-between" alignItems="center">
-                            {title && (
-                                <Grid item>
-                                    <Typography variant="subtitle1" color="inherit">
-                                        {title} - Tinnitus Calmer Card
-                                    </Typography>
-                                </Grid>
-                            )}
+                            <Grid item>
+                                <Typography variant="subtitle1" color="inherit">
+                                    Tinnitus Calmer Sound
+                                </Typography>
+                            </Grid>
                             <Grid item>
                                 <Grid container alignItems="center">
-                                    {icon && (
-                                        <Box component="span" mr={2}>
-                                            {icon}
-                                        </Box>
-                                    )}
-                                    {percentage && (
-                                        <Typography variant="subtitle1" color="inherit">
-                                            {percentage}
-                                        </Typography>
-                                    )}
+                                  <Box component="span" mr={2}>
+                                      {icon}
+                                  </Box>
+                                  <Typography variant="subtitle1" color="inherit">
+                                      100%
+                                  </Typography>
                                 </Grid>
                             </Grid>
                         </Grid>
@@ -70,11 +52,12 @@ const TinnitusCalmerCard = (props) => {
                         )}
                     </Grid>
                 </Box>
-                {footerData && (
-                    <Grid container justifyContent="space-around" alignItems="center">
-                        {footerHtml}
-                    </Grid>
-                )}
+                <ReactAudioPlayer
+                  src={TinnitusCalmer}
+                  loop
+                  controls
+                  style={{ width: '340px', }}
+                />
             </CardContent>
         </Card>
     );

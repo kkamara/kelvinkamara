@@ -7,7 +7,7 @@ export default {
         dataLabels: {
             enabled: false,
         },
-        labels: ['Youtube', 'Facebook', 'Twittr'],
+        labels: ['We can do it and it\'s not just do it', 'What are they tryna tell ya?', 'Erm...'],
         legend: {
             show: true,
             position: 'bottom',

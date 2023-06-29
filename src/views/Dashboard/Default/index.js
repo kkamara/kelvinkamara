@@ -3,7 +3,6 @@ import { makeStyles, Grid, Card, CardHeader, CardContent, Hidden, Typography, Di
 import { useTheme } from '@material-ui/core/styles';
 import { Helmet, } from 'react-helmet'
 import TrendingUpIcon from '@material-ui/icons/TrendingUp';
-import TrendingDownIcon from '@material-ui/icons/TrendingDown';
 import DescriptionTwoTone from '@material-ui/icons/DescriptionTwoTone';
 import ThumbUpAltTwoTone from '@material-ui/icons/ThumbUpAltTwoTone';
 import CalendarTodayTwoTone from '@material-ui/icons/CalendarTodayTwoTone';
@@ -11,6 +10,9 @@ import CalendarTodayTwoTone from '@material-ui/icons/CalendarTodayTwoTone';
 import SalesLineCardData from './chart/sale-chart-1';
 
 import RevenuChartCardData from './chart/revenu-chart';
+import ReactAudioPlayer from 'react-audio-player';
+
+import PTSDHealing from '../../../assets/audio/ptsd-healing-64kbps.mp3'
 
 import { 
   MetalMixCard,
@@ -80,10 +82,8 @@ const Default = () => {
                     </Grid>
                     <Grid item lg={3} sm={6} xs={12}>
                         <MusicRadioCard
-                            primary="290+"
                             secondary="Page Views"
                             color={theme.palette.success.main}
-                            footerData="10k daily views"
                             iconPrimary={DescriptionTwoTone}
                             iconFooter={TrendingUpIcon}
                         />
@@ -104,19 +104,6 @@ const Default = () => {
                                     <Grid item xs={12}>
                                         <TinnitusCalmerCard
                                             chartData={SalesLineCardData}
-                                            title="Sales Per Day"
-                                            percentage="3%"
-                                            icon={<TrendingDownIcon />}
-                                            footerData={[
-                                                {
-                                                    value: '$4230',
-                                                    label: 'Total Revenue',
-                                                },
-                                                {
-                                                    value: '321',
-                                                    label: 'Today Sales',
-                                                },
-                                            ]}
                                         />
                                     </Grid>
                                     <Hidden only="sm">
@@ -169,85 +156,92 @@ const Default = () => {
                             <CardHeader
                                 title={
                                     <Typography component="div" className="card-header">
-                                        PTSD Healing <i>(64kbps)</i>
-                                    </Typography>
-                                }
+                                        PTSD Healing sound<i>(64kbps)</i> </Typography> }
                             />
                             <Divider />
                             <CardContent>
                                 <Grid container spacing={gridSpacing}>
                                     <Grid item xs={12}>
                                         <Grid container alignItems="center" spacing={1}>
-                                            <Grid item sm zeroMinWidth>
-                                                <Typography variant="body2">Direct</Typography>
-                                            </Grid>
-                                            <Grid item>
-                                                <Typography variant="body2" align="right">
-                                                    80%
-                                                </Typography>
-                                            </Grid>
                                             <Grid item xs={12}>
-                                                <LinearProgress variant="determinate" value={80} color="primary" />
+                                              <ReactAudioPlayer
+                                                src={PTSDHealing}
+                                                loop
+                                                controls
+                                                style={{ width: '285px', }}
+                                              />
                                             </Grid>
                                         </Grid>
                                     </Grid>
                                     <Grid item xs={12}>
                                         <Grid container alignItems="center" spacing={1}>
-                                            <Grid item sm zeroMinWidth>
-                                                <Typography variant="body2">Social</Typography>
-                                            </Grid>
                                             <Grid item>
-                                                <Typography variant="body2" align="right">
-                                                    50%
-                                                </Typography>
-                                            </Grid>
-                                            <Grid item xs={12}>
-                                                <LinearProgress variant="determinate" value={50} color="secondary" />
+                                              <ReactAudioPlayer
+                                                src={PTSDHealing}
+                                                loop
+                                                controls
+                                                style={{ width: '285px', }}
+                                              />
                                             </Grid>
                                         </Grid>
                                     </Grid>
                                     <Grid item xs={12}>
                                         <Grid container alignItems="center" spacing={1}>
-                                            <Grid item sm zeroMinWidth>
-                                                <Typography variant="body2">Referral</Typography>
-                                            </Grid>
                                             <Grid item>
-                                                <Typography variant="body2" align="right">
-                                                    20%
-                                                </Typography>
-                                            </Grid>
-                                            <Grid item xs={12}>
-                                                <LinearProgress variant="determinate" value={20} color="primary" />
+                                              <ReactAudioPlayer
+                                                src={PTSDHealing}
+                                                loop
+                                                controls
+                                                style={{ width: '285px', }}
+                                              />
                                             </Grid>
                                         </Grid>
                                     </Grid>
                                     <Grid item xs={12}>
                                         <Grid container alignItems="center" spacing={1}>
-                                            <Grid item sm zeroMinWidth>
-                                                <Typography variant="body2">Bounce</Typography>
-                                            </Grid>
                                             <Grid item>
-                                                <Typography variant="body2" align="right">
-                                                    60%
-                                                </Typography>
-                                            </Grid>
-                                            <Grid item xs={12}>
-                                                <LinearProgress variant="determinate" value={60} color="secondary" />
+                                              <ReactAudioPlayer
+                                                src={PTSDHealing}
+                                                loop
+                                                controls
+                                                style={{ width: '285px', }}
+                                              />
                                             </Grid>
                                         </Grid>
                                     </Grid>
                                     <Grid item xs={12}>
                                         <Grid container alignItems="center" spacing={1}>
-                                            <Grid item sm zeroMinWidth>
-                                                <Typography variant="body2">Internet</Typography>
-                                            </Grid>
                                             <Grid item>
-                                                <Typography variant="body2" align="right">
-                                                    40%
-                                                </Typography>
+                                              <ReactAudioPlayer
+                                                src={PTSDHealing}
+                                                loop
+                                                controls
+                                                style={{ width: '285px', }}
+                                              />
                                             </Grid>
-                                            <Grid item xs={12}>
-                                                <LinearProgress variant="determinate" value={40} color="primary" />
+                                        </Grid>
+                                    </Grid>
+                                    <Grid item xs={12}>
+                                        <Grid container alignItems="center" spacing={1}>
+                                            <Grid item>
+                                              <ReactAudioPlayer
+                                                src={PTSDHealing}
+                                                loop
+                                                controls
+                                                style={{ width: '285px', }}
+                                              />
+                                            </Grid>
+                                        </Grid>
+                                    </Grid>
+                                    <Grid item xs={12}>
+                                        <Grid container alignItems="center" spacing={1}>
+                                            <Grid item>
+                                              <ReactAudioPlayer
+                                                src={PTSDHealing}
+                                                loop
+                                                controls
+                                                style={{ width: '285px', }}
+                                              />
                                             </Grid>
                                         </Grid>
                                     </Grid>

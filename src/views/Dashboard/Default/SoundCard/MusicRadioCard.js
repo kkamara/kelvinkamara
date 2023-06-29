@@ -1,6 +1,8 @@
 import React from 'react';
 
 import { makeStyles, Card, CardContent, Grid, Typography } from '@material-ui/core';
+import EqualizerIcon from '@material-ui/icons/Equalizer';
+import RadioIcon from '@material-ui/icons/Radio';
 
 const useStyles = makeStyles((theme) => ({
     secondary: {
@@ -16,14 +18,12 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 const MusicRadioCard = (props) => {
-    const { primary, secondary, iconPrimary, color, footerData, iconFooter } = props;
+    const { color, } = props;
     const classes = useStyles();
 
-    const IconPrimary = iconPrimary;
-    const primaryIcon = iconPrimary ? <IconPrimary fontSize="large" /> : null;
+    const primaryIcon = <RadioIcon fontSize="large" />;
 
-    const IconFooter = iconFooter;
-    const footerIcon = iconFooter ? <IconFooter /> : null;
+    const footerIcon = <EqualizerIcon fontSize="large" />;
 
     return (
         <Card>
@@ -31,10 +31,10 @@ const MusicRadioCard = (props) => {
                 <Grid container justifyContent="space-between" alignItems="center">
                     <Grid item>
                         <Typography variant="h3" style={{ color: color }}>
-                            {primary} - Music Radio Card
+                            Music Radio Sound
                         </Typography>
                         <Typography variant="subtitle1" className={classes.secondary}>
-                            {secondary}
+                            Music radios
                         </Typography>
                     </Grid>
                     <Grid item>
@@ -47,7 +47,7 @@ const MusicRadioCard = (props) => {
             <div style={{ background: color }}>
                 <Grid container justifyContent="space-between" className={classes.footer}>
                     <Grid item>
-                        <Typography variant="body2">{footerData}</Typography>
+                        <Typography variant="body2">We can do it and it's not just do it</Typography>
                     </Grid>
                     <Grid item>
                         <Typography variant="body2">{footerIcon}</Typography>
