@@ -75,12 +75,7 @@ const Default = () => {
                     </Grid>
                     <Grid item lg={3} sm={6} xs={12}>
                         <AnnoyingSoundCard
-                            primary={145}
-                            secondary="Task"
                             color={theme.palette.error.main}
-                            footerData="28% task performance"
-                            iconPrimary={CalendarTodayTwoTone}
-                            iconFooter={TrendingDownIcon}
                         /> 
                     </Grid>
                     <Grid item lg={3} sm={6} xs={12}>
@@ -94,13 +89,8 @@ const Default = () => {
                         />
                     </Grid>
                     <Grid item lg={3} sm={6} xs={12}>
-                        <AnnoyingSoundCard
-                            primary={500}
-                            secondary="Downloads"
+                        <AnnoyingSound2Card
                             color={theme.palette.primary.main}
-                            footerData="1k download in App store"
-                            iconPrimary={ThumbUpAltTwoTone}
-                            iconFooter={TrendingUpIcon}
                         />
                     </Grid>
                 </Grid>

@@ -5,7 +5,7 @@ import EqualizerIcon from '@material-ui/icons/Equalizer';
 import GraphicEqIcon from '@material-ui/icons/GraphicEq';
 import ReactAudioPlayer from 'react-audio-player';
 
-import MetalMix from '../../../..//assets/audio/Metal-Mix-Cognition-Enhancer-For-ADHD-Clearer-and-Faster-Thinking-64kbps.mp3'
+import MetalMix from '../../../../assets/audio/Metal-Mix-Cognition-Enhancer-For-ADHD-Clearer-and-Faster-Thinking-64kbps.mp3'
 
 const useStyles = makeStyles((theme) => ({
     secondary: {

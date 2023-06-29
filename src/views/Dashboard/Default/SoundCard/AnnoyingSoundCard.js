@@ -1,6 +1,10 @@
-import React from 'react';
-
+import React from 'react'; 
 import { makeStyles, Card, CardContent, Grid, Typography } from '@material-ui/core';
+import EqualizerIcon from '@material-ui/icons/Equalizer';
+import GraphicEqIcon from '@material-ui/icons/GraphicEq';
+import ReactAudioPlayer from 'react-audio-player';
+
+import AnnoyingSound from '../../../../assets/audio/The-most-annoying-sound-1-hour-64kbps.mp3'
 
 const useStyles = makeStyles((theme) => ({
     secondary: {
@@ -16,14 +20,12 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 const AnnoyingSoundCard = (props) => {
-    const { primary, secondary, iconPrimary, color, footerData, iconFooter } = props;
+    const { color, } = props;
     const classes = useStyles();
 
-    const IconPrimary = iconPrimary;
-    const primaryIcon = iconPrimary ? <IconPrimary fontSize="large" /> : null;
+    const primaryIcon = <GraphicEqIcon fontSize="large" />;
 
-    const IconFooter = iconFooter;
-    const footerIcon = iconFooter ? <IconFooter /> : null;
+    const footerIcon = <EqualizerIcon fontSize="large" />;
 
     return (
         <Card>
@@ -31,10 +33,10 @@ const AnnoyingSoundCard = (props) => {
                 <Grid container justifyContent="space-between" alignItems="center">
                     <Grid item>
                         <Typography variant="h3" style={{ color: color }}>
-                            {primary} - Annoying Sound Card
+                            Annoying Sound Card
                         </Typography>
                         <Typography variant="subtitle1" className={classes.secondary}>
-                            {secondary}
+                            The most annoying sound 1 hour <i>(64kbps)</i>
                         </Typography>
                     </Grid>
                     <Grid item>
@@ -42,12 +44,19 @@ const AnnoyingSoundCard = (props) => {
                             {primaryIcon}
                         </Typography>
                     </Grid>
+                    <Grid item>
+                      <ReactAudioPlayer
+                        src={AnnoyingSound}
+                        controls
+                        style={{ width: '200px', }}
+                      />
+                    </Grid>
                 </Grid>
             </CardContent>
             <div style={{ background: color }}>
                 <Grid container justifyContent="space-between" className={classes.footer}>
                     <Grid item>
-                        <Typography variant="body2">{footerData}</Typography>
+                        <Typography variant="body2">What are they tryna tell ya?</Typography>
                     </Grid>
                     <Grid item>
                         <Typography variant="body2">{footerIcon}</Typography>
