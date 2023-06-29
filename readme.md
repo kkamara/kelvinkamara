@@ -16,7 +16,7 @@
 
 ## Download
 
-* [macOs](https://github.com/kkamara/mrvl-desktop/releases).
+* [macOs](https://github.com/kkamara/kelvinkamara/releases).
 
 ## Requirements
 
