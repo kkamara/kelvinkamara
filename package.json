@@ -1,8 +1,9 @@
 {
-  "name": "desktop-react-boilerplate",
-  "version": "1.0.0",
+  "name": "kelvinkamara",
+  "version": "1.0.1",
   "author": "https://github.com/kkamara",
   "private": true,
+  "description": "Soundscape, background noise app. To focus on your task and entertainment. I recommend earphone use. Electronjs,Reactjs.",
   "main": "public/electron.js",
   "homepage": "./",
   "build": {
