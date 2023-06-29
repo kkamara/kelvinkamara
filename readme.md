@@ -4,8 +4,6 @@
 
 <img src="https://github.com/kkamara/useful/blob/main/kelvinkamara2.png?raw=true" alt="kelvinkamara2.png" width=""/>
 
-
-
 # kelvinkamara
 
 (05-Apr-23) Soundscape, background noise app. To focus on your task and entertainment. I recommend earphone use.
@@ -15,6 +13,10 @@
 - What are they tryna tell you?
 
 - Erm...
+
+## Download
+
+* [macOs](https://github.com/kkamara/mrvl-desktop/releases).
 
 ## Requirements
 
