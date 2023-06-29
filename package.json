@@ -1,25 +1,22 @@
 {
-  "name": "kelvinkamara",
+  "name": "desktop-react-boilerplate",
   "version": "1.0.0",
+  "author": "https://github.com/kkamara",
   "private": true,
-  "description": "Soundscape, background noise app. To focus on your task and entertainment. I recommend earphone use. Reactjs.",
-  "homepage": "https://kkamara.github.io/kelvinkamara",
-  "bugs": {
-    "url": "https://github.com/kkamara/kelvinkamara/issues"
+  "main": "public/electron.js",
+  "homepage": "./",
+  "build": {
+    "appId": "<com.desktop-react-boilerplate>"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://www.github.com/kkamara/kelvinkamara"
-  },
-  "license": "MIT",
-  "author": "https://www.github.com/kkamara/kelvinkamara",
   "scripts": {
-    "predeploy": "yarn build",
-    "deploy": "gh-pages -d build",
-    "build": "react-scripts build",
-    "eject": "react-scripts eject",
-    "start": "react-scripts start",
-    "test": "react-scripts test"
+    "react-start": "react-scripts start",
+    "react-build": "react-scripts build",
+    "react-test": "react-scripts test --env=jsdom",
+    "react-eject": "react-scripts eject",
+    "electron-build": "electron-builder",
+    "release": "npm run build && electron-builder --linux --win --mac --x64 --ia32 --publish never",
+    "build": "npm run react-build && npm run electron-build",
+    "start": "concurrently \"cross-env BROWSER=none yarn react-start\" \"wait-on http://localhost:3000 && electron .\""
   },
   "dependencies": {
     "@auth0/auth0-spa-js": "^1.11.0",
@@ -83,6 +80,29 @@
   "devDependencies": {
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "sass-vars-to-js-loader": "^2.1.1"
+    "sass-vars-to-js-loader": "^2.1.1",
+    "concurrently": "^8.2.0",
+    "cross-env": "^7.0.3",
+    "electron": "^25.1.0",
+    "electron-builder": "^23.6.0",
+    "wait-on": "^7.0.1"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }

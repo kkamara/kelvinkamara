@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { BrowserRouter } from 'react-router-dom';
+import { HashRouter } from 'react-router-dom';
 
 import { createStore } from 'redux';
 import { Provider } from 'react-redux';
@@ -25,9 +25,9 @@ const store = createStore(reducer);
 ReactDOM.render(
     <GoogleOAuthProvider clientId="900577447575-chnn3od0mtrepikfe7jkmla78cgc6e8t.apps.googleusercontent.com">
         <Provider store={store}>
-            <BrowserRouter basename={config.basename}>
+            <HashRouter basename={config.basename}>
                 <App />
-            </BrowserRouter>
+            </HashRouter>
         </Provider>
     </GoogleOAuthProvider>,
     document.getElementById('root')
