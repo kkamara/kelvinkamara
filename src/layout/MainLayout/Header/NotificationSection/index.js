@@ -179,7 +179,7 @@ const NotificationSection = () => {
                                                 secondary={<Typography variant="subtitle2">New ticket Added</Typography>}
                                             />
                                             <ListItemSecondaryAction className={classes.listAction}>
-                                                <Grid container justify="flex-end">
+                                                <Grid container justifyContent="flex-end">
                                                     <Grid item>
                                                         <QueryBuilderTwoToneIcon className={classes.actionIcon} />
                                                     </Grid>
@@ -208,7 +208,7 @@ const NotificationSection = () => {
                                                 secondary={<Typography variant="subtitle2">Purchase a new product</Typography>}
                                             />
                                             <ListItemSecondaryAction className={classes.listAction}>
-                                                <Grid container justify="flex-end">
+                                                <Grid container justifyContent="flex-end">
                                                     <Grid item>
                                                         <QueryBuilderTwoToneIcon className={classes.actionIcon} />
                                                     </Grid>
@@ -234,7 +234,7 @@ const NotificationSection = () => {
                                                 secondary={<Typography variant="subtitle2">Currently Login</Typography>}
                                             />
                                             <ListItemSecondaryAction className={classes.listAction}>
-                                                <Grid container justify="flex-end">
+                                                <Grid container justifyContent="flex-end">
                                                     <Grid item>
                                                         <QueryBuilderTwoToneIcon className={classes.actionIcon} />
                                                     </Grid>
@@ -260,7 +260,7 @@ const NotificationSection = () => {
                                                 secondary={<Typography variant="subtitle2">Purchase a new product</Typography>}
                                             />
                                             <ListItemSecondaryAction className={classes.listAction}>
-                                                <Grid container justify="flex-end">
+                                                <Grid container justifyContent="flex-end">
                                                     <Grid item>
                                                         <QueryBuilderTwoToneIcon className={classes.actionIcon} />
                                                     </Grid>

@@ -1,6 +1,12 @@
 import React from 'react';
 
 import { makeStyles, Card, CardContent, Grid, Typography } from '@material-ui/core';
+import TrendingUpIcon from '@material-ui/icons/TrendingUp';
+import EqualizerIcon from '@material-ui/icons/Equalizer';
+import GraphicEqIcon from '@material-ui/icons/GraphicEq';
+import ReactAudioPlayer from 'react-audio-player';
+
+import MetalMix from '../../../..//assets/audio/Metal-Mix-Cognition-Enhancer-For-ADHD-Clearer-and-Faster-Thinking-64kbps.mp3'
 
 const useStyles = makeStyles((theme) => ({
     secondary: {
@@ -16,25 +22,23 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 const MetalMixCard = (props) => {
-    const { primary, secondary, iconPrimary, color, footerData, iconFooter } = props;
+    const { color, } = props;
     const classes = useStyles();
 
-    const IconPrimary = iconPrimary;
-    const primaryIcon = iconPrimary ? <IconPrimary fontSize="large" /> : null;
+    const primaryIcon = <GraphicEqIcon fontSize="large" />;
 
-    const IconFooter = iconFooter;
-    const footerIcon = iconFooter ? <IconFooter /> : null;
+    const footerIcon = <EqualizerIcon fontSize="large" />;
 
     return (
         <Card>
             <CardContent>
-                <Grid container justify="space-between" alignItems="center">
+                <Grid container justifyContent="space-between" alignItems="center">
                     <Grid item>
                         <Typography variant="h3" style={{ color: color }}>
-                            {primary} - Metal Mix Card
+                            Metal Mix Sound
                         </Typography>
                         <Typography variant="subtitle1" className={classes.secondary}>
-                            {secondary}
+                            Metal Mix Cognition Enhancer For ADHD Clearer and Faster Thinking <i>(64kbps)</i>
                         </Typography>
                     </Grid>
                     <Grid item>
@@ -42,12 +46,19 @@ const MetalMixCard = (props) => {
                             {primaryIcon}
                         </Typography>
                     </Grid>
+                    <Grid item>
+                      <ReactAudioPlayer
+                        src={MetalMix}
+                        controls
+                        style={{ width: '200px', }}
+                      />
+                    </Grid>
                 </Grid>
             </CardContent>
             <div style={{ background: color }}>
-                <Grid container justify="space-between" className={classes.footer}>
+                <Grid container justifyContent="space-between" className={classes.footer}>
                     <Grid item>
-                        <Typography variant="body2">{footerData}</Typography>
+                        <Typography variant="body2">Erm...</Typography>
                     </Grid>
                     <Grid item>
                         <Typography variant="body2">{footerIcon}</Typography>

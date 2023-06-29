@@ -110,7 +110,7 @@ const MobileSection = () => {
                                             <Grid
                                                 container
                                                 direction="row"
-                                                justify={matchMobile ? 'space-between' : 'flex-end'}
+                                                justifyContent={matchMobile ? 'space-between' : 'flex-end'}
                                                 alignItems="center"
                                             >
                                                 <SearchSection theme="dark" />

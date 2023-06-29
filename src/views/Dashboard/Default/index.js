@@ -71,12 +71,7 @@ const Default = () => {
                 <Grid container spacing={gridSpacing}>
                     <Grid item lg={3} sm={6} xs={12}>
                         <MetalMixCard                        
-                            primary="$30200"
-                            secondary="All Earnings"
                             color={theme.palette.warning.main}
-                            footerData="10% changes on profit"
-                            iconPrimary={MonetizationOnTwoTone}
-                            iconFooter={TrendingUpIcon}
                         />
                     </Grid>
                     <Grid item lg={3} sm={6} xs={12}>
