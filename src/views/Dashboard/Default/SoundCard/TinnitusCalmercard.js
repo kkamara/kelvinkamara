@@ -11,7 +11,7 @@ const useStyles = makeStyles((theme) => ({
     },
 }));
 
-const SalesLineCard = (props) => {
+const TinnitusCalmerCard = (props) => {
     const classes = useStyles();
     const theme = useTheme();
 
@@ -44,7 +44,7 @@ const SalesLineCard = (props) => {
                             {title && (
                                 <Grid item>
                                     <Typography variant="subtitle1" color="inherit">
-                                        {title}
+                                        {title} - Tinnitus Calmer Card
                                     </Typography>
                                 </Grid>
                             )}
@@ -80,4 +80,4 @@ const SalesLineCard = (props) => {
     );
 };
 
-export default SalesLineCard;
+export default TinnitusCalmerCard;

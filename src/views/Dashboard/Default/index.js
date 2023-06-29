@@ -1,7 +1,7 @@
 import React from 'react';
 import { makeStyles, Grid, Card, CardHeader, CardContent, Hidden, Typography, Divider, LinearProgress } from '@material-ui/core';
 import { useTheme } from '@material-ui/core/styles';
-
+import { Helmet, } from 'react-helmet'
 import TrendingUpIcon from '@material-ui/icons/TrendingUp';
 import TrendingDownIcon from '@material-ui/icons/TrendingDown';
 import MonetizationOnTwoTone from '@material-ui/icons/MonetizationOnTwoTone';
@@ -9,13 +9,18 @@ import DescriptionTwoTone from '@material-ui/icons/DescriptionTwoTone';
 import ThumbUpAltTwoTone from '@material-ui/icons/ThumbUpAltTwoTone';
 import CalendarTodayTwoTone from '@material-ui/icons/CalendarTodayTwoTone';
 
-import SalesLineCard from './SalesLineCard';
 import SalesLineCardData from './chart/sale-chart-1';
 
-import RevenuChartCard from './RevenuChartCard';
 import RevenuChartCardData from './chart/revenu-chart';
 
-import ReportCard from './ReportCard';
+import { 
+  MetalMixCard,
+  TinnitusCalmerCard,
+  AnnoyingSoundCard,
+  AnnoyingSound2Card,
+  MusicRadioCard,
+  TalkingRadiosCard,
+} from './SoundCard';
 import LatestorderCard from './LatestorderCard';
 
 import { gridSpacing } from '../../../store/constant';
@@ -59,11 +64,13 @@ const Default = () => {
     const theme = useTheme();
 
     return (
+      <>
+        <Helmet><title>Kelvin Kamara - Soundscape, background noise app. To focus on your task and entertainment. I recommend earphone use.</title> </Helmet>
         <Grid container spacing={gridSpacing}>
             <Grid item xs={12}>
                 <Grid container spacing={gridSpacing}>
                     <Grid item lg={3} sm={6} xs={12}>
-                        <ReportCard
+                        <MetalMixCard                        
                             primary="$30200"
                             secondary="All Earnings"
                             color={theme.palette.warning.main}
@@ -73,17 +80,17 @@ const Default = () => {
                         />
                     </Grid>
                     <Grid item lg={3} sm={6} xs={12}>
-                        <ReportCard
+                        <AnnoyingSoundCard
                             primary={145}
                             secondary="Task"
                             color={theme.palette.error.main}
                             footerData="28% task performance"
                             iconPrimary={CalendarTodayTwoTone}
                             iconFooter={TrendingDownIcon}
-                        />
+                        /> 
                     </Grid>
                     <Grid item lg={3} sm={6} xs={12}>
-                        <ReportCard
+                        <MusicRadioCard
                             primary="290+"
                             secondary="Page Views"
                             color={theme.palette.success.main}
@@ -93,7 +100,7 @@ const Default = () => {
                         />
                     </Grid>
                     <Grid item lg={3} sm={6} xs={12}>
-                        <ReportCard
+                        <AnnoyingSoundCard
                             primary={500}
                             secondary="Downloads"
                             color={theme.palette.primary.main}
@@ -111,7 +118,7 @@ const Default = () => {
                             <Grid item xs={12} sm={6}>
                                 <Grid container spacing={gridSpacing} direction="column">
                                     <Grid item xs={12}>
-                                        <SalesLineCard
+                                        <TinnitusCalmerCard
                                             chartData={SalesLineCardData}
                                             title="Sales Per Day"
                                             percentage="3%"
@@ -137,12 +144,12 @@ const Default = () => {
                                                             <Grid container alignItems="center" spacing={1}>
                                                                 <Grid item>
                                                                     <Typography variant="subtitle2" align="left">
-                                                                        REALTY
+                                                                        We can do it and
                                                                     </Typography>
                                                                 </Grid>
                                                                 <Grid item sm zeroMinWidth>
                                                                     <Typography variant="h5" className={classes.texterror} align="right">
-                                                                        -0.99
+                                                                        it's not just do it.
                                                                     </Typography>
                                                                 </Grid>
                                                             </Grid>
@@ -151,12 +158,12 @@ const Default = () => {
                                                             <Grid container alignItems="center" spacing={1}>
                                                                 <Grid item>
                                                                     <Typography variant="subtitle2" align="left">
-                                                                        INFRA
+                                                                        What are they
                                                                     </Typography>
                                                                 </Grid>
                                                                 <Grid item sm zeroMinWidth>
                                                                     <Typography variant="h5" className={classes.textsuccess} align="right">
-                                                                        -7.66
+                                                                        tryna tell ya?
                                                                     </Typography>
                                                                 </Grid>
                                                             </Grid>
@@ -169,7 +176,7 @@ const Default = () => {
                                 </Grid>
                             </Grid>
                             <Grid item xs={12} sm={6}>
-                                <RevenuChartCard chartData={RevenuChartCardData} />
+                                <TalkingRadiosCard chartData={RevenuChartCardData} />
                             </Grid>
                         </Grid>
                     </Grid>
@@ -178,7 +185,7 @@ const Default = () => {
                             <CardHeader
                                 title={
                                     <Typography component="div" className="card-header">
-                                        Traffic Sources
+                                        PTSD Healing <i>(64kbps)</i>
                                     </Typography>
                                 }
                             />
@@ -266,10 +273,11 @@ const Default = () => {
                     </Grid>
                 </Grid>
             </Grid>
-            <Grid item xs={12}>
+            {/* <Grid item xs={12}>
                 <LatestorderCard title="Latest Order" />
-            </Grid>
+            </Grid> */}
         </Grid>
+      </>
     );
 };
 

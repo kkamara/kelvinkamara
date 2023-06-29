@@ -3,7 +3,7 @@ import Chart from 'react-apexcharts';
 import { useTheme } from '@material-ui/styles';
 import { Box, Card, CardContent, CardHeader, Divider, Hidden, Grid, Typography, useMediaQuery } from '@material-ui/core';
 
-const RevenuChartCard = (props) => {
+const TalkingRadiosCard = (props) => {
     const theme = useTheme();
     const matchDownMd = useMediaQuery(theme.breakpoints.down('sm'));
     const matchDownXs = useMediaQuery(theme.breakpoints.down('xs'));
@@ -14,7 +14,7 @@ const RevenuChartCard = (props) => {
             <CardHeader
                 title={
                     <Typography t="div" className="card-header">
-                        Total Revenue
+                        Talking Radios Card
                     </Typography>
                 }
             />
@@ -72,4 +72,4 @@ const RevenuChartCard = (props) => {
     );
 };
 
-export default RevenuChartCard;
+export default TalkingRadiosCard;

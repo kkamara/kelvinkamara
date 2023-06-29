@@ -15,7 +15,7 @@ const useStyles = makeStyles((theme) => ({
     },
 }));
 
-const ReportCard = (props) => {
+const MetalMixCard = (props) => {
     const { primary, secondary, iconPrimary, color, footerData, iconFooter } = props;
     const classes = useStyles();
 
@@ -31,7 +31,7 @@ const ReportCard = (props) => {
                 <Grid container justify="space-between" alignItems="center">
                     <Grid item>
                         <Typography variant="h3" style={{ color: color }}>
-                            {primary}
+                            {primary} - Metal Mix Card
                         </Typography>
                         <Typography variant="subtitle1" className={classes.secondary}>
                             {secondary}
@@ -58,4 +58,4 @@ const ReportCard = (props) => {
     );
 };
 
-export default ReportCard;
+export default MetalMixCard;

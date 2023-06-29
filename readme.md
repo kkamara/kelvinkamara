@@ -34,6 +34,7 @@
 * [Building KelvinKamara 2](https://github.com/kkamara/useful/blob/main/kelvinkamara-building2.png)
 * [Building KelvinKamara 3](https://github.com/kkamara/useful/blob/main/kelvinkamara-building3.png)
 * [Building KelvinKamara 4](https://github.com/kkamara/useful/blob/main/kelvinkamara-building4.png)
+* [Building KelvinKamara 5](https://github.com/kkamara/useful/blob/main/kelvinkamara-building5.png)
 * [Desktop 2023](https://raw.githubusercontent.com/kkamara/useful/main/desktop-2023.png)
 * [Desktop 2023 extra](https://github.com/kkamara/useful/commit/a9e620925598c945ad71501388dc615f4b381d33) (comments at the bottom of the page).
 
