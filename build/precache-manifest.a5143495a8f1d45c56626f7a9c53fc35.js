@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e0b3041084889b32c8a25e44aea77f2f",
+    "revision": "a15aec972a5690f4d6e9b042b2e6d580",
     "url": "/kelvinkamara/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kelvinkamara/static/css/2.81f49716.chunk.css"
   },
   {
-    "revision": "b7cb95e7f0736035b7cb",
+    "revision": "26e0b55776b03caa2c6f",
     "url": "/kelvinkamara/static/css/main.a115b5c1.chunk.css"
   },
   {
@@ -20,44 +20,44 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kelvinkamara/static/js/2.ad62c891.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2775440370ceb202dc81",
-    "url": "/kelvinkamara/static/js/3.8377aa61.chunk.js"
+    "revision": "c11004942d57d5e9a5b2",
+    "url": "/kelvinkamara/static/js/3.9e9ddb1f.chunk.js"
   },
   {
     "revision": "1569a7d82a944de06977ceec9443f24f",
-    "url": "/kelvinkamara/static/js/3.8377aa61.chunk.js.LICENSE.txt"
+    "url": "/kelvinkamara/static/js/3.9e9ddb1f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3351d99b26311305fff6",
-    "url": "/kelvinkamara/static/js/4.179c33bf.chunk.js"
+    "revision": "30d51843423074c3fb16",
+    "url": "/kelvinkamara/static/js/4.79a8d31f.chunk.js"
   },
   {
-    "revision": "9779920f9d1cf0bff3c0",
-    "url": "/kelvinkamara/static/js/5.28197455.chunk.js"
+    "revision": "320177621736b6f99aaa",
+    "url": "/kelvinkamara/static/js/5.38d3af53.chunk.js"
   },
   {
-    "revision": "50f023a787eb79ab7216",
-    "url": "/kelvinkamara/static/js/6.4b7920ab.chunk.js"
+    "revision": "d852e9497c21626f50d3",
+    "url": "/kelvinkamara/static/js/6.36df4932.chunk.js"
   },
   {
-    "revision": "86e41bb16c46f78fdd97",
-    "url": "/kelvinkamara/static/js/7.5046bb3c.chunk.js"
+    "revision": "e5022a487080e1f4980c",
+    "url": "/kelvinkamara/static/js/7.d669c9ed.chunk.js"
   },
   {
-    "revision": "acbf649cb04fbed4473c",
-    "url": "/kelvinkamara/static/js/8.488f01b8.chunk.js"
+    "revision": "923ade656dcc0c70a726",
+    "url": "/kelvinkamara/static/js/8.bdd70daa.chunk.js"
   },
   {
-    "revision": "831caa3a957a5063dc38",
-    "url": "/kelvinkamara/static/js/9.46981dc7.chunk.js"
+    "revision": "39da6789ac60a67825f2",
+    "url": "/kelvinkamara/static/js/9.e9d207bd.chunk.js"
   },
   {
-    "revision": "b7cb95e7f0736035b7cb",
-    "url": "/kelvinkamara/static/js/main.fa9e1110.chunk.js"
+    "revision": "26e0b55776b03caa2c6f",
+    "url": "/kelvinkamara/static/js/main.8e9fb6cd.chunk.js"
   },
   {
-    "revision": "d49283844b59994304d1",
-    "url": "/kelvinkamara/static/js/runtime-main.587a8e78.js"
+    "revision": "4bd10166a13eeafcdeb7",
+    "url": "/kelvinkamara/static/js/runtime-main.c190862b.js"
   },
   {
     "revision": "3ae39a8fc0e03695d64c5db5cdb8e482",

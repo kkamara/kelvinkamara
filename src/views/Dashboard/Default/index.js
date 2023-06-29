@@ -4,7 +4,6 @@ import { useTheme } from '@material-ui/core/styles';
 import { Helmet, } from 'react-helmet'
 import TrendingUpIcon from '@material-ui/icons/TrendingUp';
 import TrendingDownIcon from '@material-ui/icons/TrendingDown';
-import MonetizationOnTwoTone from '@material-ui/icons/MonetizationOnTwoTone';
 import DescriptionTwoTone from '@material-ui/icons/DescriptionTwoTone';
 import ThumbUpAltTwoTone from '@material-ui/icons/ThumbUpAltTwoTone';
 import CalendarTodayTwoTone from '@material-ui/icons/CalendarTodayTwoTone';

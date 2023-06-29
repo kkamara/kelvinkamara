@@ -1,7 +1,6 @@
 import React from 'react';
 
 import { makeStyles, Card, CardContent, Grid, Typography } from '@material-ui/core';
-import TrendingUpIcon from '@material-ui/icons/TrendingUp';
 import EqualizerIcon from '@material-ui/icons/Equalizer';
 import GraphicEqIcon from '@material-ui/icons/GraphicEq';
 import ReactAudioPlayer from 'react-audio-player';
