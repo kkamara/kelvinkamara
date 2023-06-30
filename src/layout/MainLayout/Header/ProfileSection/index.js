@@ -45,10 +45,11 @@ const ProfileSection = () => {
     const anchorRef = React.useRef(null);
 
     const handleListItemClick = (event, index) => {
-        setSelectedIndex(index);
+      event.preventDefault()
+        /* setSelectedIndex(index);
         if (index === 4) {
-            //handleLogout;
-        }
+            handleLogout;
+        } */
     };
 
     const handleToggle = () => {
