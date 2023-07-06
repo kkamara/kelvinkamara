@@ -7,7 +7,7 @@ import ReactAudioPlayer from 'react-audio-player';
 import WomanEngineer from '../../../../assets/audio/What-its-like-to-be-a-woman-software-engineer-Women-in-Tech-Q&A-64kbps.mp3'
 
 const soundStyles = {
-    width: '370px',
+    width: '306px',
 };
 
 const TalkingRadiosCard = (props) => {
