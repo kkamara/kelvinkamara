@@ -156,7 +156,7 @@ const Default = () => {
                             <CardHeader
                                 title={
                                     <Typography component="div" className="card-header">
-                                        PTSD Healing sound<i>(64kbps)</i> </Typography> }
+                                        PTSD Healing Sound<i>(64kbps)</i> </Typography> }
                             />
                             <Divider />
                             <CardContent>
