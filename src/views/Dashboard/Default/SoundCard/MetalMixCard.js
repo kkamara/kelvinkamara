@@ -20,6 +20,10 @@ const useStyles = makeStyles((theme) => ({
     },
 }));
 
+const soundStyles = {
+    width: '200px',
+};
+
 const MetalMixCard = (props) => {
     const { color, } = props;
     const classes = useStyles();
@@ -50,7 +54,7 @@ const MetalMixCard = (props) => {
                         src={MetalMix}
                         loop
                         controls
-                        style={{ width: '200px', }}
+                        style={soundStyles}
                       />
                     </Grid>
                 </Grid>

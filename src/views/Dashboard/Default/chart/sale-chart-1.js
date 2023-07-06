@@ -30,7 +30,7 @@ const chartData = {
             },
             y: {
                 title: {
-                    formatter: (seriesName) => 'www.kelvinkamara.com',
+                    formatter: (seriesName) => '',
                 },
             },
             marker: {

@@ -15,11 +15,15 @@ const useStyles = makeStyles((theme) => ({
     },
 }));
 
+const soundStyles = {
+    width: '100%',
+};
+
 const TinnitusCalmerCard = (props) => {
     const classes = useStyles();
     const theme = useTheme();
 
-    const { bgColor, chartData, footerData, } = props;
+    const { bgColor, chartData, } = props;
 
     const icon = <EqualizerIcon />
 
@@ -56,7 +60,7 @@ const TinnitusCalmerCard = (props) => {
                   src={TinnitusCalmer}
                   loop
                   controls
-                  style={{ width: '340px', }}
+                  style={soundStyles}
                 />
             </CardContent>
         </Card>

@@ -1,11 +1,18 @@
 import React from 'react';
-import { makeStyles, Grid, Card, CardHeader, CardContent, Hidden, Typography, Divider, LinearProgress } from '@material-ui/core';
-import { useTheme } from '@material-ui/core/styles';
+import { 
+    makeStyles, 
+    Grid, 
+    Card, 
+    CardHeader, 
+    CardContent, 
+    Hidden, 
+    Typography, 
+    Divider, 
+} from '@material-ui/core';
+import { useTheme, } from '@material-ui/core/styles';
 import { Helmet, } from 'react-helmet'
 import TrendingUpIcon from '@material-ui/icons/TrendingUp';
 import DescriptionTwoTone from '@material-ui/icons/DescriptionTwoTone';
-import ThumbUpAltTwoTone from '@material-ui/icons/ThumbUpAltTwoTone';
-import CalendarTodayTwoTone from '@material-ui/icons/CalendarTodayTwoTone';
 
 import SalesLineCardData from './chart/sale-chart-1';
 
@@ -22,9 +29,8 @@ import {
   MusicRadioCard,
   TalkingRadiosCard,
 } from './SoundCard';
-import LatestorderCard from './LatestorderCard';
 
-import { gridSpacing } from '../../../store/constant';
+import { gridSpacing, } from '../../../store/constant';
 
 const useStyles = makeStyles((theme) => ({
     arrowicon: {
@@ -60,6 +66,10 @@ const useStyles = makeStyles((theme) => ({
     },
 }));
 
+const soundStyles = {
+    width: '285px',
+};
+
 const Default = () => {
     const classes = useStyles();
     const theme = useTheme();
@@ -78,7 +88,7 @@ const Default = () => {
                     <Grid item lg={3} sm={6} xs={12}>
                         <AnnoyingSoundCard
                             color={theme.palette.error.main}
-                        /> 
+                        />
                     </Grid>
                     <Grid item lg={3} sm={6} xs={12}>
                         <MusicRadioCard
@@ -156,7 +166,7 @@ const Default = () => {
                             <CardHeader
                                 title={
                                     <Typography component="div" className="card-header">
-                                        PTSD Healing Sound<i>(64kbps)</i> </Typography> }
+                                        PTSD Healing Sound <i>(64kbps)</i> </Typography> }
                             />
                             <Divider />
                             <CardContent>
@@ -168,7 +178,7 @@ const Default = () => {
                                                 src={PTSDHealing}
                                                 loop
                                                 controls
-                                                style={{ width: '285px', }}
+                                                style={soundStyles}
                                               />
                                             </Grid>
                                         </Grid>
@@ -180,7 +190,7 @@ const Default = () => {
                                                 src={PTSDHealing}
                                                 loop
                                                 controls
-                                                style={{ width: '285px', }}
+                                                style={soundStyles}
                                               />
                                             </Grid>
                                         </Grid>
@@ -192,7 +202,7 @@ const Default = () => {
                                                 src={PTSDHealing}
                                                 loop
                                                 controls
-                                                style={{ width: '285px', }}
+                                                style={soundStyles}
                                               />
                                             </Grid>
                                         </Grid>
@@ -204,7 +214,7 @@ const Default = () => {
                                                 src={PTSDHealing}
                                                 loop
                                                 controls
-                                                style={{ width: '285px', }}
+                                                style={soundStyles}
                                               />
                                             </Grid>
                                         </Grid>
@@ -216,7 +226,7 @@ const Default = () => {
                                                 src={PTSDHealing}
                                                 loop
                                                 controls
-                                                style={{ width: '285px', }}
+                                                style={soundStyles}
                                               />
                                             </Grid>
                                         </Grid>
@@ -228,7 +238,7 @@ const Default = () => {
                                                 src={PTSDHealing}
                                                 loop
                                                 controls
-                                                style={{ width: '285px', }}
+                                                style={soundStyles}
                                               />
                                             </Grid>
                                         </Grid>
@@ -240,7 +250,7 @@ const Default = () => {
                                                 src={PTSDHealing}
                                                 loop
                                                 controls
-                                                style={{ width: '285px', }}
+                                                style={soundStyles}
                                               />
                                             </Grid>
                                         </Grid>

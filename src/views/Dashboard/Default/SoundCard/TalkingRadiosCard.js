@@ -3,6 +3,13 @@ import Chart from 'react-apexcharts';
 import { useTheme } from '@material-ui/styles';
 import { Box, Card, CardContent, CardHeader, Divider, Hidden, Grid, Typography, useMediaQuery } from '@material-ui/core';
 
+import ReactAudioPlayer from 'react-audio-player';
+import WomanEngineer from '../../../../assets/audio/What-its-like-to-be-a-woman-software-engineer-Women-in-Tech-Q&A-64kbps.mp3'
+
+const soundStyles = {
+    width: '370px',
+};
+
 const TalkingRadiosCard = (props) => {
     const theme = useTheme();
     const matchDownMd = useMediaQuery(theme.breakpoints.down('sm'));
@@ -63,6 +70,70 @@ const TalkingRadiosCard = (props) => {
                                 <Typography variant="subtitle1" style={{ color: theme.palette.warning.main }}>
                                     - 50.69%
                                 </Typography>
+                            </Grid>
+                        </Grid>
+                    </Grid>
+                    <Grid container direction={matchDownMd && !matchDownXs ? 'row' : 'column'}>
+                        <Grid item>
+                            <Grid container direction="column">
+                                <label>
+                                    What it's like to be a woman software engineer
+                                    Women in Tech Q&A <i>(64kbps)</i>
+                                </label>
+                                <ReactAudioPlayer
+                                    src={WomanEngineer}
+                                    loop
+                                    controls
+                                    style={soundStyles}
+                                />
+                            </Grid>
+                        </Grid>
+                    </Grid>
+                    <Grid container direction={matchDownMd && !matchDownXs ? 'row' : 'column'}>
+                        <Grid item>
+                            <Grid container direction="column">
+                                <label>
+                                    What it's like to be a woman software engineer
+                                    Women in Tech Q&A <i>(64kbps)</i>
+                                </label>
+                                <ReactAudioPlayer
+                                    src={WomanEngineer}
+                                    loop
+                                    controls
+                                    style={soundStyles}
+                                />
+                            </Grid>
+                        </Grid>
+                    </Grid>
+                    <Grid container direction={matchDownMd && !matchDownXs ? 'row' : 'column'}>
+                        <Grid item>
+                            <Grid container direction="column">
+                                <label>
+                                    What it's like to be a woman software engineer
+                                    Women in Tech Q&A <i>(64kbps)</i>
+                                </label>
+                                <ReactAudioPlayer
+                                    src={WomanEngineer}
+                                    loop
+                                    controls
+                                    style={soundStyles}
+                                />
+                            </Grid>
+                        </Grid>
+                    </Grid>
+                    <Grid container direction={matchDownMd && !matchDownXs ? 'row' : 'column'}>
+                        <Grid item>
+                            <Grid container direction="column">
+                                <label>
+                                    What it's like to be a woman software engineer
+                                    Women in Tech Q&A <i>(64kbps)</i>
+                                </label>
+                                <ReactAudioPlayer
+                                    src={WomanEngineer}
+                                    loop
+                                    controls
+                                    style={soundStyles}
+                                />
                             </Grid>
                         </Grid>
                     </Grid>

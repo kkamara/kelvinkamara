@@ -19,6 +19,10 @@ const useStyles = makeStyles((theme) => ({
     },
 }));
 
+const soundStyles = {
+    width: '200px',
+};
+
 const AnnoyingSoundCard = (props) => {
     const { color, } = props;
     const classes = useStyles();
@@ -49,7 +53,7 @@ const AnnoyingSoundCard = (props) => {
                         src={AnnoyingSound}
                         loop
                         controls
-                        style={{ width: '200px', }}
+                        style={soundStyles}
                       />
                     </Grid>
                 </Grid>
