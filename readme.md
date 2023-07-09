@@ -20,6 +20,12 @@
 
 * [macOs](https://github.com/kkamara/kelvinkamara/releases).
 
+## Recommended radios
+
+* [Capital Chill](https://www.radioplayeruk.com/radio/easylistening/capitalchill.php)
+* [talkSport](https://www.radioplayeruk.com/radio/sporttalk/talksport.php)
+* [talkSport 2](https://www.radioplayeruk.com/radio/sporttalk/talksport2.php).
+
 ## Requirements
 
 * [Node.js](https://nodejs.org/en/)
