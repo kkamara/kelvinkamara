@@ -22,11 +22,15 @@ The code for this repository can be found at [www.bitbucket.org/kkamara2/kelvink
 
 * [macOs](https://github.com/kkamara/kelvinkamara/releases).
 
-## Recommended radios
+## Recommended ongoing radios
+
+Run these simultaneously, alongside the Kelvin Kamara app.
 
 * [Capital Chill](https://www.radioplayeruk.com/radio/easylistening/capitalchill.php)
-* [talkSport](https://www.radioplayeruk.com/radio/sporttalk/talksport.php) x2
-* [talkSport 2](https://www.radioplayeruk.com/radio/sporttalk/talksport2.php) x2.
+* [talkSport](https://www.radioplayeruk.com/radio/sporttalk/talksport.php)
+* [Times Radio](https://www.radioplayeruk.com/radio/sporttalk/timesradio.php)
+* [talkSport 2](https://www.radioplayeruk.com/radio/sporttalk/talksport2.php)
+* [talkRadio](https://www.radioplayeruk.com/radio/sporttalk/talkradio.php).
 
 ## Requirements
 
