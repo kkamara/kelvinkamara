@@ -18,9 +18,11 @@ The code for this repository can be found at [www.bitbucket.org/kkamara2/kelvink
 
 - Erm...
 
-## Download
+## Download Latest
 
-* [macOs](https://github.com/kkamara/kelvinkamara/releases).
+* [macOs app v1.2.1](https://github.com/kkamara/kelvinkamara/releases)
+* [macOs app v1.1.1](https://github.com/kkamara/kelvinkamara/releases)
+* [macOs app v1.1.0](https://github.com/kkamara/kelvinkamara/releases).
 
 ## Recommended ongoing radios
 
