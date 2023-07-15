@@ -8,7 +8,7 @@ The code for this repository can be found at [www.bitbucket.org/kkamara2/kelvink
 
 <img src="https://github.com/kkamara/useful/blob/main/kelvinkamara3.png?raw=true" alt="kelvinkamara3.png" width=""/>
 
-# kelvinkamara
+# Kelvin Kamara
 
 (05-Apr-23) Soundscape, background noise app. To focus on your task and entertainment. I recommend earphone use.
 
