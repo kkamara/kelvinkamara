@@ -20,9 +20,9 @@ The code for this repository can be found at [www.bitbucket.org/kkamara2/kelvink
 
 ## Download Latest
 
+* [macOs app v1.3.0](https://github.com/kkamara/kelvinkamara/releases)
 * [macOs app v1.2.1](https://github.com/kkamara/kelvinkamara/releases)
-* [macOs app v1.1.1](https://github.com/kkamara/kelvinkamara/releases)
-* [macOs app v1.1.0](https://github.com/kkamara/kelvinkamara/releases).
+* [macOs app v1.1.1](https://github.com/kkamara/kelvinkamara/releases).
 
 ## Requirements
 
