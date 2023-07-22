@@ -18,7 +18,7 @@ The code for this repository can be found at [www.bitbucket.org/kkamara2/kelvink
 
 - Erm...
 
-I highly recommend accompanying the Kelvin Kamara sound app with lofi hip-hop beats to relax and study to (e.g. https://www.youtube.com/watch?v=jfKfPfyJRdk).
+I highly recommend accompanying the Kelvin Kamara sound app with lofi hip-hop beats to relax and study to (e.g. https://www.youtube.com/watch?v=jfKfPfyJRdk). I enjoy listening to deep trance music with the Kelvin Kamara sound app.
 
 ## Download Latest
 
