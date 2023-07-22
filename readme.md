@@ -70,7 +70,7 @@ The code for this repository can be found at [www.bitbucket.org/kkamara2/kelvink
 
 ## Misc
 
-I also just search `progressive house music live` on Youtube to accompany the sound app.
+I also just search `progressive house music live` on Youtube to accompany the sound app. At time of writing I am listening to different genres like hip-hop, celebrating the release of [Nodejs CRM add admin favicon](https://github.com/kkamara/nodejs-crm).
 
 [See react boilerplate.](https://github.com/kkamara/react-boilerplate)
 
