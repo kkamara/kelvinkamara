@@ -10,7 +10,7 @@ The code for this repository can be found at [www.bitbucket.org/kkamara2/kelvink
 
 # Kelvin Kamara
 
-(05-Apr-23) Soundscape, background noise app. To focus on your task and entertainment. I recommend earphone use.
+(05-Apr-2023) Soundscape, background noise app. To focus on your task and entertainment. I recommend earphone use.
 
 - We can do it and it's not just do it.
 
