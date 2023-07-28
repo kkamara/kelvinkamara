@@ -22,9 +22,9 @@ I recommend accompanying the Kelvin Kamara sound app with lofi hip-hop beats to 
 
 ## Download Latest
 
-* [macOs app v1.3.0](https://github.com/kkamara/kelvinkamara/releases)
-* [macOs app v1.2.1](https://github.com/kkamara/kelvinkamara/releases)
-* [macOs app v1.1.1](https://github.com/kkamara/kelvinkamara/releases).
+* [macOs app v1.5.0](https://github.com/kkamara/kelvinkamara/releases)
+* [macOs app v1.4.0](https://github.com/kkamara/kelvinkamara/releases)
+* [macOs app v1.3.0](https://github.com/kkamara/kelvinkamara/releases).
 
 ## Requirements
 
@@ -38,7 +38,8 @@ I recommend accompanying the Kelvin Kamara sound app with lofi hip-hop beats to 
 
 ```bash
   npm i -g yarn
-  yarn install # and yarn
+  # yarn
+  yarn install
 ```
 
 ## Usage
