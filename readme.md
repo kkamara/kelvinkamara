@@ -22,9 +22,9 @@ I recommend accompanying the Kelvin Kamara sound app with lofi hip-hop beats to 
 
 ## Download Latest
 
+* [macOs app v1.8.0](https://github.com/kkamara/kelvinkamara/releases)
 * [macOs app v1.7.0](https://github.com/kkamara/kelvinkamara/releases)
-* [macOs app v1.6.0](https://github.com/kkamara/kelvinkamara/releases)
-* [macOs app v1.5.1](https://github.com/kkamara/kelvinkamara/releases).
+* [macOs app v1.6.0](https://github.com/kkamara/kelvinkamara/releases).
 
 ## Requirements
 
