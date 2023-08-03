@@ -20,6 +20,10 @@ The code for this repository can be found at [www.bitbucket.org/kkamara2/kelvink
 
 I recommend accompanying the Kelvin Kamara sound app with lofi hip-hop beats to relax and study to (e.g. [lofi hip-hop live](https://www.youtube.com/watch?v=jfKfPfyJRdk)). I enjoy listening to deep house music with vocals, with the Kelvin Kamara sound app. I'm a fan of [Monstercat](https://www.youtube.com/watch?v=pm36k08jQ0M) pre-2017. After 2016 I stopped keeping up with Monstercat. I listen to Monstercat pre-2017. Go to [Soundcloud](https://soundcloud.com/discover) and listen to popular mixes on shuffle.
 
+Truck Simulator Playllist (optional):
+
+* [Americanos](https://www.youtube.com/watch?v=Se_Ouox0wVQ&list=PLQ4_4pfbt1WpQlxqmX0XLwGVGepyT2SZm&index=211)
+
 ## Download Latest
 
 * [macOs app v1.8.0](https://github.com/kkamara/kelvinkamara/releases)
