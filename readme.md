@@ -69,6 +69,10 @@ Truck Simulator Playllist (optional):
 
 ## More
 
+The Kelvin Kamara sound app planning design.
+
+<img src="https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara-planning.png" alt="kelvinkamara-planning.png" width="265"/> <img src="https://raw.githubusercontent.com/kkamara/useful/main/kelvinkamara-planning2.png" alt="kelvinkamara-planning2.png" width="265"/>
+
 * [Building KelvinKamara](https://github.com/kkamara/useful/blob/main/kelvinkamara-building.png)
 * [Building KelvinKamara 2](https://github.com/kkamara/useful/blob/main/kelvinkamara-building2.png)
 * [Building KelvinKamara 3](https://github.com/kkamara/useful/blob/main/kelvinkamara-building3.png)
