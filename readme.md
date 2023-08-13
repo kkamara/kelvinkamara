@@ -28,9 +28,9 @@ Truck Simulator Playllist (optional):
 
 ## Download Latest
 
+* [macOs app v1.9.0](https://github.com/kkamara/kelvinkamara/releases)
 * [macOs app v1.8.0](https://github.com/kkamara/kelvinkamara/releases)
-* [macOs app v1.7.0](https://github.com/kkamara/kelvinkamara/releases)
-* [macOs app v1.6.0](https://github.com/kkamara/kelvinkamara/releases).
+* [macOs app v1.7.0](https://github.com/kkamara/kelvinkamara/releases).
 
 ## Requirements
 
