@@ -83,15 +83,11 @@ The Kelvin Kamara sound app planning design.
 
 ## Misc
 
-I also just search `progressive house music live` on Youtube to accompany the sound app. At time of writing I am listening to different genres like hip-hop, celebrating the release of [Nodejs CRM add admin favicon](https://github.com/kkamara/nodejs-crm).
-
 [See react boilerplate.](https://github.com/kkamara/react-boilerplate)
 
 [See php scraper.](https://github.com/kkamara/php-scraper)
 
 [See node react boilerplate.](https://github.com/kkamara/node-react-boilerplate)
-
-I wear sunglasses (I mostly keep them on the top of my head rather than on my nose) and [face mask](https://www.amazon.co.uk/gp/product/B08FK54H5Q) (I mostly keep that under my chin). I will remove my tonsils ASAP.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
