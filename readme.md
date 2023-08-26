@@ -34,13 +34,10 @@ Truck Simulator Playllist (optional):
 
 ## Requirements
 
-* [Node.js](https://nodejs.org/en/)
+* [Node.js](https://nodejs.org/en/) (arrives with [npmjs](https://www.npmjs.com/))
 * [Yarn](https://yarnpkg.com/).
 
 ## Installation
-
-* [Node.js](https://nodejs.org/en/) (arrives with [npmjs](https://www.npmjs.com/))
-* [Yarn](https://yarnpkg.com/)
 
 ```bash
   npm i -g yarn
