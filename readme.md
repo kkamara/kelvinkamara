@@ -80,6 +80,8 @@ The Kelvin Kamara sound app planning design.
 
 ## Misc
 
+I listen to a few of [these](https://www.youtube.com/watch?v=wKduUdwXLt0) to focus on my tasks and entertainment.
+
 [See react boilerplate.](https://github.com/kkamara/react-boilerplate)
 
 [See php scraper.](https://github.com/kkamara/php-scraper)
