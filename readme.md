@@ -22,7 +22,7 @@ I recommend accompanying the Kelvin Kamara sound app with pop music ([Soundcloud
 
 15, 30, 35 and 60, 65 are good listening volumes.
 
-Truck Simulator Playllist (optional):
+Truck Simulator Playlist (optional):
 
 * [Americanos](https://www.youtube.com/watch?v=Se_Ouox0wVQ&list=PLQ4_4pfbt1WpQlxqmX0XLwGVGepyT2SZm&index=211)
 
