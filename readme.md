@@ -4,6 +4,10 @@ The code for this repository can be found at [www.bitbucket.org/kkamara2/kelvink
 
 <img src="https://github.com/kkamara/useful/blob/main/kelvinkamara.png?raw=true" alt="kelvinkamara.png" width=""/>
 
+<img src="https://github.com/kkamara/useful/blob/main/kelvinkamara2.png?raw=true" alt="kelvinkamara2.png" width=""/>
+
+<img src="https://github.com/kkamara/useful/blob/main/kelvinkamara3.png?raw=true" alt="kelvinkamara3.png" width=""/>
+
 # Kelvin Kamara
 
 (05-Apr-2023) Soundscape, background noise app. To focus on your task and entertainment. I recommend earphone use.
