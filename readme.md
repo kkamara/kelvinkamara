@@ -82,7 +82,29 @@ I listen to a melodic drum and bass at [Soundcloud](https://soundcloud.com/searc
 
 [See react boilerplate.](https://github.com/kkamara/react-boilerplate)
 
+[See Laravel 10 movies app.](https://github.com/kkamara/movies)
+
+[See Laravel 10 GDPR Users app.](https://github.com/kkamara/users-api-laravel-10-php-app-5)
+
+[See Github to Bitbucket Backup Repo Updater.](https://github.com/kkamara/ghbbupdater)
+
+[See CRM 2 Laravel 10.](https://github.com/kkamara/crm-2-laravel-10)
+
+[See laravel makefile](https://github.com/kkamara/laravel-makefile)
+
+[See Laravel 9 food nutrition facts search web app.](https://github.com/kkamara/food-nutrition-facts-search-web-app)
+
+[See crm.](https://github.com/kkamara/crm)
+
 [See php scraper.](https://github.com/kkamara/php-scraper)
+
+[See amazon scraper.](https://github.com/kkamara/amazon-scraper)
+
+[See python amazon scraper 2.](https://github.com/kkamara/selenium-py)
+
+[See wordpress.](https://github.com/kkamara/wordpress)
+
+[See php react boilerplate.](https://github.com/kkamara/php-react-boilerplate)
 
 [See node react boilerplate.](https://github.com/kkamara/node-react-boilerplate)
 
