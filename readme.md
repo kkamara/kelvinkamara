@@ -78,7 +78,7 @@ The Kelvin Kamara sound app planning design.
 
 ## Misc
 
-I listen to a few of [these](https://www.youtube.com/watch?v=wKduUdwXLt0) to focus on my tasks and entertainment.
+I listen to a melodic drum and bass at [Soundcloud](https://soundcloud.com/search?q=melodic%20dnb).
 
 [See react boilerplate.](https://github.com/kkamara/react-boilerplate)
 
