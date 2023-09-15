@@ -80,6 +80,8 @@ The Kelvin Kamara sound app planning design.
 
 I listen to a melodic drum and bass at [Soundcloud](https://soundcloud.com/search?q=melodic%20dnb).
 
+The best noise masking is a combination of two of [The most annoying sound 1 hour (64 kbps)](https://www.youtube.com/watch?v=YwlUQhy0iI4) played together with and without the audio player times being the same. The volume of the two 'The most annoying sound 1 hour (64 kbps)' players should be the same or similar. The [Kelvin Kamara sound app](https://github.com/kkamara/kelvinkamara) can be used to experience this noise masking technique.
+
 [See react boilerplate.](https://github.com/kkamara/react-boilerplate)
 
 [See Laravel 10 movies app.](https://github.com/kkamara/movies)
