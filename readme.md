@@ -80,7 +80,9 @@ The Kelvin Kamara sound app planning design.
 
 I listen to a melodic drum and bass at [Soundcloud](https://soundcloud.com/search?q=melodic%20dnb).
 
-The best noise masking is a combination of two of [The most annoying sound 1 hour (64 kbps)](https://www.youtube.com/watch?v=YwlUQhy0iI4) played together with and without the audio player times being the same. The volume of the two 'The most annoying sound 1 hour (64 kbps)' players should be the same or similar. The [Kelvin Kamara sound app](https://github.com/kkamara/kelvinkamara) can be used to experience this noise masking technique.
+The best noise masking is a combination of two of [The most annoying sound 1 hour (64 kbps)](https://www.youtube.com/watch?v=YwlUQhy0iI4) played together with and without the audio player times being the same. The volume of the two 'The most annoying sound 1 hour (64 kbps)' players should be the same or similar. The [Kelvin Kamara sound app](https://github.com/kkamara/kelvinkamara) can be used to experience this noise masking technique. This can be accompanied with [Noise cancelling sound 1 hour (64 kbps)](https://www.youtube.com/watch?v=FbwnuCKWeMA) which is available with the Kelvin Kamara sound app.
+
+Another noise masking technique is Noise cancelling sound 1 hour (64 kbps) (brown noise) played with 16 ASMR Flashlight Triggers. This is available with the Kelvin Kamara sound app. I play the ASMR Flashlight Triggers at 2x speed; available with the Kelvin Kamara sound app.
 
 [See react boilerplate.](https://github.com/kkamara/react-boilerplate)
 
