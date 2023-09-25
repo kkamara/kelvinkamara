@@ -28,7 +28,7 @@ Truck Simulator Playlist (optional):
 
 ## Download Latest
 
-* [Windows & MacOs app v2.7.0](https://github.com/kkamara/kelvinkamara/releases).
+* [Windows & MacOs app v2.9.1](https://github.com/kkamara/kelvinkamara/releases).
 
 ## Requirements
 
