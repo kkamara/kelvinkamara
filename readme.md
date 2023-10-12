@@ -16,7 +16,7 @@ The code for this repository can be found at [www.bitbucket.org/kkamara2/kelvink
 
 I recommend accompanying the Kelvin Kamara sound app with pop music ([Soundcloud](https://soundcloud.com/discover)).
 
-15, 30, 35 and 60, 65 are good listening volumes.
+20 is a good listening volume.
 
 Truck Simulator Playlist (optional):
 
