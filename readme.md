@@ -16,8 +16,6 @@ The code for this repository can be found at [www.bitbucket.org/kkamara2/kelvink
 
 I recommend accompanying the Kelvin Kamara sound app with pop music ([Soundcloud](https://soundcloud.com/discover)).
 
-20 is a good listening volume.
-
 Truck Simulator Playlist (optional):
 
 * [Americanos](https://www.youtube.com/watch?v=Se_Ouox0wVQ&list=PLQ4_4pfbt1WpQlxqmX0XLwGVGepyT2SZm&index=211)
