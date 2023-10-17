@@ -14,7 +14,7 @@ The code for this repository can be found at [www.bitbucket.org/kkamara2/kelvink
 
 - Erm...
 
-I recommend accompanying the Kelvin Kamara sound app with pop music ([Soundcloud](https://soundcloud.com/discover)).
+I listen to [SoundCloud Top 50 All Music Genres](https://soundcloud.com/discover/sets/charts-top:all-music:gb).
 
 Truck Simulator Playlist (optional):
 
