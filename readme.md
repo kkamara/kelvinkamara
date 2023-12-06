@@ -14,15 +14,13 @@ The code for this repository can be found at [www.bitbucket.org/kkamara2/kelvink
 
 - Erm...
 
-I listen to [SoundCloud Top 50 All Music Genres](https://soundcloud.com/discover/sets/charts-top:all-music:gb).
-
 Truck Simulator Playlist (optional):
 
 * [Americanos](https://www.youtube.com/watch?v=Se_Ouox0wVQ&list=PLQ4_4pfbt1WpQlxqmX0XLwGVGepyT2SZm&index=211)
 
 ## Download Latest
 
-* [Windows & MacOs app v2.25.0](https://github.com/kkamara/kelvinkamara/releases).
+* [Windows & MacOs app v2.26.0](https://github.com/kkamara/kelvinkamara/releases).
 
 ## Requirements
 
