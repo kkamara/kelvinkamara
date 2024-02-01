@@ -24,34 +24,31 @@ Truck Simulator Playlist (optional):
 
 ## Requirements
 
-* [Node.js](https://nodejs.org/en/) (arrives with [npmjs](https://www.npmjs.com/))
-* [Yarn](https://yarnpkg.com/).
+* [Node.js v14.21.3](https://nodejs.org/en/blog/release/v14.21.3) (arrives with [npmjs](https://www.npmjs.com/)).
 
 ## Installation
 
 ```bash
-  npm i -g yarn
-  # yarn
-  yarn install
+  npm install
 ```
 
 ## Usage
 
 ```bash
-  yarn start
+  npm start
 ```
 
 ## Building target: your machine
 
 ```bash
-  yarn build
+  npm run build
 ```
 
 ## Building target: cross-platform
 
 ```bash
   # --linux --win --mac --x64 --ia32
-  yarn run release
+  npm run release
 ```
 
 ## More
