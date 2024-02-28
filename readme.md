@@ -20,7 +20,7 @@ Truck Simulator Playlist (optional):
 
 ## Download Latest
 
-* [Windows app v3.3.0](https://github.com/kkamara/kelvinkamara/releases).
+* [Windows app v3.3.1](https://github.com/kkamara/kelvinkamara/releases).
 
 ## Requirements
 
