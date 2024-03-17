@@ -38,17 +38,11 @@ Truck Simulator Playlist (optional):
   npm start
 ```
 
-## Building target: your machine
-
-```bash
-  npm run build
-```
-
 ## Building target: cross-platform
 
 ```bash
   # --linux --win --mac --x64 --ia32
-  npm run release
+  npm run build
 ```
 
 ## More
