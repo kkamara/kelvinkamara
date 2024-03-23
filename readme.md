@@ -14,10 +14,6 @@ The code for this repository can be found at [www.bitbucket.org/kkamara2/kelvink
 
 - Erm...
 
-Truck Simulator Playlist (optional):
-
-* [Americanos](https://www.youtube.com/watch?v=Se_Ouox0wVQ&list=PLQ4_4pfbt1WpQlxqmX0XLwGVGepyT2SZm&index=211)
-
 ## Download Latest
 
 * [Windows app v4.3.0](https://github.com/kkamara/kelvinkamara/releases).
