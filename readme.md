@@ -16,7 +16,7 @@ The code for this repository can be found at [www.bitbucket.org/kkamara2/kelvink
 
 ## Download Latest
 
-* [Windows app v4.10.0](https://github.com/kkamara/kelvinkamara/releases).
+* [Windows app v4.10.1](https://github.com/kkamara/kelvinkamara/releases).
 
 ## Requirements
 
