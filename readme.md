@@ -6,7 +6,7 @@ The code for this repository can be found at [www.bitbucket.org/kkamara2/kelvink
 
 # Kelvin Kamara
 
-(05-Apr-2023) Soundscape, background noise app. To focus on your task and entertainment. Electronjs, Reactjs 16.
+(05-Apr-2023) Soundscape, background noise app. To focus on your task and entertainment. ElectronJS, ReactJS 16.
 
 - We can do it and it's not just do it.
 
@@ -16,7 +16,7 @@ The code for this repository can be found at [www.bitbucket.org/kkamara2/kelvink
 
 ## Download Latest
 
-* [Windows app v4.10.1](https://github.com/kkamara/kelvinkamara/releases).
+* [Windows app v4.10.2](https://github.com/kkamara/kelvinkamara/releases).
 
 ## Requirements
 
