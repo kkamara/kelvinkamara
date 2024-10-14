@@ -20,7 +20,7 @@ The code for this repository can be found at [www.bitbucket.org/kkamara2/kelvink
 
 ## Requirements
 
-* [Node.js v14.21.3](https://nodejs.org/en/blog/release/v14.21.3) (arrives with [npmjs](https://www.npmjs.com/)).
+* [NodeJS v14.21.3](https://nodejs.org/en/blog/release/v14.21.3) (comes with [NPM](https://www.npmjs.com/)).
 
 ## Installation
 
