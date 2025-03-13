@@ -63,6 +63,30 @@ const WhiteNoiseCard = (props) => {
                   controls
                   style={soundStyles}
                 />
+                <ReactAudioPlayer
+                  src={WhiteNoiseSound}
+                  loop
+                  controls
+                  style={soundStyles}
+                />
+                <ReactAudioPlayer
+                  src={WhiteNoiseSound}
+                  loop
+                  controls
+                  style={soundStyles}
+                />
+                <ReactAudioPlayer
+                  src={WhiteNoiseSound}
+                  loop
+                  controls
+                  style={soundStyles}
+                />
+                <ReactAudioPlayer
+                  src={WhiteNoiseSound}
+                  loop
+                  controls
+                  style={soundStyles}
+                />
             </CardContent>
         </Card>
     );
