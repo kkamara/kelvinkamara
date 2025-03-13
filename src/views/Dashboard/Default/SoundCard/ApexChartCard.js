@@ -6,12 +6,6 @@ import ReactAudioPlayer from 'react-audio-player';
 
 import ptsdHealing from '../../../../assets/audio/ptsd-healing.mp3';
 
-// import ReactAudioPlayer from 'react-audio-player';
-
-// const soundStyles = {
-//     width: '306px',
-// };
-
 const soundStyles = {
     width: '100%',
 };
