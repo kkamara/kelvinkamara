@@ -6,7 +6,7 @@ import ReactAudioPlayer from 'react-audio-player';
 
 import { Box, Card, CardContent, Grid, makeStyles, Typography } from '@material-ui/core';
 
-import WhiteNoiseSound from '../../../../assets/audio/ASMR-1000-TRIGGERS-for-People-with-Short-Attention-Span-5-Secs-per-Sound-to-Fall-Asleep-Fast-64-kbps.mp3'
+import WhiteNoiseSound from '../../../../assets/audio/ASMR-1000-TRIGGERS-for-People-with-Short-Attention-Span-5-Secs-per-Sound-to-Fall-Asleep-Fast-64-kbps.mp3';
 
 const useStyles = makeStyles((theme) => ({
     content: {
@@ -18,6 +18,8 @@ const useStyles = makeStyles((theme) => ({
 const soundStyles = {
     width: '100%',
 };
+
+const whiteNoiseVolume = 0.2;
 
 const WhiteNoiseCard = (props) => {
     const classes = useStyles();
@@ -62,30 +64,35 @@ const WhiteNoiseCard = (props) => {
                   loop
                   controls
                   style={soundStyles}
+                  volume={whiteNoiseVolume}
                 />
                 <ReactAudioPlayer
                   src={WhiteNoiseSound}
                   loop
                   controls
                   style={soundStyles}
+                  volume={whiteNoiseVolume}
                 />
                 <ReactAudioPlayer
                   src={WhiteNoiseSound}
                   loop
                   controls
                   style={soundStyles}
+                  volume={whiteNoiseVolume}
                 />
                 <ReactAudioPlayer
                   src={WhiteNoiseSound}
                   loop
                   controls
                   style={soundStyles}
+                  volume={whiteNoiseVolume}
                 />
                 <ReactAudioPlayer
                   src={WhiteNoiseSound}
                   loop
                   controls
                   style={soundStyles}
+                  volume={whiteNoiseVolume}
                 />
             </CardContent>
         </Card>

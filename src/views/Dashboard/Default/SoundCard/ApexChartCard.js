@@ -2,12 +2,21 @@ import React from 'react';
 import Chart from 'react-apexcharts';
 import { useTheme } from '@material-ui/styles';
 import { Box, Card, CardContent, CardHeader, Divider, Hidden, Grid, Typography, useMediaQuery } from '@material-ui/core';
+import ReactAudioPlayer from 'react-audio-player';
+
+import ptsdHealing from '../../../../assets/audio/ptsd-healing.mp3';
 
 // import ReactAudioPlayer from 'react-audio-player';
 
 // const soundStyles = {
 //     width: '306px',
 // };
+
+const soundStyles = {
+    width: '100%',
+};
+
+const ptsdHealingVolume = 0.5;
 
 const ApexChartCard = (props) => {
     const theme = useTheme();
@@ -72,23 +81,37 @@ const ApexChartCard = (props) => {
                             </Grid>
                         </Grid>
                     </Grid>
-                    {/* <Grid container direction={matchDownMd && !matchDownXs ? 'row' : 'column'}>
-                        <Grid item>
-                            <Grid container direction="column">
-                                <label>
-                                    ASMR for ADHD | FAST Paced Aggressively 
-                                    UNPREDICTABLE Triggers ( Pay Attention/Focus, 
-                                    Mouth Sounds ) <i>(64kbps)</i>
-                                </label>
-                                <ReactAudioPlayer
-                                    src={AsmrAdhdSound}
-                                    loop
-                                    controls
-                                    style={soundStyles}
-                                />
-                            </Grid>
-                        </Grid>
-                    </Grid> */}
+                    <Grid container direction={matchDownMd && !matchDownXs ? 'row' : 'column'}>
+                        <label>PTSD Healing <i>(64kbps)</i></label>
+                        <ReactAudioPlayer
+                            src={ptsdHealing}
+                            loop
+                            controls
+                            style={soundStyles}
+                            volume={ptsdHealingVolume}
+                        />
+                        <ReactAudioPlayer
+                            src={ptsdHealing}
+                            loop
+                            controls
+                            style={soundStyles}
+                            volume={ptsdHealingVolume}
+                        />
+                        <ReactAudioPlayer
+                            src={ptsdHealing}
+                            loop
+                            controls
+                            style={soundStyles}
+                            volume={ptsdHealingVolume}
+                        />
+                        <ReactAudioPlayer
+                            src={ptsdHealing}
+                            loop
+                            controls
+                            style={soundStyles}
+                            volume={ptsdHealingVolume}
+                        />
+                    </Grid>
                 </Grid>
             </CardContent>
         </Card>
