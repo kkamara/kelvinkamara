@@ -10,7 +10,7 @@ const soundStyles = {
     width: '100%',
 };
 
-const ptsdHealingVolume = 0.15;
+const ptsdHealingVolume = 0.10;
 
 const ApexChartCard = (props) => {
     const theme = useTheme();
