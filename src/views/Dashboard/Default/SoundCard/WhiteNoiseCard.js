@@ -1,8 +1,10 @@
-import React from 'react';
+import React, { useEffect, } from 'react';
 import { useTheme } from '@material-ui/styles';
 import Chart from 'react-apexcharts';
 import EqualizerIcon from '@material-ui/icons/Equalizer';
 import ReactAudioPlayer from 'react-audio-player';
+import { getRandomArbitrary, } from '../../../Utils/Functions';
+import { randomTimeIntervalMilliseconds, } from '../../../Utils/Constants';
 
 import { Box, Card, CardContent, Grid, makeStyles, Typography } from '@material-ui/core';
 
@@ -21,7 +23,50 @@ const soundStyles = {
 
 const whiteNoiseVolume = 0.2;
 
+const whiteNoiseLengthInSeconds = 60 + 39; // 1 hour plus 39 minutes
+
 const WhiteNoiseCard = (props) => {
+    useEffect(() => {
+        const fAPlayer1 = document.getElementById("whiteNoiseAudioPlayer1");
+        fAPlayer1.currentTime = Math.floor(
+            getRandomArbitrary(0, whiteNoiseLengthInSeconds * 60)
+        );
+        const fAPlayer2 = document.getElementById("whiteNoiseAudioPlayer2");
+        fAPlayer2.currentTime = Math.floor(
+            getRandomArbitrary(0, whiteNoiseLengthInSeconds * 60)
+        );
+        const fAPlayer3 = document.getElementById("whiteNoiseAudioPlayer3");
+        fAPlayer3.currentTime = Math.floor(
+            getRandomArbitrary(0, whiteNoiseLengthInSeconds * 60)
+        );
+        const fAPlayer4 = document.getElementById("whiteNoiseAudioPlayer4");
+        fAPlayer4.currentTime = Math.floor(
+            getRandomArbitrary(0, whiteNoiseLengthInSeconds * 60)
+        );
+        const fAPlayer5 = document.getElementById("whiteNoiseAudioPlayer5");
+        fAPlayer5.currentTime = Math.floor(
+            getRandomArbitrary(0, whiteNoiseLengthInSeconds * 60)
+        );
+        const timer = setInterval(() => {
+            fAPlayer1.currentTime = Math.floor(
+                getRandomArbitrary(0, whiteNoiseLengthInSeconds * 60)
+            );
+            fAPlayer2.currentTime = Math.floor(
+                getRandomArbitrary(0, whiteNoiseLengthInSeconds * 60)
+            );
+            fAPlayer3.currentTime = Math.floor(
+                getRandomArbitrary(0, whiteNoiseLengthInSeconds * 60)
+            );
+            fAPlayer4.currentTime = Math.floor(
+                getRandomArbitrary(0, whiteNoiseLengthInSeconds * 60)
+            );
+            fAPlayer5.currentTime = Math.floor(
+                getRandomArbitrary(0, whiteNoiseLengthInSeconds * 60)
+            );
+        }, randomTimeIntervalMilliseconds);
+        return () => clearInterval(timer);
+    }, []);
+
     const classes = useStyles();
     const theme = useTheme();
 
@@ -60,39 +105,44 @@ const WhiteNoiseCard = (props) => {
                     </Grid>
                 </Box>
                 <ReactAudioPlayer
-                  src={WhiteNoiseSound}
-                  loop
-                  controls
-                  style={soundStyles}
-                  volume={whiteNoiseVolume}
+                    id="whiteNoiseAudioPlayer1"
+                    src={WhiteNoiseSound}
+                    loop
+                    controls
+                    style={soundStyles}
+                    volume={whiteNoiseVolume}
                 />
                 <ReactAudioPlayer
-                  src={WhiteNoiseSound}
-                  loop
-                  controls
-                  style={soundStyles}
-                  volume={whiteNoiseVolume}
+                    id="whiteNoiseAudioPlayer2"
+                    src={WhiteNoiseSound}
+                    loop
+                    controls
+                    style={soundStyles}
+                    volume={whiteNoiseVolume}
                 />
                 <ReactAudioPlayer
-                  src={WhiteNoiseSound}
-                  loop
-                  controls
-                  style={soundStyles}
-                  volume={whiteNoiseVolume}
+                    id="whiteNoiseAudioPlayer3"
+                    src={WhiteNoiseSound}
+                    loop
+                    controls
+                    style={soundStyles}
+                    volume={whiteNoiseVolume}
                 />
                 <ReactAudioPlayer
-                  src={WhiteNoiseSound}
-                  loop
-                  controls
-                  style={soundStyles}
-                  volume={whiteNoiseVolume}
+                    id="whiteNoiseAudioPlayer4"
+                    src={WhiteNoiseSound}
+                    loop
+                    controls
+                    style={soundStyles}
+                    volume={whiteNoiseVolume}
                 />
                 <ReactAudioPlayer
-                  src={WhiteNoiseSound}
-                  loop
-                  controls
-                  style={soundStyles}
-                  volume={whiteNoiseVolume}
+                    id="whiteNoiseAudioPlayer5"
+                    src={WhiteNoiseSound}
+                    loop
+                    controls
+                    style={soundStyles}
+                    volume={whiteNoiseVolume}
                 />
             </CardContent>
         </Card>

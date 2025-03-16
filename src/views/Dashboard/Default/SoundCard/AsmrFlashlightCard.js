@@ -10,19 +10,8 @@ const soundStyles = {
     width: '285px',
 };
 
-// function getRandomArbitrary(min, max) {
-//     return Math.random() * (max - min) + min;
-// }
-
 const AsmrFlashlightCard = (props) => {
     const theme = useTheme();
-
-    // React.useEffect(() => {
-    //   // player total time 18:59 === 1139 seconds
-    //   const fAPlayer = document.getElementById("firstAudioPlayer");
-    //   fAPlayer.currentTime = getRandomArbitrary(0, 1140);
-    //   // console.log(fAPlayer.currentTime);
-    // }, []);
 
     return (
         <Card>
@@ -39,49 +28,49 @@ const AsmrFlashlightCard = (props) => {
                   <Grid item xs={12}>
                       <Grid container alignItems="center" spacing={1}>
                           <Grid item xs={12}>
-                            <label>
-                              ASMR Bright Light Triggers *Click Sounds* 
-                              Gentle Eye Tests & Instructions <i>(64kbps)</i>
-                            </label>
-                            <ReactAudioPlayer
-                              // id="firstAudioPlayer"
-                              src={AsmrFlashlightSound}
-                              loop
-                              controls
-                              style={soundStyles}
-                            />
+                              <label>
+                                  ASMR Bright Light Triggers *Click Sounds* 
+                                  Gentle Eye Tests & Instructions <i>(64kbps)</i>
+                              </label>
+                              <ReactAudioPlayer
+                                  // id="firstAudioPlayer"
+                                  src={AsmrFlashlightSound}
+                                  loop
+                                  controls
+                                  style={soundStyles}
+                              />
                           </Grid>
                       </Grid>
                   </Grid>
                   <Grid item xs={12}>
                       <Grid container alignItems="center" spacing={1}>
                           <Grid item xs={12}>
-                            <label>
-                              ASMR Bright Light Triggers *Click Sounds* 
-                              Gentle Eye Tests & Instructions <i>(64kbps)</i>
-                            </label>
-                            <ReactAudioPlayer
-                              src={AsmrFlashlightSound}
-                              loop
-                              controls
-                              style={soundStyles}
-                            />
+                              <label>
+                                ASMR Bright Light Triggers *Click Sounds* 
+                                Gentle Eye Tests & Instructions <i>(64kbps)</i>
+                              </label>
+                              <ReactAudioPlayer
+                                  src={AsmrFlashlightSound}
+                                  loop
+                                  controls
+                                  style={soundStyles}
+                              />
                           </Grid>
                       </Grid>
                   </Grid>
                   <Grid item xs={12}>
                       <Grid container alignItems="center" spacing={1}>
                           <Grid item xs={12}>
-                            <label>
-                              ASMR Bright Light Triggers *Click Sounds* 
-                              Gentle Eye Tests & Instructions <i>(64kbps)</i>
-                            </label>
-                            <ReactAudioPlayer
-                              src={AsmrFlashlightSound}
-                              loop
-                              controls
-                              style={soundStyles}
-                            />
+                              <label>
+                                ASMR Bright Light Triggers *Click Sounds* 
+                                Gentle Eye Tests & Instructions <i>(64kbps)</i>
+                              </label>
+                              <ReactAudioPlayer
+                                src={AsmrFlashlightSound}
+                                loop
+                                controls
+                                style={soundStyles}
+                              />
                           </Grid>
                       </Grid>
                   </Grid>
