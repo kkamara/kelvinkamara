@@ -34,7 +34,7 @@ const ApexChartCard = (props) => {
         fAPlayer4.currentTime = Math.floor(
             getRandomArbitrary(0, ptsdHealingLengthInSeconds * 60)
         );
-        const timer = setInterval(() => {
+        const interval = setInterval(() => {
             fAPlayer1.currentTime = Math.floor(
                 getRandomArbitrary(0, ptsdHealingLengthInSeconds * 60)
             );
@@ -48,7 +48,7 @@ const ApexChartCard = (props) => {
                 getRandomArbitrary(0, ptsdHealingLengthInSeconds * 60)
             );
         }, randomTimeIntervalMilliseconds);
-        return () => clearInterval(timer);
+        return () => clearInterval(interval);
     }, []);
 
     const theme = useTheme();

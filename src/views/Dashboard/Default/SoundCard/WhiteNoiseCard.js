@@ -47,7 +47,7 @@ const WhiteNoiseCard = (props) => {
         fAPlayer5.currentTime = Math.floor(
             getRandomArbitrary(0, whiteNoiseLengthInSeconds * 60)
         );
-        const timer = setInterval(() => {
+        const interval = setInterval(() => {
             fAPlayer1.currentTime = Math.floor(
                 getRandomArbitrary(0, whiteNoiseLengthInSeconds * 60)
             );
@@ -64,7 +64,7 @@ const WhiteNoiseCard = (props) => {
                 getRandomArbitrary(0, whiteNoiseLengthInSeconds * 60)
             );
         }, randomTimeIntervalMilliseconds);
-        return () => clearInterval(timer);
+        return () => clearInterval(interval);
     }, []);
 
     const classes = useStyles();
