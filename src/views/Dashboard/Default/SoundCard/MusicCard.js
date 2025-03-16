@@ -51,12 +51,12 @@ const MusicCard = (props) => {
                         </Typography>
                     </Grid>
                     <Grid item>
-                      <ReactAudioPlayer
-                        src={MusicSound}
-                        loop
-                        controls
-                        style={soundStyles}
-                      />
+                        <ReactAudioPlayer
+                            src={MusicSound}
+                            loop
+                            controls
+                            style={soundStyles}
+                        />
                     </Grid>
                 </Grid>
             </CardContent>

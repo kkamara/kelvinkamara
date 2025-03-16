@@ -49,12 +49,12 @@ const AnnoyingSoundCard = (props) => {
                         </Typography>
                     </Grid>
                     <Grid item>
-                      <ReactAudioPlayer
-                        src={AnnoyingSound}
-                        loop
-                        controls
-                        style={soundStyles}
-                      />
+                        <ReactAudioPlayer
+                            src={AnnoyingSound}
+                            loop
+                            controls
+                            style={soundStyles}
+                        />
                     </Grid>
                 </Grid>
             </CardContent>

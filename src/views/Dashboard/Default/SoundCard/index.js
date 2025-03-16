@@ -6,11 +6,11 @@ import MusicRadioCard from './MusicRadioCard.js';
 import TalkingRadioCard from './TalkingRadioCard.js';
 import ApexChartCard from './ApexChartCard.js';
 export {
-  MusicCard,
-  WhiteNoiseCard,
-  AnnoyingSoundCard,
-  AnnoyingSound2Card,
-  MusicRadioCard,
-  TalkingRadioCard,
-  ApexChartCard,
+    MusicCard,
+    WhiteNoiseCard,
+    AnnoyingSoundCard,
+    AnnoyingSound2Card,
+    MusicRadioCard,
+    TalkingRadioCard,
+    ApexChartCard,
 };

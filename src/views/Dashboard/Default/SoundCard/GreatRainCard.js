@@ -28,26 +28,26 @@ const GreatRainCard = (props) => {
                   <Grid item xs={12}>
                       <Grid container alignItems="center" spacing={1}>
                           <Grid item xs={12}>
-                            <label>
-                              Great sound of rain in a tin roof <i>(64kbps)</i>
-                            </label>
-                            <ReactAudioPlayer
-                              src={GreatRainSound}
-                              loop
-                              controls
-                              style={soundStyles}
-                            />
+                              <label>
+                                  Great sound of rain in a tin roof <i>(64kbps)</i>
+                              </label>
+                              <ReactAudioPlayer
+                                  src={GreatRainSound}
+                                  loop
+                                  controls
+                                  style={soundStyles}
+                              />
                           </Grid>
                           <Grid item xs={12}>
-                            <label>
-                                Great sound of rain in a tin roof <i>(64kbps)</i>
-                            </label>
-                            <ReactAudioPlayer
-                              src={GreatRainSound}
-                              loop
-                              controls
-                              style={soundStyles}
-                            />
+                              <label>
+                                  Great sound of rain in a tin roof <i>(64kbps)</i>
+                              </label>
+                              <ReactAudioPlayer
+                                  src={GreatRainSound}
+                                  loop
+                                  controls
+                                  style={soundStyles}
+                              />
                           </Grid>
                       </Grid>
                   </Grid>
