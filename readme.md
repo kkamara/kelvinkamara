@@ -1,5 +1,3 @@
-The code for this repository can be found at [www.bitbucket.org/kkamara2/kelvinkamara](https://bitbucket.org/kkamara2/kelvinkamara)
-
 <img src="https://codedthemes.com/wp-content/uploads/edd/2022/05/Materially-ReactJS-Admin-Dashboard.webp" alt="Materially-ReactJS-Admin-Dashboard.webp" width=""/>
 
 <img src="https://github.com/kkamara/useful/blob/main/kelvinkamara.png?raw=true" alt="kelvinkamara.png" width=""/>
@@ -57,33 +55,13 @@ The Kelvin Kamara sound app planning design.
 
 ## Misc
 
-[See react boilerplate.](https://github.com/kkamara/react-boilerplate)
+[See Multi-Window Desktop App](https://github.com/kkamara/multi-window-desktop-app).
 
-[See Laravel 10 movies app.](https://github.com/kkamara/movies)
+[See ReactJS Boilerplate.](https://github.com/kkamara/react-boilerplate).
 
-[See Laravel 10 GDPR Users app.](https://github.com/kkamara/users-api-laravel-10-php-app-5)
+[See PHP ReactJS Boilerplate.](https://github.com/kkamara/php-reactjs-boilerplate).
 
-[See Github to Bitbucket Backup Repo Updater.](https://github.com/kkamara/ghbbupdater)
-
-[See CRM 2 Laravel 10.](https://github.com/kkamara/crm-2-laravel-10)
-
-[See laravel makefile](https://github.com/kkamara/laravel-makefile)
-
-[See Laravel 9 food nutrition facts search web app.](https://github.com/kkamara/food-nutrition-facts-search-web-app)
-
-[See crm.](https://github.com/kkamara/crm)
-
-[See php scraper.](https://github.com/kkamara/php-scraper)
-
-[See amazon scraper.](https://github.com/kkamara/amazon-scraper)
-
-[See python amazon scraper 2.](https://github.com/kkamara/selenium-py)
-
-[See wordpress.](https://github.com/kkamara/wordpress)
-
-[See php react boilerplate.](https://github.com/kkamara/php-react-boilerplate)
-
-[See node react boilerplate.](https://github.com/kkamara/node-react-boilerplate)
+[See Node ReactJS Boilerplate.](https://github.com/kkamara/nodejs-reactjs-boilerplate).
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
