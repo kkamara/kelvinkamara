@@ -14,7 +14,7 @@
 
 ## Download Latest
 
-* [Windows app v4.19.1](https://github.com/kkamara/kelvinkamara/releases).
+* [Windows app v4.20.0](https://github.com/kkamara/kelvinkamara/releases).
 
 ## Requirements
 
@@ -56,6 +56,12 @@ The Kelvin Kamara sound app planning design.
 ## Misc
 
 PTSD Healing (64kbps): https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?usp=sharing
+
+#### Detail
+
+The audio players that play atmospheric sound change time every 10 minutes.
+
+The audio players for [ASMR 1000+ TRIGGERS for People with Short Attention Span | 5 Secs per Sound to Fall Asleep Fast!](https://www.youtube.com/watch?v=mwxAqjwakeE&t=4804s&ab_channel=asmrzeitgeist) change time every 10 minutes, and the intro part never plays.
 
 [See Multi-Window Desktop App](https://github.com/kkamara/multi-window-desktop-app).
 

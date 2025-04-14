@@ -14,38 +14,38 @@ const soundStyles = {
 
 const ptsdHealingVolume = 0.10;
 
-const ptsdHealingLengthInSeconds = 60; // 1 hour
+const ptsdHealingLengthInMinutes = 60; // 1 hour
 
 const ApexChartCard = (props) => {
     useEffect(() => {
         const fAPlayer1 = document.getElementById("ptsdHealingAudioPlayer1");
         fAPlayer1.currentTime = Math.floor(
-            getRandomArbitrary(0, ptsdHealingLengthInSeconds * 60)
+            getRandomArbitrary(0, ptsdHealingLengthInMinutes * 60)
         );
         const fAPlayer2 = document.getElementById("ptsdHealingAudioPlayer2");
         fAPlayer2.currentTime = Math.floor(
-            getRandomArbitrary(0, ptsdHealingLengthInSeconds * 60)
+            getRandomArbitrary(0, ptsdHealingLengthInMinutes * 60)
         );
         const fAPlayer3 = document.getElementById("ptsdHealingAudioPlayer3");
         fAPlayer3.currentTime = Math.floor(
-            getRandomArbitrary(0, ptsdHealingLengthInSeconds * 60)
+            getRandomArbitrary(0, ptsdHealingLengthInMinutes * 60)
         );
         const fAPlayer4 = document.getElementById("ptsdHealingAudioPlayer4");
         fAPlayer4.currentTime = Math.floor(
-            getRandomArbitrary(0, ptsdHealingLengthInSeconds * 60)
+            getRandomArbitrary(0, ptsdHealingLengthInMinutes * 60)
         );
         const interval = setInterval(() => {
             fAPlayer1.currentTime = Math.floor(
-                getRandomArbitrary(0, ptsdHealingLengthInSeconds * 60)
+                getRandomArbitrary(0, ptsdHealingLengthInMinutes * 60)
             );
             fAPlayer2.currentTime = Math.floor(
-                getRandomArbitrary(0, ptsdHealingLengthInSeconds * 60)
+                getRandomArbitrary(0, ptsdHealingLengthInMinutes * 60)
             );
             fAPlayer3.currentTime = Math.floor(
-                getRandomArbitrary(0, ptsdHealingLengthInSeconds * 60)
+                getRandomArbitrary(0, ptsdHealingLengthInMinutes * 60)
             );
             fAPlayer4.currentTime = Math.floor(
-                getRandomArbitrary(0, ptsdHealingLengthInSeconds * 60)
+                getRandomArbitrary(0, ptsdHealingLengthInMinutes * 60)
             );
         }, randomTimeIntervalMilliseconds);
         return () => clearInterval(interval);
