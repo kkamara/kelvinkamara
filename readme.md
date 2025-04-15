@@ -61,7 +61,7 @@ PTSD Healing (64kbps): https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCP
 
 The audio players that play atmospheric sound change time every 10 minutes.
 
-The audio players for [ASMR 1000+ TRIGGERS for People with Short Attention Span | 5 Secs per Sound to Fall Asleep Fast!](https://www.youtube.com/watch?v=mwxAqjwakeE&t=4804s&ab_channel=asmrzeitgeist) change time every 10 minutes, and the intro part never plays.
+The audio players for [ASMR 1000+ TRIGGERS for People with Short Attention Span | 5 Secs per Sound to Fall Asleep Fast!](https://www.youtube.com/watch?v=mwxAqjwakeE&t=4804s&ab_channel=asmrzeitgeist) change time every 10 minutes, and the intro part never plays. There is an intro to this audio. It's where the creator of the audio talks for about 2 minutes. And that spoils the ambience. So we skip that in its entirety. The intro part is never played. Even though the audio time changes every 10 minutes.
 
 [See Multi-Window Desktop App](https://github.com/kkamara/multi-window-desktop-app).
 
