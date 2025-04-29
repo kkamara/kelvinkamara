@@ -14,7 +14,7 @@
 
 ## Download Latest
 
-* [Windows app v4.20.0](https://github.com/kkamara/kelvinkamara/releases).
+* [Windows app v4.21.0](https://github.com/kkamara/kelvinkamara/releases).
 
 ## Requirements
 
