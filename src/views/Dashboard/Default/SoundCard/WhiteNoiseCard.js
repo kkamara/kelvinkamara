@@ -3,7 +3,7 @@ import { useTheme } from '@material-ui/styles';
 import Chart from 'react-apexcharts';
 import EqualizerIcon from '@material-ui/icons/Equalizer';
 import ReactAudioPlayer from 'react-audio-player';
-import { getRandomArbitrary, } from '../../../Utils/Functions';
+import { randomIntFromInterval, } from '../../../Utils/Functions';
 import { randomTimeIntervalMilliseconds, } from '../../../Utils/Constants';
 
 import { Box, Card, CardContent, Grid, makeStyles, Typography } from '@material-ui/core';
@@ -32,66 +32,66 @@ const WhiteNoiseCard = (props) => {
     useEffect(() => {
         const fAPlayer1 = document.getElementById("whiteNoiseAudioPlayer1");
         fAPlayer1.currentTime = Math.floor(
-            getRandomArbitrary(
+            randomIntFromInterval(
                 whiteNoiseStartTimeInMinutes * 60,
                 whiteNoiseEndTimeInMinutes * 60,
             )
         );
         const fAPlayer2 = document.getElementById("whiteNoiseAudioPlayer2");
         fAPlayer2.currentTime = Math.floor(
-            getRandomArbitrary(
+            randomIntFromInterval(
                 whiteNoiseStartTimeInMinutes * 60,
                 whiteNoiseEndTimeInMinutes * 60,
             )
         );
         const fAPlayer3 = document.getElementById("whiteNoiseAudioPlayer3");
         fAPlayer3.currentTime = Math.floor(
-            getRandomArbitrary(
+            randomIntFromInterval(
                 whiteNoiseStartTimeInMinutes * 60,
                 whiteNoiseEndTimeInMinutes * 60,
             )
         );
         const fAPlayer4 = document.getElementById("whiteNoiseAudioPlayer4");
         fAPlayer4.currentTime = Math.floor(
-            getRandomArbitrary(
+            randomIntFromInterval(
                 whiteNoiseStartTimeInMinutes * 60,
                 whiteNoiseEndTimeInMinutes * 60,
             )
         );
         const fAPlayer5 = document.getElementById("whiteNoiseAudioPlayer5");
         fAPlayer5.currentTime = Math.floor(
-            getRandomArbitrary(
+            randomIntFromInterval(
                 whiteNoiseStartTimeInMinutes * 60,
                 whiteNoiseEndTimeInMinutes * 60,
             )
         );
         const interval = setInterval(() => {
             fAPlayer1.currentTime = Math.floor(
-                getRandomArbitrary(
+                randomIntFromInterval(
                     whiteNoiseStartTimeInMinutes * 60,
                     whiteNoiseEndTimeInMinutes * 60,
                 )
             );
             fAPlayer2.currentTime = Math.floor(
-                getRandomArbitrary(
+                randomIntFromInterval(
                     whiteNoiseStartTimeInMinutes * 60,
                     whiteNoiseEndTimeInMinutes * 60,
                 )
             );
             fAPlayer3.currentTime = Math.floor(
-                getRandomArbitrary(
+                randomIntFromInterval(
                     whiteNoiseStartTimeInMinutes * 60,
                     whiteNoiseEndTimeInMinutes * 60,
                 )
             );
             fAPlayer4.currentTime = Math.floor(
-                getRandomArbitrary(
+                randomIntFromInterval(
                     whiteNoiseStartTimeInMinutes * 60,
                     whiteNoiseEndTimeInMinutes * 60,
                 )
             );
             fAPlayer5.currentTime = Math.floor(
-                getRandomArbitrary(
+                randomIntFromInterval(
                     whiteNoiseStartTimeInMinutes * 60,
                     whiteNoiseEndTimeInMinutes * 60,
                 )

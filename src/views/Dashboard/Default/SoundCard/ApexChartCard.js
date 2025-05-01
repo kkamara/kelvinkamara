@@ -3,7 +3,7 @@ import Chart from 'react-apexcharts';
 import { useTheme } from '@material-ui/styles';
 import { Box, Card, CardContent, CardHeader, Divider, Hidden, Grid, Typography, useMediaQuery } from '@material-ui/core';
 import ReactAudioPlayer from 'react-audio-player';
-import { getRandomArbitrary, } from '../../../Utils/Functions';
+import { randomIntFromInterval, } from '../../../Utils/Functions';
 import { randomTimeIntervalMilliseconds, } from '../../../Utils/Constants';
 
 import ptsdHealing from '../../../../assets/audio/ptsd-healing.mp3';
@@ -20,32 +20,32 @@ const ApexChartCard = (props) => {
     useEffect(() => {
         const fAPlayer1 = document.getElementById("ptsdHealingAudioPlayer1");
         fAPlayer1.currentTime = Math.floor(
-            getRandomArbitrary(0, ptsdHealingLengthInMinutes * 60)
+            randomIntFromInterval(0, ptsdHealingLengthInMinutes * 60)
         );
         const fAPlayer2 = document.getElementById("ptsdHealingAudioPlayer2");
         fAPlayer2.currentTime = Math.floor(
-            getRandomArbitrary(0, ptsdHealingLengthInMinutes * 60)
+            randomIntFromInterval(0, ptsdHealingLengthInMinutes * 60)
         );
         const fAPlayer3 = document.getElementById("ptsdHealingAudioPlayer3");
         fAPlayer3.currentTime = Math.floor(
-            getRandomArbitrary(0, ptsdHealingLengthInMinutes * 60)
+            randomIntFromInterval(0, ptsdHealingLengthInMinutes * 60)
         );
         const fAPlayer4 = document.getElementById("ptsdHealingAudioPlayer4");
         fAPlayer4.currentTime = Math.floor(
-            getRandomArbitrary(0, ptsdHealingLengthInMinutes * 60)
+            randomIntFromInterval(0, ptsdHealingLengthInMinutes * 60)
         );
         const interval = setInterval(() => {
             fAPlayer1.currentTime = Math.floor(
-                getRandomArbitrary(0, ptsdHealingLengthInMinutes * 60)
+                randomIntFromInterval(0, ptsdHealingLengthInMinutes * 60)
             );
             fAPlayer2.currentTime = Math.floor(
-                getRandomArbitrary(0, ptsdHealingLengthInMinutes * 60)
+                randomIntFromInterval(0, ptsdHealingLengthInMinutes * 60)
             );
             fAPlayer3.currentTime = Math.floor(
-                getRandomArbitrary(0, ptsdHealingLengthInMinutes * 60)
+                randomIntFromInterval(0, ptsdHealingLengthInMinutes * 60)
             );
             fAPlayer4.currentTime = Math.floor(
-                getRandomArbitrary(0, ptsdHealingLengthInMinutes * 60)
+                randomIntFromInterval(0, ptsdHealingLengthInMinutes * 60)
             );
         }, randomTimeIntervalMilliseconds);
         return () => clearInterval(interval);
