@@ -12,6 +12,8 @@
 
 - Erm...
 
+## Contents
+
 * [Download Latest](#download-latest)
 
 * [Requirements](#requirements)
