@@ -12,6 +12,22 @@
 
 - Erm...
 
+* [Download Latest](#download-latest)
+
+* [Requirements](#requirements)
+
+* [Installation](#installation)
+
+* [Usage](#usage)
+
+* [More](#more)
+
+* [Misc](#misc)
+
+* [Contributing](#contributing)
+
+* [License](#license)
+
 ## Download Latest
 
 * [Windows app v4.22.0](https://github.com/kkamara/kelvinkamara/releases).
@@ -32,6 +48,7 @@
   npm start
 ```
 
+<a name="building-target"></a>
 ## Building target: cross-platform
 
 ```bash
@@ -57,7 +74,7 @@ The Kelvin Kamara sound app planning design.
 
 The audio players that play atmospheric sound change time every 10 minutes.
 
-PTSD Healing (64kbps): https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?usp=sharing
+PTSD Healing (64 kbps): [link](https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?usp=sharing).
 
 [See Multi-Window Desktop App](https://github.com/kkamara/multi-window-desktop-app).
 
