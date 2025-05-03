@@ -22,6 +22,8 @@
 
 * [Usage](#usage)
 
+* [Building target: cross-platform](#building-target)
+
 * [More](#more)
 
 * [Misc](#misc)
