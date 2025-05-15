@@ -68,7 +68,7 @@ const Default = () => {
 
     return (
       <>
-        <Helmet><title>Kelvin Kamara - Soundscape, background noise app. To focus on your task and entertainment. ElectronJS, ReactJS 16.</title> </Helmet>
+        <Helmet><title>Kelvin Kamara Sound App</title> </Helmet>
         <Grid container spacing={gridSpacing}>
             <Grid item xs={12}>
                 <Grid container spacing={gridSpacing}>
