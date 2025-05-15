@@ -1,6 +1,6 @@
 <img src="https://codedthemes.com/wp-content/uploads/edd/2022/05/Materially-ReactJS-Admin-Dashboard.webp" alt="Materially-ReactJS-Admin-Dashboard.webp" width=""/>
 
-<img src="https://github.com/kkamara/useful/blob/main/kelvinkamara.png?raw=true" alt="kelvinkamara.png" width=""/>
+<img src="https://github.com/kkamara/useful/blob/main/the-kelvin-kamara-sound-app.png?raw=true" alt="the-kelvin-kamara-sound-app.png" width=""/>
 
 # The Kelvin Kamara Sound App
 
