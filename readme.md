@@ -34,22 +34,23 @@
 
 ## Download Latest
 
-* [Windows app v4.22.0](https://github.com/kkamara/kelvinkamara/releases).
+* [Latest Windows app](https://github.com/kkamara/kelvinkamara/releases).
 
 ## Requirements
 
-* [NodeJS v14.21.3](https://nodejs.org/en/blog/release/v14.21.3) (comes with [NPM](https://www.npmjs.com/)).
+* [NodeJS](https://nodejs.org).
 
 ## Installation
 
 ```bash
-  npm install
+  npm install --global yarn
+  yarn install
 ```
 
 ## Usage
 
 ```bash
-  npm start
+  yarn start
 ```
 
 <a name="building-target"></a>
@@ -57,7 +58,7 @@
 
 ```bash
   # --linux --win --mac --x64 --ia32
-  npm run build
+  yarn build
 ```
 
 ## More
@@ -78,15 +79,7 @@ The Kelvin Kamara sound app planning design.
 
 The audio players that play atmospheric sound change time every 10 minutes.
 
-PTSD Healing (64 kbps): [link](https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?usp=sharing).
-
-[See Multi-Window Desktop App](https://github.com/kkamara/multi-window-desktop-app).
-
-[See ReactJS Boilerplate.](https://github.com/kkamara/react-boilerplate).
-
-[See PHP ReactJS Boilerplate.](https://github.com/kkamara/php-reactjs-boilerplate).
-
-[See Node ReactJS Boilerplate.](https://github.com/kkamara/nodejs-reactjs-boilerplate).
+PTSD Healing download (64 kbps): [link](https://drive.google.com/file/d/1VXYLEFUG6GB8jz-0f9cRcvCPje2EZSOB/view?usp=sharing).
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

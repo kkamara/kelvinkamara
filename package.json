@@ -14,9 +14,9 @@
     "react-build": "react-scripts build",
     "react-test": "react-scripts test --env=jsdom",
     "react-eject": "react-scripts eject",
-    "release": "electron-builder --win --x64 --publish never",
-    "build": "npm run react-build && npm run release",
-    "start": "concurrently \"cross-env BROWSER=none npm run react-start\" \"wait-on http://localhost:3000 && electron .\""
+    "release": "cross-env NODE_OPTIONS=--openssl-legacy-provider electron-builder --win --x64 --publish never",
+    "build": "cross-env NODE_OPTIONS=--openssl-legacy-provider npm run react-build && npm run release",
+    "start": "concurrently \"cross-env BROWSER=none NODE_OPTIONS=--openssl-legacy-provider npm run react-start\" \"wait-on http://localhost:3000 && electron .\""
   },
   "dependencies": {
     "@auth0/auth0-spa-js": "^1.11.0",
