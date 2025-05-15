@@ -2,15 +2,9 @@
 
 <img src="https://github.com/kkamara/useful/blob/main/kelvinkamara.png?raw=true" alt="kelvinkamara.png" width=""/>
 
-# Kelvin Kamara
+# The Kelvin Kamara Sound App
 
-(05-Apr-2023) Soundscape, background noise app. To focus on your task and entertainment. Electronjs, Reactjs 16.
-
-- We can do it and it's not just do it.
-
-- What are they tryna tell you?
-
-- Erm...
+(05-Apr-2023) The Kelvin Kamara sound app is a background noise app. Made with ReactJS 16 and ElectronJS.
 
 ## Contents
 

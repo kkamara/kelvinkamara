@@ -1,9 +1,9 @@
 {
-  "name": "kelvinkamara",
+  "name": "the-kelvin-kamara-sound-app",
   "version": "4.26.0",
   "author": "https://www.github.com/kkamara",
   "private": true,
-  "description": "(05-Apr-2023) Soundscape, background noise app. To focus on your task and entertainment. ElectronJS, ReactJS 16.",
+  "description": "(05-Apr-2023) The Kelvin Kamara sound app is a background noise app. Made with ReactJS 16 and ElectronJS.",
   "main": "public/electron.js",
   "homepage": "./",
   "build": {

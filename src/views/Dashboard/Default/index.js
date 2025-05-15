@@ -68,7 +68,7 @@ const Default = () => {
 
     return (
       <>
-        <Helmet><title>Kelvin Kamara Sound App</title> </Helmet>
+        <Helmet><title>The Kelvin Kamara Sound App</title> </Helmet>
         <Grid container spacing={gridSpacing}>
             <Grid item xs={12}>
                 <Grid container spacing={gridSpacing}>
