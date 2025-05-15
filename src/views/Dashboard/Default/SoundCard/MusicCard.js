@@ -7,6 +7,8 @@ import ReactAudioPlayer from 'react-audio-player';
 
 import MusicSound from '../../../../assets/audio/Upbeat-Study-Music-Cognition-Enhancer-Clearer-and-Faster-Thinking-64-kbps.mp3'
 
+const musicSoundVolume = 0.20;
+
 const useStyles = makeStyles((theme) => ({
     secondary: {
         marginTop: '.5rem',
@@ -21,7 +23,7 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 const soundStyles = {
-    width: '200px',
+    width: '300px',
 };
 
 const MusicCard = (props) => {
@@ -56,6 +58,7 @@ const MusicCard = (props) => {
                             loop
                             controls
                             style={soundStyles}
+                            volume={musicSoundVolume}
                         />
                     </Grid>
                 </Grid>
