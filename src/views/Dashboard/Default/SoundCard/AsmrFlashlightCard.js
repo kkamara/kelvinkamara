@@ -18,7 +18,7 @@ const AsmrFlashlightCard = (props) => {
           <CardHeader
               title={
                   <Typography component="div" className="card-header">
-                      ASMR Flashlight Sound <i>(64kbps)</i>
+                      ASMR Flashlight Sound <i>(64 kbps)</i>
                   </Typography> 
               }
           />
@@ -30,7 +30,7 @@ const AsmrFlashlightCard = (props) => {
                           <Grid item xs={12}>
                               <label>
                                   ASMR Bright Light Triggers *Click Sounds* 
-                                  Gentle Eye Tests & Instructions <i>(64kbps)</i>
+                                  Gentle Eye Tests & Instructions <i>(64 kbps)</i>
                               </label>
                               <ReactAudioPlayer
                                   // id="firstAudioPlayer"
@@ -47,7 +47,7 @@ const AsmrFlashlightCard = (props) => {
                           <Grid item xs={12}>
                               <label>
                                 ASMR Bright Light Triggers *Click Sounds* 
-                                Gentle Eye Tests & Instructions <i>(64kbps)</i>
+                                Gentle Eye Tests & Instructions <i>(64 kbps)</i>
                               </label>
                               <ReactAudioPlayer
                                   src={AsmrFlashlightSound}
@@ -63,7 +63,7 @@ const AsmrFlashlightCard = (props) => {
                           <Grid item xs={12}>
                               <label>
                                 ASMR Bright Light Triggers *Click Sounds* 
-                                Gentle Eye Tests & Instructions <i>(64kbps)</i>
+                                Gentle Eye Tests & Instructions <i>(64 kbps)</i>
                               </label>
                               <ReactAudioPlayer
                                 src={AsmrFlashlightSound}
@@ -79,7 +79,7 @@ const AsmrFlashlightCard = (props) => {
                           <Grid item xs={12}>
                             <label>
                               ASMR Bright Light Triggers *Click Sounds* 
-                              Gentle Eye Tests & Instructions <i>(64kbps)</i>
+                              Gentle Eye Tests & Instructions <i>(64 kbps)</i>
                             </label>
                             <ReactAudioPlayer
                               src={AsmrFlashlightSound}
@@ -95,7 +95,7 @@ const AsmrFlashlightCard = (props) => {
                           <Grid item xs={12}>
                             <label>
                               ASMR Bright Light Triggers *Click Sounds* 
-                              Gentle Eye Tests & Instructions <i>(64kbps)</i>
+                              Gentle Eye Tests & Instructions <i>(64 kbps)</i>
                             </label>
                             <ReactAudioPlayer
                               src={AsmrFlashlightSound}
@@ -111,7 +111,7 @@ const AsmrFlashlightCard = (props) => {
                           <Grid item xs={12}>
                             <label>
                               ASMR Bright Light Triggers *Click Sounds* 
-                              Gentle Eye Tests & Instructions <i>(64kbps)</i>
+                              Gentle Eye Tests & Instructions <i>(64 kbps)</i>
                             </label>
                             <ReactAudioPlayer
                               src={AsmrFlashlightSound}
@@ -127,7 +127,7 @@ const AsmrFlashlightCard = (props) => {
                           <Grid item xs={12}>
                             <label>
                               ASMR Bright Light Triggers *Click Sounds* 
-                              Gentle Eye Tests & Instructions <i>(64kbps)</i>
+                              Gentle Eye Tests & Instructions <i>(64 kbps)</i>
                             </label>
                             <ReactAudioPlayer
                               src={AsmrFlashlightSound}
@@ -143,7 +143,7 @@ const AsmrFlashlightCard = (props) => {
                           <Grid item xs={12}>
                             <label>
                               ASMR Bright Light Triggers *Click Sounds* 
-                              Gentle Eye Tests & Instructions <i>(64kbps)</i>
+                              Gentle Eye Tests & Instructions <i>(64 kbps)</i>
                             </label>
                             <ReactAudioPlayer
                               src={AsmrFlashlightSound}

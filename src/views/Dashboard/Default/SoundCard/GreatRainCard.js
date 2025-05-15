@@ -18,7 +18,7 @@ const GreatRainCard = (props) => {
                 component="div" 
                 className="card-header"
               >
-                Great Rain Sound <i>(64kbps)</i>
+                Great Rain Sound <i>(64 kbps)</i>
               </Typography>
             }
           />
@@ -29,7 +29,7 @@ const GreatRainCard = (props) => {
                       <Grid container alignItems="center" spacing={1}>
                           <Grid item xs={12}>
                               <label>
-                                  Great sound of rain in a tin roof <i>(64kbps)</i>
+                                  Great sound of rain in a tin roof <i>(64 kbps)</i>
                               </label>
                               <ReactAudioPlayer
                                   src={GreatRainSound}
@@ -40,7 +40,7 @@ const GreatRainCard = (props) => {
                           </Grid>
                           <Grid item xs={12}>
                               <label>
-                                  Great sound of rain in a tin roof <i>(64kbps)</i>
+                                  Great sound of rain in a tin roof <i>(64 kbps)</i>
                               </label>
                               <ReactAudioPlayer
                                   src={GreatRainSound}

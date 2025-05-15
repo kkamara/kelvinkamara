@@ -78,7 +78,7 @@ const ApexChartCard = (props) => {
                     <Grid container direction={matchDownMd && !matchDownXs ? 'row' : 'column'}>
                         <label>
                             10 Hours of Rain Sound Relaxation / Ultimate Stress Relief,
-                            Deep Sleep, Meditation, Yoga,... <i>(64kbps)</i>
+                            Deep Sleep, Meditation, Yoga,... <i>(64 kbps)</i>
                         </label>
                         <ReactAudioPlayer
                             id="tenHoursOfRainAudioPlayer1"

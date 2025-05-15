@@ -41,7 +41,7 @@ const MusicRadioCard = (props) => {
                             Annoying Sound
                         </Typography>
                         <Typography variant="subtitle1" className={classes.secondary}>
-                            The most annoying sound 1 hour <i>(64kbps)</i>
+                            The most annoying sound 1 hour <i>(64 kbps)</i>
                         </Typography>
                     </Grid>
                     <Grid item>
