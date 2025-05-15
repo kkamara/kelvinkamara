@@ -44,7 +44,7 @@ const MusicCard = (props) => {
                         </Typography>
                         <Typography variant="subtitle1" className={classes.secondary}>
                             Upbeat Study Music, Cognition Enhancer, 
-                            Clearer and Faster Thinking <i>(64kbps)</i>
+                            Clearer and Faster Thinking <i>(64 kbps)</i>
                         </Typography>
                     </Grid>
                     <Grid item>
