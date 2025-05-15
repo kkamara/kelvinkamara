@@ -1,56 +1,18 @@
-import React, { useEffect, } from 'react';
+import React from 'react';
 import Chart from 'react-apexcharts';
 import { useTheme } from '@material-ui/styles';
 import { Box, Card, CardContent, CardHeader, Divider, Hidden, Grid, Typography, useMediaQuery } from '@material-ui/core';
 import ReactAudioPlayer from 'react-audio-player';
-import { randomIntFromInterval, } from '../../../Utils/Functions';
-import { randomTimeIntervalMilliseconds, } from '../../../Utils/Constants';
 
-import ptsdHealing from '../../../../assets/audio/ptsd-healing.mp3';
+import tenHoursOfRain from '../../../../assets/audio/10-Hours-of-Rain-Sound-Relaxation-Ultimate-Stress-Relief-Deep-Sleep-Meditation-Yoga-64-kbps.mp3';
 
 const soundStyles = {
     width: '100%',
 };
 
-const ptsdHealingVolume = 0.10;
-
-const ptsdHealingLengthInMinutes = 60; // 1 hour
+const tenHoursOfRainVolume = 0.75;
 
 const ApexChartCard = (props) => {
-    useEffect(() => {
-        const fAPlayer1 = document.getElementById("ptsdHealingAudioPlayer1");
-        fAPlayer1.currentTime = Math.floor(
-            randomIntFromInterval(0, ptsdHealingLengthInMinutes * 60)
-        );
-        const fAPlayer2 = document.getElementById("ptsdHealingAudioPlayer2");
-        fAPlayer2.currentTime = Math.floor(
-            randomIntFromInterval(0, ptsdHealingLengthInMinutes * 60)
-        );
-        const fAPlayer3 = document.getElementById("ptsdHealingAudioPlayer3");
-        fAPlayer3.currentTime = Math.floor(
-            randomIntFromInterval(0, ptsdHealingLengthInMinutes * 60)
-        );
-        const fAPlayer4 = document.getElementById("ptsdHealingAudioPlayer4");
-        fAPlayer4.currentTime = Math.floor(
-            randomIntFromInterval(0, ptsdHealingLengthInMinutes * 60)
-        );
-        const interval = setInterval(() => {
-            fAPlayer1.currentTime = Math.floor(
-                randomIntFromInterval(0, ptsdHealingLengthInMinutes * 60)
-            );
-            fAPlayer2.currentTime = Math.floor(
-                randomIntFromInterval(0, ptsdHealingLengthInMinutes * 60)
-            );
-            fAPlayer3.currentTime = Math.floor(
-                randomIntFromInterval(0, ptsdHealingLengthInMinutes * 60)
-            );
-            fAPlayer4.currentTime = Math.floor(
-                randomIntFromInterval(0, ptsdHealingLengthInMinutes * 60)
-            );
-        }, randomTimeIntervalMilliseconds);
-        return () => clearInterval(interval);
-    }, []);
-
     const theme = useTheme();
     const matchDownMd = useMediaQuery(theme.breakpoints.down('sm'));
     const matchDownXs = useMediaQuery(theme.breakpoints.down('xs'));
@@ -114,38 +76,17 @@ const ApexChartCard = (props) => {
                         </Grid>
                     </Grid>
                     <Grid container direction={matchDownMd && !matchDownXs ? 'row' : 'column'}>
-                        <label>PTSD Healing <i>(64kbps)</i></label>
+                        <label>
+                            10 Hours of Rain Sound Relaxation / Ultimate Stress Relief,
+                            Deep Sleep, Meditation, Yoga,... <i>(64kbps)</i>
+                        </label>
                         <ReactAudioPlayer
-                            id="ptsdHealingAudioPlayer1"
-                            src={ptsdHealing}
+                            id="tenHoursOfRainAudioPlayer1"
+                            src={tenHoursOfRain}
                             loop
                             controls
                             style={soundStyles}
-                            volume={ptsdHealingVolume}
-                        />
-                        <ReactAudioPlayer
-                            id="ptsdHealingAudioPlayer2"
-                            src={ptsdHealing}
-                            loop
-                            controls
-                            style={soundStyles}
-                            volume={ptsdHealingVolume}
-                        />
-                        <ReactAudioPlayer
-                            id="ptsdHealingAudioPlayer3"
-                            src={ptsdHealing}
-                            loop
-                            controls
-                            style={soundStyles}
-                            volume={ptsdHealingVolume}
-                        />
-                        <ReactAudioPlayer
-                            id="ptsdHealingAudioPlayer4"
-                            src={ptsdHealing}
-                            loop
-                            controls
-                            style={soundStyles}
-                            volume={ptsdHealingVolume}
+                            volume={tenHoursOfRainVolume}
                         />
                     </Grid>
                 </Grid>
